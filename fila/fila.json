@@ -1,0 +1,61 @@
+{
+ "nota": "Fila de peças. estado: pronto (criada, por agendar) | agendado | falhou. Cada entrada tem a legenda completa em 'legenda' quando estado=pronto.",
+ "pecas": [
+  {
+   "data": "2026-11-18",
+   "hora_lisboa": "10:30",
+   "tipo": "imagem",
+   "tema": "prevencao",
+   "assunto": "fatores de risco do cancro da próstata",
+   "fonte_site": "cancro-da-prostata-fatores-de-risco-sintomas",
+   "ficheiros": [
+    "img-prevencao-fatores-risco.jpg"
+   ],
+   "commit": "a30143734c0c3f913d15db65bd2089860ff90213",
+   "estado": "agendado",
+   "planable_ids": [
+    "AccNbwSv5uePgu3yz",
+    "dTKffmtKf6exnqHXP"
+   ]
+  },
+  {
+   "data": "2026-11-18",
+   "hora_lisboa": "14:00",
+   "tipo": "carrossel",
+   "tema": "tratamento",
+   "assunto": "vigilância ativa no cancro da próstata",
+   "fonte_site": "vigilancia-ativa-cancro-da-prostata",
+   "ficheiros": [
+    "car-tratamento-vigilancia-ativa-01.jpg",
+    "car-tratamento-vigilancia-ativa-02.jpg",
+    "car-tratamento-vigilancia-ativa-03.jpg",
+    "car-tratamento-vigilancia-ativa-04.jpg",
+    "car-tratamento-vigilancia-ativa-05.jpg",
+    "car-tratamento-vigilancia-ativa-06.jpg"
+   ],
+   "commit": "a30143734c0c3f913d15db65bd2089860ff90213",
+   "estado": "agendado",
+   "planable_ids": [
+    "cRWL7vGJpNSiAdT7b",
+    "QvNj9nEzpfnpkBsCj"
+   ]
+  },
+  {
+   "data": "2026-11-18",
+   "hora_lisboa": "19:30",
+   "tipo": "video",
+   "tema": "alimentacao",
+   "assunto": "peso e sintomas urinários",
+   "fonte_site": "cafe-alcool-liquidos-sintomas-urinarios",
+   "ficheiros": [
+    "vid-alimentacao-peso.mp4"
+   ],
+   "commit": "a30143734c0c3f913d15db65bd2089860ff90213",
+   "estado": "agendado",
+   "planable_ids": [
+    "3kpDrAkeiCf5r2CrA",
+    "2mZj5nPCCYyqQED3G"
+   ]
+  }
+ ]
+}
