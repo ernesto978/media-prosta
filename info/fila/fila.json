@@ -1,0 +1,944 @@
+{
+ "nota": "Fila Info Imobiliária. estado: pronto|agendado|falhou. Semana 10-16/11/2026 já agendada no Planable (sem aprovar).",
+ "ultimo_dia_agendado_ate": "2026-11-16",
+ "pecas": [
+  {
+   "data": "2026-11-10",
+   "scheduledAt_utc": "2026-11-10T10:15:00.000Z",
+   "tipo": "video",
+   "ficheiros": [
+    "infoimobiliaria-20261110-video-1.mp4"
+   ],
+   "legenda": "LTV é a percentagem da casa que o banco financia.\nNa habitação própria e permanente, o máximo costuma ser 90%.\nCasa de 250 000 €: financiamento até 225 000 € e entrada de 25 000 €.\nÀ entrada somam-se IMT, Selo e escritura.\nO banco usa o menor valor entre o preço e a avaliação.\n\ninfoimobiliaria.com\n(Link também na bio.)\n\nFonte: Info Imobiliária, página «LTV». Exemplo calculado por nós.\nInformação geral. Confirma com um advogado ou solicitador.\n\nInfo Imobiliária, by OMNI\n\n#créditohabitação #LTV #comprarcasa #imobiliário #infoimobiliária",
+   "stories": [
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261110-video-1.mp4"
+     ],
+     "scheduledAt_utc": "2026-11-10T10:40:00.000Z",
+     "nota": "reutiliza o mp4 (URL em infoimobiliaria.com/wp-content/uploads/2026/11/)"
+    }
+   ],
+   "estado": "agendado",
+   "stories_estado": "por agendar",
+   "hospedagem": "infoimobiliaria.com/wp-content/uploads/2026/11/ (feed); info/m/ (stories)",
+   "titulo_youtube": "LTV: quanto financia o banco?"
+  },
+  {
+   "data": "2026-11-10",
+   "scheduledAt_utc": "2026-11-10T13:30:00.000Z",
+   "tipo": "video",
+   "ficheiros": [
+    "infoimobiliaria-20261110-video-2.mp4"
+   ],
+   "legenda": "O Governo mostrou abertura a isentar de IRS as mais-valias da venda de segundas casas até 300 mil euros.\nÉ uma proposta, não uma regra.\nSeria um regime de três anos, com o comprador a usar a casa como habitação própria e permanente, em zona de pressão urbana.\nNada disto está em vigor.\nA informação vem sobretudo do relato do PS sobre a reunião de 5 de novembro.\n\ninfoimobiliaria.com\n(Link também na bio.)\n\nFonte: ECO (5/11/2026) e Jornal de Negócios (19/10/2026).\nInformação geral. Confirma com um advogado ou solicitador.\n\nInfo Imobiliária, by OMNI\n\n#maisvalias #OE2027 #vendercasa #imobiliário #infoimobiliária",
+   "stories": [
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261110-video-2.mp4"
+     ],
+     "scheduledAt_utc": "2026-11-10T13:55:00.000Z",
+     "nota": "reutiliza o mp4 (URL em infoimobiliaria.com/wp-content/uploads/2026/11/)"
+    }
+   ],
+   "estado": "agendado",
+   "stories_estado": "por agendar",
+   "hospedagem": "infoimobiliaria.com/wp-content/uploads/2026/11/ (feed); info/m/ (stories)",
+   "titulo_youtube": "Mais-valias: isenção na venda de segundas casas?"
+  },
+  {
+   "data": "2026-11-10",
+   "scheduledAt_utc": "2026-11-10T20:00:00.000Z",
+   "tipo": "video",
+   "ficheiros": [
+    "infoimobiliaria-20261110-video-3.mp4"
+   ],
+   "legenda": "Bolor e vidros embaciados? Começa por aqui.\nVentila todos os dias.\nUsa os extratores na cozinha e na casa de banho.\nTapa os tachos ao cozinhar.\nEvita secar roupa dentro de casa.\nAquece a casa de forma regular.\nA humidade relativa ideal anda entre 40% e 60%.\n\ninfoimobiliaria.com\n(Link também na bio.)\n\nFonte: Santander e Generali Tranquilidade.\n\nInfo Imobiliária, by OMNI\n\n#humidade #bolor #casaevida #dicasdecasa #infoimobiliária",
+   "stories": [
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261110-video-3.mp4"
+     ],
+     "scheduledAt_utc": "2026-11-10T20:25:00.000Z",
+     "nota": "reutiliza o mp4 (URL em infoimobiliaria.com/wp-content/uploads/2026/11/)"
+    }
+   ],
+   "estado": "agendado",
+   "stories_estado": "por agendar",
+   "hospedagem": "infoimobiliaria.com/wp-content/uploads/2026/11/ (feed); info/m/ (stories)",
+   "titulo_youtube": "Como evitar o bolor em casa"
+  },
+  {
+   "data": "2026-11-10",
+   "scheduledAt_utc": "2026-11-10T12:00:00.000Z",
+   "tipo": "carrossel",
+   "ficheiros": [
+    "infoimobiliaria-20261110-carrossel-1.jpg",
+    "infoimobiliaria-20261110-carrossel-2.jpg",
+    "infoimobiliaria-20261110-carrossel-3.jpg",
+    "infoimobiliaria-20261110-carrossel-4.jpg",
+    "infoimobiliaria-20261110-carrossel-5.jpg"
+   ],
+   "legenda": "3 documentos da casa que deves conhecer.\nLicença de utilização: autorização da câmara para usar a casa para o fim previsto.\nFicha técnica da habitação: obrigatória em casas licenciadas a partir de 30 de março de 2004.\nCertificado energético: classe de A+ a F, em regra válido 10 anos.\nGuarda este carrossel.\n\ninfoimobiliaria.com\n(Link também na bio.)\n\nFonte: Info Imobiliária, páginas «Licença de utilização», «Ficha técnica da habitação» e «Certificado energético».\nInformação geral. Confirma com um advogado ou solicitador.\n\nInfo Imobiliária, by OMNI\n\n#comprarcasa #vendercasa #documentos #imobiliário #infoimobiliária",
+   "stories": [
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261110-carrossel-1-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-11-10T12:30:00.000Z"
+    },
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261110-carrossel-2-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-11-10T12:42:00.000Z"
+    },
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261110-carrossel-3-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-11-10T12:54:00.000Z"
+    },
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261110-carrossel-4-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-11-10T13:06:00.000Z"
+    },
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261110-carrossel-5-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-11-10T13:18:00.000Z"
+    }
+   ],
+   "estado": "agendado",
+   "stories_estado": "por agendar",
+   "hospedagem": "infoimobiliaria.com/wp-content/uploads/2026/11/ (feed); info/m/ (stories)"
+  },
+  {
+   "data": "2026-11-10",
+   "scheduledAt_utc": "2026-11-10T16:30:00.000Z",
+   "tipo": "imagem",
+   "ficheiros": [
+    "infoimobiliaria-20261110-imagem.jpg"
+   ],
+   "legenda": "3,06%.\nÉ a taxa média dos novos créditos à habitação em setembro.\nFoi a sexta subida seguida.\nÉ uma média: a tua taxa depende do spread, do indexante e do prazo.\n\ninfoimobiliaria.com\n(Link também na bio.)\n\nFonte: Banco de Portugal, via ECO (2/11/2026).\n\nInfo Imobiliária, by OMNI\n\n#créditohabitação #juros #imobiliário #infoimobiliária",
+   "stories": [
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261110-imagem-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-11-10T17:00:00.000Z"
+    }
+   ],
+   "estado": "agendado",
+   "stories_estado": "por agendar",
+   "hospedagem": "infoimobiliaria.com/wp-content/uploads/2026/11/ (feed); info/m/ (stories)"
+  },
+  {
+   "data": "2026-11-11",
+   "scheduledAt_utc": "2026-11-11T09:45:00.000Z",
+   "tipo": "video",
+   "ficheiros": [
+    "infoimobiliaria-20261111-video-1.mp4"
+   ],
+   "legenda": "Lei do arrendamento: o que se sabe.\nA 2 de novembro, o ministro da Habitação disse que o Governo aceita as quatro propostas do Chega.\nA fonte não diz quais são, nem quando há votação.\nA proposta foi aprovada na generalidade a 30 de setembro e segue para a especialidade.\nNada mudou nos teus contratos. Continuam as regras atuais.\n\ninfoimobiliaria.com\n(Link também na bio.)\n\nFonte: ECO (2/11/2026) e DNoticias (30/9/2026).\nInformação geral. Confirma com um advogado ou solicitador.\n\nInfo Imobiliária, by OMNI\n\n#arrendamento #leidasrendas #senhorios #inquilinos #infoimobiliária",
+   "stories": [
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261111-video-1.mp4"
+     ],
+     "scheduledAt_utc": "2026-11-11T10:10:00.000Z",
+     "nota": "reutiliza o mp4 (URL em infoimobiliaria.com/wp-content/uploads/2026/11/)"
+    }
+   ],
+   "estado": "agendado",
+   "stories_estado": "por agendar",
+   "hospedagem": "infoimobiliaria.com/wp-content/uploads/2026/11/ (feed); info/m/ (stories)",
+   "titulo_youtube": "Lei do arrendamento: o que se sabe"
+  },
+  {
+   "data": "2026-11-11",
+   "scheduledAt_utc": "2026-11-11T14:15:00.000Z",
+   "tipo": "video",
+   "ficheiros": [
+    "infoimobiliaria-20261111-video-2.mp4"
+   ],
+   "legenda": "Casa de 250 000 € e LTV máximo de 90%.\nAvaliação de 250 000 €: financiamento até 225 000 € e entrada de 25 000 €.\nAvaliação de 235 000 €: financiamento até 211 500 € e entrada de 38 500 €.\nSão 13 500 € a mais de entrada.\nConta com margem.\n\ninfoimobiliaria.com\n(Link também na bio.)\n\nFonte: Info Imobiliária, página «Avaliação bancária». Exemplo calculado por nós.\nInformação geral. Confirma com um advogado ou solicitador.\n\nInfo Imobiliária, by OMNI\n\n#créditohabitação #avaliaçãobancária #comprarcasa #imobiliário #infoimobiliária",
+   "stories": [
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261111-video-2.mp4"
+     ],
+     "scheduledAt_utc": "2026-11-11T14:40:00.000Z",
+     "nota": "reutiliza o mp4 (URL em infoimobiliaria.com/wp-content/uploads/2026/11/)"
+    }
+   ],
+   "estado": "agendado",
+   "stories_estado": "por agendar",
+   "hospedagem": "infoimobiliaria.com/wp-content/uploads/2026/11/ (feed); info/m/ (stories)",
+   "titulo_youtube": "E se o banco avaliar a casa abaixo do preço?"
+  },
+  {
+   "data": "2026-11-11",
+   "scheduledAt_utc": "2026-11-11T19:30:00.000Z",
+   "tipo": "video",
+   "ficheiros": [
+    "infoimobiliaria-20261111-video-3.mp4"
+   ],
+   "legenda": "Erro comum: deixar a licença de utilização para o fim.\nSem ela, a escritura pode atrasar ou o banco pode recusar o crédito.\nConfirma também que o uso autorizado é habitação.\nPede a licença ao vendedor logo no início.\nEm casas muito antigas pode haver dispensa. Pergunta ao advogado ou ao solicitador.\n\ninfoimobiliaria.com\n(Link também na bio.)\n\nFonte: Info Imobiliária, página «Licença de utilização».\nInformação geral. Confirma com um advogado ou solicitador.\n\nInfo Imobiliária, by OMNI\n\n#comprarcasa #licençadeutilização #escritura #imobiliário #infoimobiliária",
+   "stories": [
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261111-video-3.mp4"
+     ],
+     "scheduledAt_utc": "2026-11-11T19:55:00.000Z",
+     "nota": "reutiliza o mp4 (URL em infoimobiliaria.com/wp-content/uploads/2026/11/)"
+    }
+   ],
+   "estado": "agendado",
+   "stories_estado": "por agendar",
+   "hospedagem": "infoimobiliaria.com/wp-content/uploads/2026/11/ (feed); info/m/ (stories)",
+   "titulo_youtube": "Erro comum: comprar casa sem a licença de utilização"
+  },
+  {
+   "data": "2026-11-11",
+   "scheduledAt_utc": "2026-11-11T11:30:00.000Z",
+   "tipo": "carrossel",
+   "ficheiros": [
+    "infoimobiliaria-20261111-carrossel-1.jpg",
+    "infoimobiliaria-20261111-carrossel-2.jpg",
+    "infoimobiliaria-20261111-carrossel-3.jpg",
+    "infoimobiliaria-20261111-carrossel-4.jpg",
+    "infoimobiliaria-20261111-carrossel-5.jpg"
+   ],
+   "legenda": "Humidade em casa: de onde vem?\nCondensação: vapor de água que se condensa em superfícies frias. É o tipo mais comum.\nHumidade ascendente: a água sobe do solo pelas paredes.\nInfiltração: a água entra por paredes, telhados, terraços, fissuras ou canos.\nGuarda este carrossel.\n\ninfoimobiliaria.com\n(Link também na bio.)\n\nFonte: Santander e Generali Tranquilidade.\n\nInfo Imobiliária, by OMNI\n\n#humidade #casaevida #dicasdecasa #infoimobiliária",
+   "stories": [
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261111-carrossel-1-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-11-11T12:00:00.000Z"
+    },
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261111-carrossel-2-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-11-11T12:12:00.000Z"
+    },
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261111-carrossel-3-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-11-11T12:24:00.000Z"
+    },
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261111-carrossel-4-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-11-11T12:36:00.000Z"
+    },
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261111-carrossel-5-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-11-11T12:48:00.000Z"
+    }
+   ],
+   "estado": "agendado",
+   "stories_estado": "por agendar",
+   "hospedagem": "infoimobiliaria.com/wp-content/uploads/2026/11/ (feed); info/m/ (stories)"
+  },
+  {
+   "data": "2026-11-11",
+   "scheduledAt_utc": "2026-11-11T17:00:00.000Z",
+   "tipo": "imagem",
+   "ficheiros": [
+    "infoimobiliaria-20261111-imagem.jpg"
+   ],
+   "legenda": "O que é o VPT?\nÉ o valor fiscal do imóvel, calculado pela Autoridade Tributária.\nEstá na caderneta predial.\nO IMI calcula-se sobre o VPT.\nO IMT calcula-se sobre o mais alto entre o preço e o VPT.\n\ninfoimobiliaria.com\n(Link também na bio.)\n\nFonte: Info Imobiliária, página «VPT».\nInformação geral. Confirma com um advogado ou solicitador.\n\nInfo Imobiliária, by OMNI\n\n#VPT #IMI #IMT #imobiliário #infoimobiliária",
+   "stories": [
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261111-imagem-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-11-11T17:30:00.000Z"
+    }
+   ],
+   "estado": "agendado",
+   "stories_estado": "por agendar",
+   "hospedagem": "infoimobiliaria.com/wp-content/uploads/2026/11/ (feed); info/m/ (stories)"
+  },
+  {
+   "data": "2026-11-12",
+   "scheduledAt_utc": "2026-11-12T10:45:00.000Z",
+   "tipo": "video",
+   "ficheiros": [
+    "infoimobiliaria-20261112-video-1.mp4"
+   ],
+   "legenda": "O Chega quer voltar a permitir a dedução dos juros do crédito habitação no IRS.\nHoje só deduzem os contratos celebrados até 31 de dezembro de 2011: 15% dos juros, com limite geral de 296 €.\nA proposta é estender a dedução a contratos posteriores a 2011.\nÉ uma proposta para o OE2027, ainda sem aprovação.\n\ninfoimobiliaria.com\n(Link também na bio.)\n\nFonte: ComparaJá (6/11/2026).\nInformação geral. Confirma com um advogado ou solicitador.\n\nInfo Imobiliária, by OMNI\n\n#IRS #OE2027 #créditohabitação #imobiliário #infoimobiliária",
+   "stories": [
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261112-video-1.mp4"
+     ],
+     "scheduledAt_utc": "2026-11-12T11:10:00.000Z",
+     "nota": "reutiliza o mp4 (URL em infoimobiliaria.com/wp-content/uploads/2026/11/)"
+    }
+   ],
+   "estado": "agendado",
+   "stories_estado": "por agendar",
+   "hospedagem": "infoimobiliaria.com/wp-content/uploads/2026/11/ (feed); info/m/ (stories)",
+   "titulo_youtube": "Juros do crédito habitação no IRS: a proposta do Chega"
+  },
+  {
+   "data": "2026-11-12",
+   "scheduledAt_utc": "2026-11-12T13:00:00.000Z",
+   "tipo": "video",
+   "ficheiros": [
+    "infoimobiliaria-20261112-video-2.mp4"
+   ],
+   "legenda": "Podes desistir da compra depois de pagar o sinal.\nO que não podes é desistir sem consequências.\nSe desistires, perdes o sinal. Se for o vendedor, devolve-o em dobro.\nA lei não fixa o valor do sinal. Na prática anda entre 10% e 20% do preço.\nSe o banco recusar o crédito, só recuperas o sinal se o CPCV tiver cláusula de financiamento.\n\ninfoimobiliaria.com\n(Link também na bio.)\n\nFonte: Info Imobiliária e Portal da Literacia Financeira.\nInformação geral. Confirma com um advogado ou solicitador.\n\nInfo Imobiliária, by OMNI\n\n#CPCV #sinal #comprarcasa #imobiliário #infoimobiliária",
+   "stories": [
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261112-video-2.mp4"
+     ],
+     "scheduledAt_utc": "2026-11-12T13:25:00.000Z",
+     "nota": "reutiliza o mp4 (URL em infoimobiliaria.com/wp-content/uploads/2026/11/)"
+    }
+   ],
+   "estado": "agendado",
+   "stories_estado": "por agendar",
+   "hospedagem": "infoimobiliaria.com/wp-content/uploads/2026/11/ (feed); info/m/ (stories)",
+   "titulo_youtube": "Posso desistir da compra depois de pagar o sinal?"
+  },
+  {
+   "data": "2026-11-12",
+   "scheduledAt_utc": "2026-11-12T20:30:00.000Z",
+   "tipo": "video",
+   "ficheiros": [
+    "infoimobiliaria-20261112-video-3.mp4"
+   ],
+   "legenda": "Crédito de 150 000 €, 30 anos, taxa fixa.\nA 3,00%, a média de agosto: 632,41 € por mês.\nA 3,06%, a média de setembro: 637,27 € por mês.\nA 4,06%, um ponto a mais: 721,32 € por mês.\nSeis centésimas quase não se sentem. Um ponto já pesa.\n\ninfoimobiliaria.com\n(Link também na bio.)\n\nFonte: Banco de Portugal, via ECO (2/11/2026). Exemplo calculado por nós, sem seguros nem comissões.\n\nInfo Imobiliária, by OMNI\n\n#créditohabitação #juros #prestação #imobiliário #infoimobiliária",
+   "stories": [
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261112-video-3.mp4"
+     ],
+     "scheduledAt_utc": "2026-11-12T20:55:00.000Z",
+     "nota": "reutiliza o mp4 (URL em infoimobiliaria.com/wp-content/uploads/2026/11/)"
+    }
+   ],
+   "estado": "agendado",
+   "stories_estado": "por agendar",
+   "hospedagem": "infoimobiliaria.com/wp-content/uploads/2026/11/ (feed); info/m/ (stories)",
+   "titulo_youtube": "Os juros sobem: quanto pesa na prestação?"
+  },
+  {
+   "data": "2026-11-12",
+   "scheduledAt_utc": "2026-11-12T12:30:00.000Z",
+   "tipo": "carrossel",
+   "ficheiros": [
+    "infoimobiliaria-20261112-carrossel-1.jpg",
+    "infoimobiliaria-20261112-carrossel-2.jpg",
+    "infoimobiliaria-20261112-carrossel-3.jpg",
+    "infoimobiliaria-20261112-carrossel-4.jpg",
+    "infoimobiliaria-20261112-carrossel-5.jpg"
+   ],
+   "legenda": "Despejos por rendas em atraso: o que dizem os dados.\nCerca de 7 400 pedidos em cinco anos, face a 1,4 milhões de contratos comunicados às Finanças.\nDe janeiro a outubro de 2026: 2 181 pedidos.\nO processo demora em média 292 dias, quase dez meses.\nGuarda este carrossel.\n\ninfoimobiliaria.com\n(Link também na bio.)\n\nFonte: ECO (30/10/2026), com dados do Balcão do Arrendatário e do Senhorio.\n\nInfo Imobiliária, by OMNI\n\n#arrendamento #senhorios #inquilinos #imobiliário #infoimobiliária",
+   "stories": [
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261112-carrossel-1-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-11-12T13:00:00.000Z"
+    },
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261112-carrossel-2-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-11-12T13:12:00.000Z"
+    },
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261112-carrossel-3-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-11-12T13:24:00.000Z"
+    },
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261112-carrossel-4-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-11-12T13:36:00.000Z"
+    },
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261112-carrossel-5-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-11-12T13:48:00.000Z"
+    }
+   ],
+   "estado": "agendado",
+   "stories_estado": "por agendar",
+   "hospedagem": "infoimobiliaria.com/wp-content/uploads/2026/11/ (feed); info/m/ (stories)"
+  },
+  {
+   "data": "2026-11-12",
+   "scheduledAt_utc": "2026-11-12T15:45:00.000Z",
+   "tipo": "imagem",
+   "ficheiros": [
+    "infoimobiliaria-20261112-imagem.jpg"
+   ],
+   "legenda": "Humidade ideal dentro de casa: 40% a 60%.\nAbaixo de 40% o ar fica seco.\nAcima de 60% é mais fácil crescerem fungos.\nPodes medir com um higrómetro.\n\ninfoimobiliaria.com\n(Link também na bio.)\n\nFonte: Santander e Generali Tranquilidade.\n\nInfo Imobiliária, by OMNI\n\n#humidade #casaevida #dicasdecasa #infoimobiliária",
+   "stories": [
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261112-imagem-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-11-12T16:15:00.000Z"
+    }
+   ],
+   "estado": "agendado",
+   "stories_estado": "por agendar",
+   "hospedagem": "infoimobiliaria.com/wp-content/uploads/2026/11/ (feed); info/m/ (stories)"
+  },
+  {
+   "data": "2026-11-13",
+   "scheduledAt_utc": "2026-11-13T09:15:00.000Z",
+   "tipo": "video",
+   "ficheiros": [
+    "infoimobiliaria-20261113-video-1.mp4"
+   ],
+   "legenda": "Renda de 800 € por mês (exemplo hipotético).\nCom duas cauções: 1 600 €. Com a proposta de três: 2 400 €.\nHoje, o despejo por falta de pagamento pode começar com três rendas em atraso: 2 400 €.\nA proposta fala em dois meses: 1 600 €.\nÉ uma proposta em discussão. Em vigor continuam as regras atuais.\n\ninfoimobiliaria.com\n(Link também na bio.)\n\nFonte: ECO (2/11/2026) e DNoticias (30/9/2026). Exemplo calculado por nós.\nInformação geral. Confirma com um advogado ou solicitador.\n\nInfo Imobiliária, by OMNI\n\n#arrendamento #leidasrendas #senhorios #inquilinos #infoimobiliária",
+   "stories": [
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261113-video-1.mp4"
+     ],
+     "scheduledAt_utc": "2026-11-13T09:40:00.000Z",
+     "nota": "reutiliza o mp4 (URL em infoimobiliaria.com/wp-content/uploads/2026/11/)"
+    }
+   ],
+   "estado": "agendado",
+   "stories_estado": "por agendar",
+   "hospedagem": "infoimobiliaria.com/wp-content/uploads/2026/11/ (feed); info/m/ (stories)",
+   "titulo_youtube": "Arrendar: o que mudaria com a proposta?"
+  },
+  {
+   "data": "2026-11-13",
+   "scheduledAt_utc": "2026-11-13T14:45:00.000Z",
+   "tipo": "video",
+   "ficheiros": [
+    "infoimobiliaria-20261113-video-2.mp4"
+   ],
+   "legenda": "Hipoteca: a garantia do teu crédito habitação.\nO banco regista-a sobre a casa. Continuas a ser o dono e a viver lá.\nSe deixares de pagar, o banco pode cobrar e, no limite, vender o imóvel.\nAntes disso há procedimentos para renegociar.\nSe vês que não vais conseguir pagar, fala com o banco logo no início.\n\ninfoimobiliaria.com\n(Link também na bio.)\n\nFonte: Info Imobiliária, página «Hipoteca».\nInformação geral. Confirma com um advogado ou solicitador.\n\nInfo Imobiliária, by OMNI\n\n#hipoteca #créditohabitação #imobiliário #infoimobiliária",
+   "stories": [
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261113-video-2.mp4"
+     ],
+     "scheduledAt_utc": "2026-11-13T15:10:00.000Z",
+     "nota": "reutiliza o mp4 (URL em infoimobiliaria.com/wp-content/uploads/2026/11/)"
+    }
+   ],
+   "estado": "agendado",
+   "stories_estado": "por agendar",
+   "hospedagem": "infoimobiliaria.com/wp-content/uploads/2026/11/ (feed); info/m/ (stories)",
+   "titulo_youtube": "Hipoteca: o que é e o que acontece se não pagares"
+  },
+  {
+   "data": "2026-11-13",
+   "scheduledAt_utc": "2026-11-13T19:15:00.000Z",
+   "tipo": "video",
+   "ficheiros": [
+    "infoimobiliaria-20261113-video-3.mp4"
+   ],
+   "legenda": "Erro comum: limpar o bolor e achar que o problema acabou.\nLimpar resolve o sintoma, não a causa.\nProcura a origem: condensação, canos com fugas, caleiras entupidas, vedantes gastos.\nSe há fissuras e a humidade persiste, chama um especialista.\nFaz isto antes de impermeabilizar. Pode ser uma obra cara.\n\ninfoimobiliaria.com\n(Link também na bio.)\n\nFonte: Santander e Generali Tranquilidade.\n\nInfo Imobiliária, by OMNI\n\n#humidade #bolor #casaevida #dicasdecasa #infoimobiliária",
+   "stories": [
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261113-video-3.mp4"
+     ],
+     "scheduledAt_utc": "2026-11-13T19:40:00.000Z",
+     "nota": "reutiliza o mp4 (URL em infoimobiliaria.com/wp-content/uploads/2026/11/)"
+    }
+   ],
+   "estado": "agendado",
+   "stories_estado": "por agendar",
+   "hospedagem": "infoimobiliaria.com/wp-content/uploads/2026/11/ (feed); info/m/ (stories)",
+   "titulo_youtube": "Erro comum: limpar o bolor e achar que acabou"
+  },
+  {
+   "data": "2026-11-13",
+   "scheduledAt_utc": "2026-11-13T11:15:00.000Z",
+   "tipo": "carrossel",
+   "ficheiros": [
+    "infoimobiliaria-20261113-carrossel-1.jpg",
+    "infoimobiliaria-20261113-carrossel-2.jpg",
+    "infoimobiliaria-20261113-carrossel-3.jpg",
+    "infoimobiliaria-20261113-carrossel-4.jpg",
+    "infoimobiliaria-20261113-carrossel-5.jpg"
+   ],
+   "legenda": "Posso deduzir os juros do crédito no IRS?\nHoje só para contratos celebrados até 31 de dezembro de 2011: 15% dos juros.\nO limite geral é de 296 €, e pode chegar a 450 € para rendimentos mais baixos.\nO Chega propõe estender a dedução a contratos posteriores a 2011.\nÉ só uma proposta para o OE2027.\n\ninfoimobiliaria.com\n(Link também na bio.)\n\nFonte: ComparaJá (6/11/2026).\nInformação geral. Confirma com um advogado ou solicitador.\n\nInfo Imobiliária, by OMNI\n\n#IRS #OE2027 #créditohabitação #imobiliário #infoimobiliária",
+   "stories": [
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261113-carrossel-1-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-11-13T11:45:00.000Z"
+    },
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261113-carrossel-2-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-11-13T11:57:00.000Z"
+    },
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261113-carrossel-3-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-11-13T12:09:00.000Z"
+    },
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261113-carrossel-4-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-11-13T12:21:00.000Z"
+    },
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261113-carrossel-5-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-11-13T12:33:00.000Z"
+    }
+   ],
+   "estado": "agendado",
+   "stories_estado": "por agendar",
+   "hospedagem": "infoimobiliaria.com/wp-content/uploads/2026/11/ (feed); info/m/ (stories)"
+  },
+  {
+   "data": "2026-11-13",
+   "scheduledAt_utc": "2026-11-13T16:15:00.000Z",
+   "tipo": "imagem",
+   "ficheiros": [
+    "infoimobiliaria-20261113-imagem.jpg"
+   ],
+   "legenda": "Ficha técnica da habitação.\nÉ obrigatória em casas com licença de construção a partir de 30 de março de 2004.\nJá não é preciso apresentá-la na escritura.\nO vendedor deve entregá-la ao comprador.\n\ninfoimobiliaria.com\n(Link também na bio.)\n\nFonte: Info Imobiliária, página «Ficha técnica da habitação».\nInformação geral. Confirma com um advogado ou solicitador.\n\nInfo Imobiliária, by OMNI\n\n#comprarcasa #fichatécnica #imobiliário #infoimobiliária",
+   "stories": [
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261113-imagem-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-11-13T16:45:00.000Z"
+    }
+   ],
+   "estado": "agendado",
+   "stories_estado": "por agendar",
+   "hospedagem": "infoimobiliaria.com/wp-content/uploads/2026/11/ (feed); info/m/ (stories)"
+  },
+  {
+   "data": "2026-11-14",
+   "scheduledAt_utc": "2026-11-14T11:00:00.000Z",
+   "tipo": "video",
+   "ficheiros": [
+    "infoimobiliaria-20261114-video-1.mp4"
+   ],
+   "legenda": "Despejos por rendas em atraso: o que dizem os números.\nO processo demora em média 292 dias, quase dez meses.\nCerca de 7 400 pedidos em cinco anos, face a 1,4 milhões de contratos.\nAtenção: os 0,5% não são uma taxa anual e só cobrem as rendas em atraso.\nServem para a ordem de grandeza, não para calcular a probabilidade de te acontecer.\n\ninfoimobiliaria.com\n(Link também na bio.)\n\nFonte: ECO (30/10/2026), com dados do Balcão do Arrendatário e do Senhorio.\n\nInfo Imobiliária, by OMNI\n\n#arrendamento #senhorios #inquilinos #imobiliário #infoimobiliária",
+   "stories": [
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261114-video-1.mp4"
+     ],
+     "scheduledAt_utc": "2026-11-14T11:25:00.000Z",
+     "nota": "reutiliza o mp4 (URL em infoimobiliaria.com/wp-content/uploads/2026/11/)"
+    }
+   ],
+   "estado": "agendado",
+   "stories_estado": "por agendar",
+   "hospedagem": "infoimobiliaria.com/wp-content/uploads/2026/11/ (feed); info/m/ (stories)",
+   "titulo_youtube": "Despejos por rendas em atraso: o que dizem os números"
+  },
+  {
+   "data": "2026-11-14",
+   "scheduledAt_utc": "2026-11-14T15:00:00.000Z",
+   "tipo": "video",
+   "ficheiros": [
+    "infoimobiliaria-20261114-video-2.mp4"
+   ],
+   "legenda": "Certificado energético: a classe da tua casa, de A+ a F.\nÉ emitido por um perito qualificado.\nEm regra, vale 10 anos para habitação.\nÉ exigido na venda, no arrendamento e na publicidade.\nSe vais vender, trata dele cedo. Alguns peritos demoram.\n\ninfoimobiliaria.com\n(Link também na bio.)\n\nFonte: Info Imobiliária, página «Certificado energético».\nInformação geral. Confirma com um advogado ou solicitador.\n\nInfo Imobiliária, by OMNI\n\n#certificadoenergético #vendercasa #imobiliário #infoimobiliária",
+   "stories": [
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261114-video-2.mp4"
+     ],
+     "scheduledAt_utc": "2026-11-14T15:25:00.000Z",
+     "nota": "reutiliza o mp4 (URL em infoimobiliaria.com/wp-content/uploads/2026/11/)"
+    }
+   ],
+   "estado": "agendado",
+   "stories_estado": "por agendar",
+   "hospedagem": "infoimobiliaria.com/wp-content/uploads/2026/11/ (feed); info/m/ (stories)",
+   "titulo_youtube": "Certificado energético: classes e validade"
+  },
+  {
+   "data": "2026-11-14",
+   "scheduledAt_utc": "2026-11-14T20:15:00.000Z",
+   "tipo": "video",
+   "ficheiros": [
+    "infoimobiliaria-20261114-video-3.mp4"
+   ],
+   "legenda": "Pagaste o crédito? A hipoteca continua registada até ser cancelada.\n1. Paga o crédito, total ou o restante em dívida.\n2. Pede ao banco o documento de quitação.\n3. Pede o cancelamento no registo predial, online ou presencialmente.\nSe vais vender, pergunta ao banco como fazer o pagamento e o cancelamento no mesmo ato.\n\ninfoimobiliaria.com\n(Link também na bio.)\n\nFonte: Info Imobiliária, página «Distrate».\nInformação geral. Confirma com um advogado ou solicitador.\n\nInfo Imobiliária, by OMNI\n\n#distrate #hipoteca #vendercasa #imobiliário #infoimobiliária",
+   "stories": [
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261114-video-3.mp4"
+     ],
+     "scheduledAt_utc": "2026-11-14T20:40:00.000Z",
+     "nota": "reutiliza o mp4 (URL em infoimobiliaria.com/wp-content/uploads/2026/11/)"
+    }
+   ],
+   "estado": "agendado",
+   "stories_estado": "por agendar",
+   "hospedagem": "infoimobiliaria.com/wp-content/uploads/2026/11/ (feed); info/m/ (stories)",
+   "titulo_youtube": "Como cancelar a hipoteca depois de pagar o crédito"
+  },
+  {
+   "data": "2026-11-14",
+   "scheduledAt_utc": "2026-11-14T13:15:00.000Z",
+   "tipo": "carrossel",
+   "ficheiros": [
+    "infoimobiliaria-20261114-carrossel-1.jpg",
+    "infoimobiliaria-20261114-carrossel-2.jpg",
+    "infoimobiliaria-20261114-carrossel-3.jpg",
+    "infoimobiliaria-20261114-carrossel-4.jpg",
+    "infoimobiliaria-20261114-carrossel-5.jpg"
+   ],
+   "legenda": "Mais-valias: o que está em cima da mesa.\nProposta de isenção de IRS na venda de segundas casas até 300 mil euros, num regime de três anos.\nO comprador teria de usar a casa como habitação própria e permanente, em zona de pressão urbana.\nEntre 300 e 500 mil euros: tributação reduzida, sem taxa indicada nas fontes.\nAinda é só proposta.\n\ninfoimobiliaria.com\n(Link também na bio.)\n\nFonte: ECO (5/11/2026) e Jornal de Negócios (19/10/2026).\nInformação geral. Confirma com um advogado ou solicitador.\n\nInfo Imobiliária, by OMNI\n\n#maisvalias #OE2027 #vendercasa #imobiliário #infoimobiliária",
+   "stories": [
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261114-carrossel-1-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-11-14T13:45:00.000Z"
+    },
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261114-carrossel-2-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-11-14T13:57:00.000Z"
+    },
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261114-carrossel-3-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-11-14T14:09:00.000Z"
+    },
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261114-carrossel-4-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-11-14T14:21:00.000Z"
+    },
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261114-carrossel-5-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-11-14T14:33:00.000Z"
+    }
+   ],
+   "estado": "agendado",
+   "stories_estado": "por agendar",
+   "hospedagem": "infoimobiliaria.com/wp-content/uploads/2026/11/ (feed); info/m/ (stories)"
+  },
+  {
+   "data": "2026-11-14",
+   "scheduledAt_utc": "2026-11-14T17:30:00.000Z",
+   "tipo": "imagem",
+   "ficheiros": [
+    "infoimobiliaria-20261114-imagem.jpg"
+   ],
+   "legenda": "Casa de 250 000 €. Quanto financia o banco?\nCom LTV de 90%: 225 000 €.\nA entrada é de 25 000 €.\nAo valor da entrada somam-se IMT, Selo e escritura.\n\ninfoimobiliaria.com\n(Link também na bio.)\n\nFonte: Info Imobiliária, página «LTV». Exemplo calculado por nós.\nInformação geral. Confirma com um advogado ou solicitador.\n\nInfo Imobiliária, by OMNI\n\n#créditohabitação #LTV #comprarcasa #infoimobiliária",
+   "stories": [
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261114-imagem-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-11-14T18:00:00.000Z"
+    }
+   ],
+   "estado": "agendado",
+   "stories_estado": "por agendar",
+   "hospedagem": "infoimobiliaria.com/wp-content/uploads/2026/11/ (feed); info/m/ (stories)"
+  },
+  {
+   "data": "2026-11-15",
+   "scheduledAt_utc": "2026-11-15T10:30:00.000Z",
+   "tipo": "video",
+   "ficheiros": [
+    "infoimobiliaria-20261115-video-1.mp4"
+   ],
+   "legenda": "Exemplo: se a regra atual (15% dos juros, limite de 296 €) se aplicasse ao teu contrato.\nCom 2 400 € de juros: 15% são 360 €, mas a dedução fica em 296 €.\nCom 1 500 € de juros: 15% são 225 €, e a dedução é de 225 €.\nA proposta do Chega ainda não define estas regras.\n\ninfoimobiliaria.com\n(Link também na bio.)\n\nFonte: ComparaJá (6/11/2026). Exemplo calculado por nós.\nInformação geral. Confirma com um advogado ou solicitador.\n\nInfo Imobiliária, by OMNI\n\n#IRS #créditohabitação #OE2027 #imobiliário #infoimobiliária",
+   "stories": [
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261115-video-1.mp4"
+     ],
+     "scheduledAt_utc": "2026-11-15T10:55:00.000Z",
+     "nota": "reutiliza o mp4 (URL em infoimobiliaria.com/wp-content/uploads/2026/11/)"
+    }
+   ],
+   "estado": "agendado",
+   "stories_estado": "por agendar",
+   "hospedagem": "infoimobiliaria.com/wp-content/uploads/2026/11/ (feed); info/m/ (stories)",
+   "titulo_youtube": "Quanto poderias deduzir de juros no IRS?"
+  },
+  {
+   "data": "2026-11-15",
+   "scheduledAt_utc": "2026-11-15T14:00:00.000Z",
+   "tipo": "video",
+   "ficheiros": [
+    "infoimobiliaria-20261115-video-2.mp4"
+   ],
+   "legenda": "A avaliação do banco veio abaixo do preço? Não entres em pânico.\n1. O banco financia a percentagem da avaliação, e a diferença sai do teu bolso.\n2. Tenta renegociar o preço com o vendedor.\n3. Pede uma segunda avaliação a outro banco.\n4. Conta com uma entrada maior do que a prevista.\n\ninfoimobiliaria.com\n(Link também na bio.)\n\nFonte: Info Imobiliária, página «Avaliação bancária».\nInformação geral. Confirma com um advogado ou solicitador.\n\nInfo Imobiliária, by OMNI\n\n#avaliaçãobancária #créditohabitação #comprarcasa #imobiliário #infoimobiliária",
+   "stories": [
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261115-video-2.mp4"
+     ],
+     "scheduledAt_utc": "2026-11-15T14:25:00.000Z",
+     "nota": "reutiliza o mp4 (URL em infoimobiliaria.com/wp-content/uploads/2026/11/)"
+    }
+   ],
+   "estado": "agendado",
+   "stories_estado": "por agendar",
+   "hospedagem": "infoimobiliaria.com/wp-content/uploads/2026/11/ (feed); info/m/ (stories)",
+   "titulo_youtube": "A avaliação do banco veio baixa: o que fazer?"
+  },
+  {
+   "data": "2026-11-15",
+   "scheduledAt_utc": "2026-11-15T19:00:00.000Z",
+   "tipo": "video",
+   "ficheiros": [
+    "infoimobiliaria-20261115-video-3.mp4"
+   ],
+   "legenda": "Antes de assinar, pergunta ao vendedor.\nTens a licença de utilização?\nTens o certificado energético?\nHá hipotecas por cancelar? Vê na certidão permanente.\nA casa foi licenciada depois de março de 2004? Pede a ficha técnica.\n\ninfoimobiliaria.com\n(Link também na bio.)\n\nFonte: Info Imobiliária, páginas «Licença de utilização», «Certificado energético», «Distrate» e «Ficha técnica da habitação».\nInformação geral. Confirma com um advogado ou solicitador.\n\nInfo Imobiliária, by OMNI\n\n#comprarcasa #checklist #escritura #imobiliário #infoimobiliária",
+   "stories": [
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261115-video-3.mp4"
+     ],
+     "scheduledAt_utc": "2026-11-15T19:25:00.000Z",
+     "nota": "reutiliza o mp4 (URL em infoimobiliaria.com/wp-content/uploads/2026/11/)"
+    }
+   ],
+   "estado": "agendado",
+   "stories_estado": "por agendar",
+   "hospedagem": "infoimobiliaria.com/wp-content/uploads/2026/11/ (feed); info/m/ (stories)",
+   "titulo_youtube": "Antes de comprar casa, pergunta isto ao vendedor"
+  },
+  {
+   "data": "2026-11-15",
+   "scheduledAt_utc": "2026-11-15T12:15:00.000Z",
+   "tipo": "carrossel",
+   "ficheiros": [
+    "infoimobiliaria-20261115-carrossel-1.jpg",
+    "infoimobiliaria-20261115-carrossel-2.jpg",
+    "infoimobiliaria-20261115-carrossel-3.jpg",
+    "infoimobiliaria-20261115-carrossel-4.jpg",
+    "infoimobiliaria-20261115-carrossel-5.jpg"
+   ],
+   "legenda": "Lei do arrendamento: onde estamos.\n30 de setembro: proposta aprovada na generalidade.\nPrevê despejo ao fim de dois meses de renda em atraso (hoje são três), três cauções em vez de duas e o fim do processo separado de execução.\n2 de novembro: o Governo diz aceitar as quatro propostas do Chega.\nNada mudou nos teus contratos.\n\ninfoimobiliaria.com\n(Link também na bio.)\n\nFonte: ECO (2/11/2026) e DNoticias (30/9/2026).\nInformação geral. Confirma com um advogado ou solicitador.\n\nInfo Imobiliária, by OMNI\n\n#arrendamento #leidasrendas #senhorios #inquilinos #infoimobiliária",
+   "stories": [
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261115-carrossel-1-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-11-15T12:45:00.000Z"
+    },
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261115-carrossel-2-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-11-15T12:57:00.000Z"
+    },
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261115-carrossel-3-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-11-15T13:09:00.000Z"
+    },
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261115-carrossel-4-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-11-15T13:21:00.000Z"
+    },
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261115-carrossel-5-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-11-15T13:33:00.000Z"
+    }
+   ],
+   "estado": "agendado",
+   "stories_estado": "por agendar",
+   "hospedagem": "infoimobiliaria.com/wp-content/uploads/2026/11/ (feed); info/m/ (stories)"
+  },
+  {
+   "data": "2026-11-15",
+   "scheduledAt_utc": "2026-11-15T16:00:00.000Z",
+   "tipo": "imagem",
+   "ficheiros": [
+    "infoimobiliaria-20261115-imagem.jpg"
+   ],
+   "legenda": "Certificado energético: de A+ a F.\nEm regra, vale 10 anos para habitação.\nA classe deve constar no anúncio de venda ou de arrendamento.\nInfluencia as contas de eletricidade e gás.\n\ninfoimobiliaria.com\n(Link também na bio.)\n\nFonte: Info Imobiliária, página «Certificado energético».\n\nInfo Imobiliária, by OMNI\n\n#certificadoenergético #casaevida #imobiliário #infoimobiliária",
+   "stories": [
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261115-imagem-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-11-15T16:30:00.000Z"
+    }
+   ],
+   "estado": "agendado",
+   "stories_estado": "por agendar",
+   "hospedagem": "infoimobiliaria.com/wp-content/uploads/2026/11/ (feed); info/m/ (stories)"
+  },
+  {
+   "data": "2026-11-16",
+   "scheduledAt_utc": "2026-11-16T09:30:00.000Z",
+   "tipo": "video",
+   "ficheiros": [
+    "infoimobiliaria-20261116-video-1.mp4"
+   ],
+   "legenda": "Exemplo hipotético: casa comprada em 2019 por 200 000 € e vendida por 280 000 €.\nSem correção, a mais-valia seria de 80 000 €.\nCom um coeficiente de 1,20, o valor de compra passa a 240 000 €.\nA mais-valia fica em 40 000 €.\nFaz a tua conta na calculadora do site.\n\ninfoimobiliaria.com\n(Link também na bio.)\n\nFonte: Info Imobiliária. Exemplo calculado por nós, com pressupostos hipotéticos.\nInformação geral. Confirma com um advogado ou solicitador.\n\nInfo Imobiliária, by OMNI\n\n#maisvalias #vendercasa #IRS #imobiliário #infoimobiliária",
+   "stories": [
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261116-video-1.mp4"
+     ],
+     "scheduledAt_utc": "2026-11-16T09:55:00.000Z",
+     "nota": "reutiliza o mp4 (URL em infoimobiliaria.com/wp-content/uploads/2026/11/)"
+    }
+   ],
+   "estado": "agendado",
+   "stories_estado": "por agendar",
+   "hospedagem": "infoimobiliaria.com/wp-content/uploads/2026/11/ (feed); info/m/ (stories)",
+   "titulo_youtube": "Mais-valias: quanto conta a correção monetária?"
+  },
+  {
+   "data": "2026-11-16",
+   "scheduledAt_utc": "2026-11-16T13:45:00.000Z",
+   "tipo": "video",
+   "ficheiros": [
+    "infoimobiliaria-20261116-video-2.mp4"
+   ],
+   "legenda": "Antes de pedir crédito, confirma.\nQuanto financia o banco: em regra, até 90% na habitação própria e permanente.\nQuanto tens para a entrada.\nOs custos de compra: IMT, Selo e escritura.\nE se a avaliação for inferior ao preço?\nPede propostas a mais do que um banco.\n\ninfoimobiliaria.com\n(Link também na bio.)\n\nFonte: Info Imobiliária, páginas «LTV» e «Avaliação bancária».\nInformação geral. Confirma com um advogado ou solicitador.\n\nInfo Imobiliária, by OMNI\n\n#créditohabitação #LTV #comprarcasa #imobiliário #infoimobiliária",
+   "stories": [
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261116-video-2.mp4"
+     ],
+     "scheduledAt_utc": "2026-11-16T14:10:00.000Z",
+     "nota": "reutiliza o mp4 (URL em infoimobiliaria.com/wp-content/uploads/2026/11/)"
+    }
+   ],
+   "estado": "agendado",
+   "stories_estado": "por agendar",
+   "hospedagem": "infoimobiliaria.com/wp-content/uploads/2026/11/ (feed); info/m/ (stories)",
+   "titulo_youtube": "Antes de pedir crédito, confirma isto"
+  },
+  {
+   "data": "2026-11-16",
+   "scheduledAt_utc": "2026-11-16T20:45:00.000Z",
+   "tipo": "video",
+   "ficheiros": [
+    "infoimobiliaria-20261116-video-3.mp4"
+   ],
+   "legenda": "Erro comum: não verificar se a casa tem hipotecas por cancelar.\nVê na certidão permanente do registo predial.\nA hipoteca deve ser cancelada na escritura.\nSe o vendedor tem crédito, pergunta como é feito o pagamento.\n\ninfoimobiliaria.com\n(Link também na bio.)\n\nFonte: Info Imobiliária, páginas «Hipoteca» e «Distrate».\nInformação geral. Confirma com um advogado ou solicitador.\n\nInfo Imobiliária, by OMNI\n\n#hipoteca #certidãopermanente #comprarcasa #imobiliário #infoimobiliária",
+   "stories": [
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261116-video-3.mp4"
+     ],
+     "scheduledAt_utc": "2026-11-16T21:10:00.000Z",
+     "nota": "reutiliza o mp4 (URL em infoimobiliaria.com/wp-content/uploads/2026/11/)"
+    }
+   ],
+   "estado": "agendado",
+   "stories_estado": "por agendar",
+   "hospedagem": "infoimobiliaria.com/wp-content/uploads/2026/11/ (feed); info/m/ (stories)",
+   "titulo_youtube": "Erro comum: comprar casa sem ver as hipotecas"
+  },
+  {
+   "data": "2026-11-16",
+   "scheduledAt_utc": "2026-11-16T11:45:00.000Z",
+   "tipo": "carrossel",
+   "ficheiros": [
+    "infoimobiliaria-20261116-carrossel-1.jpg",
+    "infoimobiliaria-20261116-carrossel-2.jpg",
+    "infoimobiliaria-20261116-carrossel-3.jpg",
+    "infoimobiliaria-20261116-carrossel-4.jpg",
+    "infoimobiliaria-20261116-carrossel-5.jpg"
+   ],
+   "legenda": "Juros a subir: o que fazer?\nVais comprar: pede propostas a mais do que um banco e compara a TAEG.\nJá tens crédito: confirma o indexante, o spread e a data da próxima revisão.\nPensas renegociar: conta os custos da mudança antes de decidir.\nA taxa média foi de 3,06% em setembro.\n\ninfoimobiliaria.com\n(Link também na bio.)\n\nFonte: Banco de Portugal, via ECO (2/11/2026).\n\nInfo Imobiliária, by OMNI\n\n#créditohabitação #juros #imobiliário #infoimobiliária",
+   "stories": [
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261116-carrossel-1-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-11-16T12:15:00.000Z"
+    },
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261116-carrossel-2-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-11-16T12:27:00.000Z"
+    },
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261116-carrossel-3-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-11-16T12:39:00.000Z"
+    },
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261116-carrossel-4-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-11-16T12:51:00.000Z"
+    },
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261116-carrossel-5-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-11-16T13:03:00.000Z"
+    }
+   ],
+   "estado": "agendado",
+   "stories_estado": "por agendar",
+   "hospedagem": "infoimobiliaria.com/wp-content/uploads/2026/11/ (feed); info/m/ (stories)"
+  },
+  {
+   "data": "2026-11-16",
+   "scheduledAt_utc": "2026-11-16T15:30:00.000Z",
+   "tipo": "imagem",
+   "ficheiros": [
+    "infoimobiliaria-20261116-imagem.jpg"
+   ],
+   "legenda": "Humidade ascendente: os sinais.\nManchas, tinta a empolar, papel de parede solto e salitre.\nA água sobe do solo pelas paredes.\nPede normalmente uma intervenção na casa. Consulta um especialista.\n\ninfoimobiliaria.com\n(Link também na bio.)\n\nFonte: Santander e Generali Tranquilidade.\n\nInfo Imobiliária, by OMNI\n\n#humidade #casaevida #dicasdecasa #infoimobiliária",
+   "stories": [
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261116-imagem-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-11-16T16:00:00.000Z"
+    }
+   ],
+   "estado": "agendado",
+   "stories_estado": "por agendar",
+   "hospedagem": "infoimobiliaria.com/wp-content/uploads/2026/11/ (feed); info/m/ (stories)"
+  }
+ ]
+}
