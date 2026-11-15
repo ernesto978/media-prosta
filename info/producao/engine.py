@@ -195,7 +195,8 @@ def render_video(spec, out, still=None, audio=None):
             if a < 1: lay.putalpha(im.getchannel("A").point(lambda v, a=a: int(v * a)))
             f.alpha_composite(lay, (100 + (CW - im.width) // 2, y + int((1 - p) * 40)))
         d = ImageDraw.Draw(f)
-        d.text((W / 2, 1480), foot, font=font("Medium", 28), fill=GREY, anchor="mm")
+        ff = font("Medium", 28); fl = wrap(foot, ff, W - 120)
+        for li, ln in enumerate(fl): d.text((W / 2, 1480 + 36 * (li - (len(fl) - 1) / 2)), ln, font=ff, fill=GREY, anchor="mm")
         return f.convert("RGB")
     if still is not None:
         frame(still).save(out); return total
@@ -251,7 +252,9 @@ def static_slide(series, label, elems, foot, idx=None, n=None, cta=False):
             d.ellipse((x - 9, 1196 - 9, x + 9, 1196 + 9), fill=NAVY if i == idx else LIGHT)
         if idx < n - 1:
             d.text((SW - 90, 1196), "Desliza →", font=font("Bold", 30), fill=AMBER, anchor="rm")
-    d.text((SW / 2, 1262), foot, font=font("Medium", 26), fill=GREY, anchor="mm")
+    ff = font("Medium", 24); fl = wrap(foot, ff, SW - 100)
+    if len(fl) > 2: ff = font("Medium", 20); fl = wrap(foot, ff, SW - 100)
+    for li, ln in enumerate(fl): d.text((SW / 2, 1262 + 27 * (li - (len(fl) - 1) / 2)), ln, font=ff, fill=GREY, anchor="mm")
     d.text((SW / 2, 1306), "infoimobiliaria.com · by OMNI", font=font("Bold", 28), fill=NAVY, anchor="mm")
     return im.convert("RGB")
 
