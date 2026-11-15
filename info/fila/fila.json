@@ -1,5 +1,5 @@
 {
- "nota": "Fila Info Imobiliária. estado: pronto|agendado|falhou. Semana 10-16/11/2026 já agendada no Planable (sem aprovar).",
+ "nota": "Fila Info Imobiliária. estado: pronto|agendado|falhou. Semana 10-16/11/2026 já agendada no Planable (sem aprovar). Peças de 17 a 29/11/2026 prontas (por agendar no Planable; stories por agendar).",
  "ultimo_dia_agendado_ate": "2026-11-16",
  "pecas": [
   {
@@ -939,6 +939,1904 @@
    "estado": "agendado",
    "stories_estado": "agendado",
    "hospedagem": "infoimobiliaria.com/wp-content/uploads/2026/11/ (feed); info/m/ (stories)"
+  },
+  {
+   "data": "2026-11-17",
+   "hora_lisboa": "09:30",
+   "scheduledAt_utc": "2026-11-17T09:30:00.000Z",
+   "tipo": "video",
+   "assunto": "Euribor a subir e o BCE em dezembro",
+   "fonte": "ECO (12/11/2026), via Info Imobiliária.",
+   "ficheiros": [
+    "infoimobiliaria-20261117-video-1.mp4"
+   ],
+   "commit": "dee3b0cf3454c2906e28ca6f37ef490a49250936",
+   "legenda": "Euribor a 12 de novembro: 2,766% a 3 meses, 3,023% a 6 meses e 3,293% a 12 meses.\nO BCE manteve as taxas em outubro.\nO mercado conta com uma possível subida em dezembro, mas nada está decidido.\nA tua prestação só muda na data de revisão do contrato.\n\ninfoimobiliaria.com\n(Link também na bio.)\n\nFonte: ECO (12/11/2026), via Info Imobiliária.\n\nInfo Imobiliária, by OMNI\n\n#euribor #créditohabitação #BCE #imobiliário #infoimobiliária",
+   "stories": [
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261117-video-1.mp4"
+     ],
+     "scheduledAt_utc": "2026-11-17T09:55:00.000Z"
+    }
+   ],
+   "titulo_youtube": "Euribor a subir: o que se sabe e o que não se sabe",
+   "estado": "pronto",
+   "stories_estado": "por agendar"
+  },
+  {
+   "data": "2026-11-17",
+   "hora_lisboa": "13:30",
+   "scheduledAt_utc": "2026-11-17T13:30:00.000Z",
+   "tipo": "video",
+   "assunto": "Taxa de esforço de 45%",
+   "fonte": "Info Imobiliária, «Taxa de esforço», com base em ECO e Portal da Literacia Financeira. Exemplo calculado por nós.",
+   "ficheiros": [
+    "infoimobiliaria-20261117-video-2.mp4"
+   ],
+   "commit": "dee3b0cf3454c2906e28ca6f37ef490a49250936",
+   "legenda": "Desde 1 de agosto de 2026, a taxa de esforço recomendada pelo Banco de Portugal desceu de 50% para 45%.\nCom 2 000 € líquidos por mês, o limite passou de 1 000 € para 900 € de prestações.\nEntram todos os créditos, não só o da casa.\nÉ uma recomendação, mas na prática os bancos aplicam-na.\n\ninfoimobiliaria.com\n(Link também na bio.)\n\nFonte: Info Imobiliária, «Taxa de esforço», com base em ECO e Portal da Literacia Financeira. Exemplo calculado por nós.\nInformação geral. Confirma com um advogado ou solicitador.\n\nInfo Imobiliária, by OMNI\n\n#taxadeesforço #créditohabitação #comprarcasa #imobiliário #infoimobiliária",
+   "stories": [
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261117-video-2.mp4"
+     ],
+     "scheduledAt_utc": "2026-11-17T13:55:00.000Z"
+    }
+   ],
+   "titulo_youtube": "Taxa de esforço: o banco só deixa 45% do teu rendimento",
+   "estado": "pronto",
+   "stories_estado": "por agendar"
+  },
+  {
+   "data": "2026-11-17",
+   "hora_lisboa": "19:45",
+   "scheduledAt_utc": "2026-11-17T19:45:00.000Z",
+   "tipo": "video",
+   "assunto": "Antes de assinar o crédito: checklist",
+   "fonte": "Info Imobiliária, «Como comprar casa, passo a passo».",
+   "ficheiros": [
+    "infoimobiliaria-20261117-video-3.mp4"
+   ],
+   "commit": "dee3b0cf3454c2906e28ca6f37ef490a49250936",
+   "legenda": "Antes de assinar o crédito habitação, confirma.\nTens pelo menos 7 dias para ler o contrato.\nA proposta deve valer pelo menos 30 dias.\nA pré-aprovação costuma valer 30 a 90 dias.\nCompara a TAEG, não só o spread.\nConfirma o indexante e a data de revisão.\n\ninfoimobiliaria.com\n(Link também na bio.)\n\nFonte: Info Imobiliária, «Como comprar casa, passo a passo».\nInformação geral. Confirma com um advogado ou solicitador.\n\nInfo Imobiliária, by OMNI\n\n#créditohabitação #checklist #comprarcasa #imobiliário #infoimobiliária",
+   "stories": [
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261117-video-3.mp4"
+     ],
+     "scheduledAt_utc": "2026-11-17T20:10:00.000Z"
+    }
+   ],
+   "titulo_youtube": "Antes de assinar o crédito habitação: o que confirmar",
+   "estado": "pronto",
+   "stories_estado": "por agendar"
+  },
+  {
+   "data": "2026-11-17",
+   "hora_lisboa": "11:15",
+   "scheduledAt_utc": "2026-11-17T11:15:00.000Z",
+   "tipo": "carrossel",
+   "assunto": "Documentos para pedir crédito habitação",
+   "fonte": "ComparaJá e Caixa Geral de Depósitos, via Info Imobiliária.",
+   "ficheiros": [
+    "infoimobiliaria-20261117-carrossel-1.jpg",
+    "infoimobiliaria-20261117-carrossel-2.jpg",
+    "infoimobiliaria-20261117-carrossel-3.jpg",
+    "infoimobiliaria-20261117-carrossel-4.jpg",
+    "infoimobiliaria-20261117-carrossel-5.jpg"
+   ],
+   "commit": "dee3b0cf3454c2906e28ca6f37ef490a49250936",
+   "legenda": "Documentos para pedir crédito habitação.\nPessoais: Cartão de Cidadão e comprovativo de morada recente.\nRendimentos: IRS e nota de liquidação, ou os três últimos recibos de vencimento.\nBancários: extratos de 3 a 6 meses, IBAN e mapa de responsabilidades de crédito.\nDo imóvel: certidão permanente, caderneta predial, licença de utilização e, quando aplicável, ficha técnica.\nGuarda este carrossel.\n\ninfoimobiliaria.com\n(Link também na bio.)\n\nFonte: ComparaJá e Caixa Geral de Depósitos, via Info Imobiliária.\n\nInfo Imobiliária, by OMNI\n\n#créditohabitação #documentos #comprarcasa #imobiliário #infoimobiliária",
+   "stories": [
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261117-carrossel-1-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-11-17T11:45:00.000Z"
+    },
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261117-carrossel-2-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-11-17T11:57:00.000Z"
+    },
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261117-carrossel-3-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-11-17T12:09:00.000Z"
+    },
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261117-carrossel-4-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-11-17T12:21:00.000Z"
+    },
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261117-carrossel-5-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-11-17T12:33:00.000Z"
+    }
+   ],
+   "estado": "pronto",
+   "stories_estado": "por agendar"
+  },
+  {
+   "data": "2026-11-17",
+   "hora_lisboa": "16:45",
+   "scheduledAt_utc": "2026-11-17T16:45:00.000Z",
+   "tipo": "imagem",
+   "assunto": "Imposto do Selo: 0,8%",
+   "fonte": "Info Imobiliária, página «Imposto do Selo».",
+   "ficheiros": [
+    "infoimobiliaria-20261117-imagem.jpg"
+   ],
+   "commit": "dee3b0cf3454c2906e28ca6f37ef490a49250936",
+   "legenda": "Imposto do Selo na compra de casa: 0,8%.\nIncide sobre o valor que serve de base ao IMT, o mais alto entre o preço e o VPT.\nPaga-se antes da escritura.\nLeva o comprovativo no dia.\n\ninfoimobiliaria.com\n(Link também na bio.)\n\nFonte: Info Imobiliária, página «Imposto do Selo».\nInformação geral. Confirma com um advogado ou solicitador.\n\nInfo Imobiliária, by OMNI\n\n#impostodoselo #IMT #comprarcasa #imobiliário #infoimobiliária",
+   "stories": [
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261117-imagem-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-11-17T17:15:00.000Z"
+    }
+   ],
+   "estado": "pronto",
+   "stories_estado": "por agendar"
+  },
+  {
+   "data": "2026-11-18",
+   "hora_lisboa": "10:15",
+   "scheduledAt_utc": "2026-11-18T10:15:00.000Z",
+   "tipo": "video",
+   "assunto": "Heranças indivisas: vender sem acordo",
+   "fonte": "idealista/news (Lusa), 23/10/2026.",
+   "ficheiros": [
+    "infoimobiliaria-20261118-video-1.mp4"
+   ],
+   "commit": "dee3b0cf3454c2906e28ca6f37ef490a49250936",
+   "legenda": "O Governo aprovou um regime para vender imóveis de heranças indivisas quando os herdeiros não se entendem.\nPassados dois anos sem acordo, um herdeiro pode pedir a venda.\nAntes do leilão, os herdeiros têm seis meses para chegar a acordo.\nA casa de morada de família fica de fora, salvo consentimento expresso do cônjuge sobrevivo.\nA fonte não indica a data de entrada em vigor.\n\ninfoimobiliaria.com\n(Link também na bio.)\n\nFonte: idealista/news (Lusa), 23/10/2026.\nInformação geral. Confirma com um advogado ou solicitador.\n\nInfo Imobiliária, by OMNI\n\n#heranças #vendercasa #partilhas #imobiliário #infoimobiliária",
+   "stories": [
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261118-video-1.mp4"
+     ],
+     "scheduledAt_utc": "2026-11-18T10:40:00.000Z"
+    }
+   ],
+   "titulo_youtube": "Heranças indivisas: o que muda para vender a casa",
+   "estado": "pronto",
+   "stories_estado": "por agendar"
+  },
+  {
+   "data": "2026-11-18",
+   "hora_lisboa": "14:15",
+   "scheduledAt_utc": "2026-11-18T14:15:00.000Z",
+   "tipo": "video",
+   "assunto": "E se a Euribor subir 1 ou 2 pontos?",
+   "fonte": "Info Imobiliária e Portal da Literacia Financeira. Exemplo calculado por nós, sem seguros nem comissões.",
+   "ficheiros": [
+    "infoimobiliaria-20261118-video-2.mp4"
+   ],
+   "commit": "dee3b0cf3454c2906e28ca6f37ef490a49250936",
+   "legenda": "Crédito de 150 000 €, 30 anos, taxa total de 4,177%.\nPrestação de 731,51 € por mês.\nCom mais um ponto: 821,54 €, cerca de 90 € a mais.\nCom mais dois pontos: 916,47 €, cerca de 185 € a mais.\nSão cenários, não previsões.\n\ninfoimobiliaria.com\n(Link também na bio.)\n\nFonte: Info Imobiliária e Portal da Literacia Financeira. Exemplo calculado por nós, sem seguros nem comissões.\n\nInfo Imobiliária, by OMNI\n\n#euribor #créditohabitação #prestação #imobiliário #infoimobiliária",
+   "stories": [
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261118-video-2.mp4"
+     ],
+     "scheduledAt_utc": "2026-11-18T14:40:00.000Z"
+    }
+   ],
+   "titulo_youtube": "Euribor +1 ou +2 pontos: quanto sobe a prestação?",
+   "estado": "pronto",
+   "stories_estado": "por agendar"
+  },
+  {
+   "data": "2026-11-18",
+   "hora_lisboa": "20:15",
+   "scheduledAt_utc": "2026-11-18T20:15:00.000Z",
+   "tipo": "video",
+   "assunto": "TAN ou TAEG: qual comparar?",
+   "fonte": "Info Imobiliária, páginas «TAN» e «TAEG».",
+   "ficheiros": [
+    "infoimobiliaria-20261118-video-3.mp4"
+   ],
+   "commit": "dee3b0cf3454c2906e28ca6f37ef490a49250936",
+   "legenda": "TAN: a taxa de juro, só os juros.\nEm taxa variável, a TAN é a Euribor mais o spread.\nTAEG: o custo total por ano, com juros, comissões, seguros obrigatórios e outros encargos.\nA TAEG costuma ser mais alta que a TAN.\nPara comparar bancos, usa a TAEG, com o mesmo valor e o mesmo prazo.\n\ninfoimobiliaria.com\n(Link também na bio.)\n\nFonte: Info Imobiliária, páginas «TAN» e «TAEG».\nInformação geral. Confirma com um advogado ou solicitador.\n\nInfo Imobiliária, by OMNI\n\n#TAEG #TAN #créditohabitação #imobiliário #infoimobiliária",
+   "stories": [
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261118-video-3.mp4"
+     ],
+     "scheduledAt_utc": "2026-11-18T20:40:00.000Z"
+    }
+   ],
+   "titulo_youtube": "TAN ou TAEG: qual comparar no crédito habitação?",
+   "estado": "pronto",
+   "stories_estado": "por agendar"
+  },
+  {
+   "data": "2026-11-18",
+   "hora_lisboa": "15:30",
+   "scheduledAt_utc": "2026-11-18T15:30:00.000Z",
+   "tipo": "carrossel",
+   "assunto": "Taxa fixa, variável ou mista",
+   "fonte": "Info Imobiliária, «Taxa fixa, variável ou mista».",
+   "ficheiros": [
+    "infoimobiliaria-20261118-carrossel-1.jpg",
+    "infoimobiliaria-20261118-carrossel-2.jpg",
+    "infoimobiliaria-20261118-carrossel-3.jpg",
+    "infoimobiliaria-20261118-carrossel-4.jpg",
+    "infoimobiliaria-20261118-carrossel-5.jpg"
+   ],
+   "commit": "dee3b0cf3454c2906e28ca6f37ef490a49250936",
+   "legenda": "Taxa fixa, variável ou mista?\nVariável: Euribor mais spread.\nO custo inicial costuma ser mais baixo.\nFixa: o juro é igual durante todo o prazo ou um período longo.\nTende a ser mais cara no início.\nMista: período fixo, normalmente entre 2 e 10 anos, e depois variável.\nCompara a TAEG e pergunta quanto custa mudar de regime.\nGuarda este carrossel.\n\ninfoimobiliaria.com\n(Link também na bio.)\n\nFonte: Info Imobiliária, «Taxa fixa, variável ou mista».\n\nInfo Imobiliária, by OMNI\n\n#taxafixa #taxavariável #créditohabitação #imobiliário #infoimobiliária",
+   "stories": [
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261118-carrossel-1-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-11-18T16:00:00.000Z"
+    },
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261118-carrossel-2-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-11-18T16:12:00.000Z"
+    },
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261118-carrossel-3-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-11-18T16:24:00.000Z"
+    },
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261118-carrossel-4-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-11-18T16:36:00.000Z"
+    },
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261118-carrossel-5-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-11-18T16:48:00.000Z"
+    }
+   ],
+   "estado": "pronto",
+   "stories_estado": "por agendar"
+  },
+  {
+   "data": "2026-11-18",
+   "hora_lisboa": "17:15",
+   "scheduledAt_utc": "2026-11-18T17:15:00.000Z",
+   "tipo": "imagem",
+   "assunto": "Crédito à habitação passa os 120 mil milhões",
+   "fonte": "Banco de Portugal, via ECO (27/10/2026).",
+   "ficheiros": [
+    "infoimobiliaria-20261118-imagem.jpg"
+   ],
+   "commit": "dee3b0cf3454c2906e28ca6f37ef490a49250936",
+   "legenda": "120 mil milhões de euros.\nÉ o stock de crédito à habitação, que passou esta marca pela primeira vez em setembro.\nFoi o 32.º mês seguido de subida.\nAconteceu apesar das regras mais apertadas do Banco de Portugal desde agosto.\n\ninfoimobiliaria.com\n(Link também na bio.)\n\nFonte: Banco de Portugal, via ECO (27/10/2026).\n\nInfo Imobiliária, by OMNI\n\n#créditohabitação #bancodeportugal #imobiliário #infoimobiliária",
+   "stories": [
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261118-imagem-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-11-18T17:45:00.000Z"
+    }
+   ],
+   "estado": "pronto",
+   "stories_estado": "por agendar"
+  },
+  {
+   "data": "2026-11-19",
+   "hora_lisboa": "09:00",
+   "scheduledAt_utc": "2026-11-19T09:00:00.000Z",
+   "tipo": "video",
+   "assunto": "Escritura: a casa tem título urbanístico?",
+   "fonte": "ComparaJá (2/11/2026), via Info Imobiliária.",
+   "ficheiros": [
+    "infoimobiliaria-20261119-video-1.mp4"
+   ],
+   "commit": "dee3b0cf3454c2906e28ca6f37ef490a49250936",
+   "legenda": "Desde 1 de outubro de 2026, a escritura de venda tem de dizer se a casa tem título urbanístico.\nSem essa menção, o negócio pode ser anulado.\nNão ter título não torna a casa ilegal, mas tem de ficar registado.\nA ficha técnica já não é exigida na escritura desde 1 de janeiro de 2024.\nPede os documentos ao vendedor logo no início.\n\ninfoimobiliaria.com\n(Link também na bio.)\n\nFonte: ComparaJá (2/11/2026), via Info Imobiliária.\nInformação geral. Confirma com um advogado ou solicitador.\n\nInfo Imobiliária, by OMNI\n\n#escritura #comprarcasa #licenciamento #imobiliário #infoimobiliária",
+   "stories": [
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261119-video-1.mp4"
+     ],
+     "scheduledAt_utc": "2026-11-19T09:25:00.000Z"
+    }
+   ],
+   "titulo_youtube": "Escritura: desde 1 de outubro tem de constar o título urbanístico",
+   "estado": "pronto",
+   "stories_estado": "por agendar"
+  },
+  {
+   "data": "2026-11-19",
+   "hora_lisboa": "13:00",
+   "scheduledAt_utc": "2026-11-19T13:00:00.000Z",
+   "tipo": "video",
+   "assunto": "Casa de 250 000 €: quanto pagas de IMT e Selo?",
+   "fonte": "Info Imobiliária, «Tabela do IMT 2026» (Ofício Circulado n.º 40129/2026 da AT). Exemplo calculado por nós.",
+   "ficheiros": [
+    "infoimobiliaria-20261119-video-2.mp4"
+   ],
+   "commit": "dee3b0cf3454c2906e28ca6f37ef490a49250936",
+   "legenda": "Casa de 250 000 € para habitação própria e permanente.\nIMT: 250 000 € × 7% = 17 500 €, menos a parcela a abater de 10 457,96 €.\nFicam 7 042,04 €.\nImposto do Selo: 250 000 € × 0,8% = 2 000 €.\nTotal: 9 042,04 €, sem contar escritura nem crédito.\n\ninfoimobiliaria.com\n(Link também na bio.)\n\nFonte: Info Imobiliária, «Tabela do IMT 2026» (Ofício Circulado n.º 40129/2026 da AT). Exemplo calculado por nós.\nInformação geral. Confirma com um advogado ou solicitador.\n\nInfo Imobiliária, by OMNI\n\n#IMT #impostodoselo #comprarcasa #imobiliário #infoimobiliária",
+   "stories": [
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261119-video-2.mp4"
+     ],
+     "scheduledAt_utc": "2026-11-19T13:25:00.000Z"
+    }
+   ],
+   "titulo_youtube": "Casa de 250 000 €: IMT e Selo a pagar",
+   "estado": "pronto",
+   "stories_estado": "por agendar"
+  },
+  {
+   "data": "2026-11-19",
+   "hora_lisboa": "19:30",
+   "scheduledAt_utc": "2026-11-19T19:30:00.000Z",
+   "tipo": "video",
+   "assunto": "Reinvestimento: IMT e Selo não contam",
+   "fonte": "Contas Poupança (24/10/2026), via Info Imobiliária.",
+   "ficheiros": [
+    "infoimobiliaria-20261119-video-3.mp4"
+   ],
+   "commit": "dee3b0cf3454c2906e28ca6f37ef490a49250936",
+   "legenda": "Vendeste casa própria com lucro e vais comprar outra?\nNuma resposta a um caso concreto, a AT disse que o IMT e o Imposto do Selo da casa nova não contam como reinvestimento.\nConta o preço da casa ou do terreno e os custos de construção documentados.\nA compra pode ser feita entre 24 meses antes e 36 meses depois da venda.\nNão é uma mudança na lei: é a leitura da AT num caso concreto.\n\ninfoimobiliaria.com\n(Link também na bio.)\n\nFonte: Contas Poupança (24/10/2026), via Info Imobiliária.\nInformação geral. Confirma com um advogado ou solicitador.\n\nInfo Imobiliária, by OMNI\n\n#maisvalias #vendercasa #IRS #imobiliário #infoimobiliária",
+   "stories": [
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261119-video-3.mp4"
+     ],
+     "scheduledAt_utc": "2026-11-19T19:55:00.000Z"
+    }
+   ],
+   "titulo_youtube": "Mais-valias: IMT e Selo não contam como reinvestimento",
+   "estado": "pronto",
+   "stories_estado": "por agendar"
+  },
+  {
+   "data": "2026-11-19",
+   "hora_lisboa": "12:00",
+   "scheduledAt_utc": "2026-11-19T12:00:00.000Z",
+   "tipo": "carrossel",
+   "assunto": "Garantia pública para jovens",
+   "fonte": "Info Imobiliária, «Garantia pública do Estado no crédito habitação para jovens».",
+   "ficheiros": [
+    "infoimobiliaria-20261119-carrossel-1.jpg",
+    "infoimobiliaria-20261119-carrossel-2.jpg",
+    "infoimobiliaria-20261119-carrossel-3.jpg",
+    "infoimobiliaria-20261119-carrossel-4.jpg",
+    "infoimobiliaria-20261119-carrossel-5.jpg"
+   ],
+   "commit": "dee3b0cf3454c2906e28ca6f37ef490a49250936",
+   "legenda": "Garantia pública para jovens: como funciona.\nPermite financiar até 100% do valor da casa.\nO Estado garante até 15% do capital inicial, durante 10 anos.\nÉ para jovens dos 18 aos 35 anos, na primeira habitação própria e permanente.\nO imóvel pode custar até 450 000 €.\nCobre contratos formalizados até 31 de dezembro de 2026.\nConfirma o prolongamento no teu banco.\n\ninfoimobiliaria.com\n(Link também na bio.)\n\nFonte: Info Imobiliária, «Garantia pública do Estado no crédito habitação para jovens».\nInformação geral. Confirma com um advogado ou solicitador.\n\nInfo Imobiliária, by OMNI\n\n#garantiapública #jovens #créditohabitação #imobiliário #infoimobiliária",
+   "stories": [
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261119-carrossel-1-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-11-19T12:30:00.000Z"
+    },
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261119-carrossel-2-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-11-19T12:42:00.000Z"
+    },
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261119-carrossel-3-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-11-19T12:54:00.000Z"
+    },
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261119-carrossel-4-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-11-19T13:06:00.000Z"
+    },
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261119-carrossel-5-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-11-19T13:18:00.000Z"
+    }
+   ],
+   "estado": "pronto",
+   "stories_estado": "por agendar"
+  },
+  {
+   "data": "2026-11-19",
+   "hora_lisboa": "16:00",
+   "scheduledAt_utc": "2026-11-19T16:00:00.000Z",
+   "tipo": "imagem",
+   "assunto": "IMT: isenção até 106 346 €",
+   "fonte": "Info Imobiliária, «Tabela do IMT 2026» (Ofício Circulado n.º 40129/2026 da AT).",
+   "ficheiros": [
+    "infoimobiliaria-20261119-imagem.jpg"
+   ],
+   "commit": "dee3b0cf3454c2906e28ca6f37ef490a49250936",
+   "legenda": "106 346 €.\nAté este valor, a compra de habitação própria e permanente no Continente não paga IMT.\nAcima dele, o imposto é progressivo.\nO Imposto do Selo de 0,8% paga-se sempre.\n\ninfoimobiliaria.com\n(Link também na bio.)\n\nFonte: Info Imobiliária, «Tabela do IMT 2026» (Ofício Circulado n.º 40129/2026 da AT).\nInformação geral. Confirma com um advogado ou solicitador.\n\nInfo Imobiliária, by OMNI\n\n#IMT #tabelaIMT #comprarcasa #imobiliário #infoimobiliária",
+   "stories": [
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261119-imagem-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-11-19T16:30:00.000Z"
+    }
+   ],
+   "estado": "pronto",
+   "stories_estado": "por agendar"
+  },
+  {
+   "data": "2026-11-20",
+   "hora_lisboa": "11:00",
+   "scheduledAt_utc": "2026-11-20T11:00:00.000Z",
+   "tipo": "video",
+   "assunto": "IMI: casas avaliadas em 2023 e o VPT +3%",
+   "fonte": "ComparaJá (28/10/2026) e Portaria n.º 457/2026/1 (15/10/2026). Exemplo calculado por nós.",
+   "ficheiros": [
+    "infoimobiliaria-20261120-video-1.mp4"
+   ],
+   "commit": "dee3b0cf3454c2906e28ca6f37ef490a49250936",
+   "legenda": "Casas cuja última avaliação do VPT foi em 2023 podem ter o valor patrimonial atualizado em 3%.\nA Portaria n.º 457/2026/1 fixou o coeficiente de 1,04 para 2023.\nSegundo a ComparaJá, nas casas aplica-se 75% desse valor.\nO IMI de 2026 paga-se em 2027.\nA taxa do município não muda.\nExemplo: VPT de 200 000 € e taxa de 0,3% dão 600 € de IMI.\nCom VPT de 206 000 €, são 618 €.\nConfirma o ano da avaliação na caderneta predial.\n\ninfoimobiliaria.com\n(Link também na bio.)\n\nFonte: ComparaJá (28/10/2026) e Portaria n.º 457/2026/1 (15/10/2026). Exemplo calculado por nós.\nInformação geral. Confirma com um advogado ou solicitador.\n\nInfo Imobiliária, by OMNI\n\n#IMI #VPT #impostos #imobiliário #infoimobiliária",
+   "stories": [
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261120-video-1.mp4"
+     ],
+     "scheduledAt_utc": "2026-11-20T11:25:00.000Z"
+    }
+   ],
+   "titulo_youtube": "IMI em 2027: o VPT pode subir 3% nas casas avaliadas em 2023",
+   "estado": "pronto",
+   "stories_estado": "por agendar"
+  },
+  {
+   "data": "2026-11-20",
+   "hora_lisboa": "14:30",
+   "scheduledAt_utc": "2026-11-20T14:30:00.000Z",
+   "tipo": "video",
+   "assunto": "Spread de 1% ou de 1,5%: quanto custa a diferença?",
+   "fonte": "Info Imobiliária, página «Spread». Exemplo calculado por nós, sem seguros nem comissões.",
+   "ficheiros": [
+    "infoimobiliaria-20261120-video-2.mp4"
+   ],
+   "commit": "dee3b0cf3454c2906e28ca6f37ef490a49250936",
+   "legenda": "Crédito de 200 000 €, 30 anos, Euribor a 12 meses de 3,177%.\nCom spread de 1,0%, a prestação é de 975,35 €.\nCom spread de 1,5%, é de 1 034,51 €.\nSão cerca de 59 € a mais por mês, mais de 700 € por ano.\nO spread é negociável.\nPergunta ao banco.\n\ninfoimobiliaria.com\n(Link também na bio.)\n\nFonte: Info Imobiliária, página «Spread». Exemplo calculado por nós, sem seguros nem comissões.\n\nInfo Imobiliária, by OMNI\n\n#spread #créditohabitação #prestação #imobiliário #infoimobiliária",
+   "stories": [
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261120-video-2.mp4"
+     ],
+     "scheduledAt_utc": "2026-11-20T14:55:00.000Z"
+    }
+   ],
+   "titulo_youtube": "O spread do crédito habitação conta: 1,0% ou 1,5%?",
+   "estado": "pronto",
+   "stories_estado": "por agendar"
+  },
+  {
+   "data": "2026-11-20",
+   "hora_lisboa": "20:45",
+   "scheduledAt_utc": "2026-11-20T20:45:00.000Z",
+   "tipo": "video",
+   "assunto": "Amortizar 10 000 €: reduzir prestação ou prazo?",
+   "fonte": "Info Imobiliária, página «Amortização antecipada». Exemplo calculado por nós, sem seguros nem comissões.",
+   "ficheiros": [
+    "infoimobiliaria-20261120-video-3.mp4"
+   ],
+   "commit": "dee3b0cf3454c2906e28ca6f37ef490a49250936",
+   "legenda": "Crédito de 200 000 €, 30 anos, taxa de 4,177%.\nAo fim de 2 anos, amortizas 10 000 €.\nReduzir a prestação: passa de 975,35 € para cerca de 924,82 €, e poupas cerca de 7 000 € de juros.\nReduzir o prazo: o crédito acaba cerca de 2 anos e 7 meses mais cedo, e poupas cerca de 20 500 € de juros.\nReduzir o prazo costuma poupar mais juros.\nPergunta ao banco pelas comissões.\n\ninfoimobiliaria.com\n(Link também na bio.)\n\nFonte: Info Imobiliária, página «Amortização antecipada». Exemplo calculado por nós, sem seguros nem comissões.\nInformação geral. Confirma com um advogado ou solicitador.\n\nInfo Imobiliária, by OMNI\n\n#amortização #créditohabitação #juros #imobiliário #infoimobiliária",
+   "stories": [
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261120-video-3.mp4"
+     ],
+     "scheduledAt_utc": "2026-11-20T21:10:00.000Z"
+    }
+   ],
+   "titulo_youtube": "Amortizar o crédito: reduzir a prestação ou o prazo?",
+   "estado": "pronto",
+   "stories_estado": "por agendar"
+  },
+  {
+   "data": "2026-11-20",
+   "hora_lisboa": "10:45",
+   "scheduledAt_utc": "2026-11-20T10:45:00.000Z",
+   "tipo": "carrossel",
+   "assunto": "Obras em casa: orçamentos e licenças",
+   "fonte": "Info Imobiliária, «Obras em casa», com ABANCA, idealista e Santander.",
+   "ficheiros": [
+    "infoimobiliaria-20261120-carrossel-1.jpg",
+    "infoimobiliaria-20261120-carrossel-2.jpg",
+    "infoimobiliaria-20261120-carrossel-3.jpg",
+    "infoimobiliaria-20261120-carrossel-4.jpg",
+    "infoimobiliaria-20261120-carrossel-5.jpg"
+   ],
+   "commit": "dee3b0cf3454c2906e28ca6f37ef490a49250936",
+   "legenda": "Obras em casa: por onde começar.\nFaz a lista do que queres mudar e pede orçamentos.\nConfirma se a obra precisa de licença.\nO Simplex Urbanístico dispensa algumas, como substituir janelas por idênticas.\nAs câmaras têm entre 120 e 200 dias para decidir, e sem resposta a obra pode avançar.\nAs obras de melhoria dos últimos 12 anos podem ser descontadas nas mais-valias.\nGuarda este carrossel.\n\ninfoimobiliaria.com\n(Link também na bio.)\n\nFonte: Info Imobiliária, «Obras em casa», com ABANCA, idealista e Santander.\nInformação geral. Confirma com um advogado ou solicitador.\n\nInfo Imobiliária, by OMNI\n\n#obras #licenciamento #casaevida #imobiliário #infoimobiliária",
+   "stories": [
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261120-carrossel-1-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-11-20T11:15:00.000Z"
+    },
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261120-carrossel-2-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-11-20T11:27:00.000Z"
+    },
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261120-carrossel-3-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-11-20T11:39:00.000Z"
+    },
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261120-carrossel-4-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-11-20T11:51:00.000Z"
+    },
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261120-carrossel-5-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-11-20T12:03:00.000Z"
+    }
+   ],
+   "estado": "pronto",
+   "stories_estado": "por agendar"
+  },
+  {
+   "data": "2026-11-20",
+   "hora_lisboa": "15:45",
+   "scheduledAt_utc": "2026-11-20T15:45:00.000Z",
+   "tipo": "imagem",
+   "assunto": "Rendas novas: 10,17 €/m²",
+   "fonte": "INE (29/9/2026), via Info Imobiliária.",
+   "ficheiros": [
+    "infoimobiliaria-20261120-imagem.jpg"
+   ],
+   "commit": "dee3b0cf3454c2906e28ca6f37ef490a49250936",
+   "legenda": "10,17 € por metro quadrado.\nÉ a renda mediana dos contratos novos no 2.º trimestre de 2026, segundo o INE.\nSubiu 10,2% num ano e é um novo recorde da série.\nNa Grande Lisboa foi de 15,24 €/m².\nÉ a mediana dos contratos novos, não a renda de todos os inquilinos.\n\ninfoimobiliaria.com\n(Link também na bio.)\n\nFonte: INE (29/9/2026), via Info Imobiliária.\n\nInfo Imobiliária, by OMNI\n\n#arrendamento #rendas #INE #imobiliário #infoimobiliária",
+   "stories": [
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261120-imagem-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-11-20T16:15:00.000Z"
+    }
+   ],
+   "estado": "pronto",
+   "stories_estado": "por agendar"
+  },
+  {
+   "data": "2026-11-21",
+   "hora_lisboa": "09:45",
+   "scheduledAt_utc": "2026-11-21T09:45:00.000Z",
+   "tipo": "video",
+   "assunto": "Rendas em 2027: o aumento até 2,56%",
+   "fonte": "ECO (31/8/2026) e DECO Proteste (6/10/2026). Valor calculado com dados do INE.",
+   "ficheiros": [
+    "infoimobiliaria-20261121-video-1.mp4"
+   ],
+   "commit": "dee3b0cf3454c2906e28ca6f37ef490a49250936",
+   "legenda": "Em 2027, as rendas dos contratos em vigor podem subir até 2,56%, contra 2,24% em 2026.\nA atualização não é obrigatória: o senhorio decide se a aplica e em que mês.\nTem de avisar por escrito com pelo menos 30 dias de antecedência.\nSó vale para contratos em vigor há mais de um ano.\nSe a conta ou o aviso estiverem errados, contesta por escrito.\n\ninfoimobiliaria.com\n(Link também na bio.)\n\nFonte: ECO (31/8/2026) e DECO Proteste (6/10/2026). Valor calculado com dados do INE.\nInformação geral. Confirma com um advogado ou solicitador.\n\nInfo Imobiliária, by OMNI\n\n#arrendamento #rendas2027 #senhorios #inquilinos #infoimobiliária",
+   "stories": [
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261121-video-1.mp4"
+     ],
+     "scheduledAt_utc": "2026-11-21T10:10:00.000Z"
+    }
+   ],
+   "titulo_youtube": "Rendas em 2027: o senhorio pode atualizar até 2,56%",
+   "estado": "pronto",
+   "stories_estado": "por agendar"
+  },
+  {
+   "data": "2026-11-21",
+   "hora_lisboa": "13:45",
+   "scheduledAt_utc": "2026-11-21T13:45:00.000Z",
+   "tipo": "video",
+   "assunto": "Defeitos ocultos: que prazos tens?",
+   "fonte": "Info Imobiliária, «Defeitos ocultos na compra de casa usada» (Código Civil, artigos 913.º e seguintes).",
+   "ficheiros": [
+    "infoimobiliaria-20261121-video-2.mp4"
+   ],
+   "commit": "dee3b0cf3454c2906e28ca6f37ef490a49250936",
+   "legenda": "Compraste casa usada e descobriste um defeito escondido?\nTens um ano, a partir da deteção, para o denunciar ao vendedor.\nDepois da denúncia, tens seis meses para avançar com uma ação judicial.\nPodes pedir reparação, redução do preço e, nos casos graves, a resolução do contrato.\nAntes de comprar, faz uma vistoria técnica independente.\n\ninfoimobiliaria.com\n(Link também na bio.)\n\nFonte: Info Imobiliária, «Defeitos ocultos na compra de casa usada» (Código Civil, artigos 913.º e seguintes).\nInformação geral. Confirma com um advogado ou solicitador.\n\nInfo Imobiliária, by OMNI\n\n#defeitosocultos #comprarcasa #casausada #imobiliário #infoimobiliária",
+   "stories": [
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261121-video-2.mp4"
+     ],
+     "scheduledAt_utc": "2026-11-21T14:10:00.000Z"
+    }
+   ],
+   "titulo_youtube": "Defeitos ocultos na casa que compraste: prazos e direitos",
+   "estado": "pronto",
+   "stories_estado": "por agendar"
+  },
+  {
+   "data": "2026-11-21",
+   "hora_lisboa": "19:00",
+   "scheduledAt_utc": "2026-11-21T19:00:00.000Z",
+   "tipo": "video",
+   "assunto": "Escritura: notário, DPA ou Casa Pronta?",
+   "fonte": "DECO Proteste, idealista e Caixa Geral de Depósitos, via Info Imobiliária. Valores sem impostos.",
+   "ficheiros": [
+    "infoimobiliaria-20261121-video-3.mp4"
+   ],
+   "commit": "dee3b0cf3454c2906e28ca6f37ef490a49250936",
+   "legenda": "Escritura: três vias para o mesmo ato.\nNotário, documento particular autenticado ou Casa Pronta.\nNa Casa Pronta: 375 € com um ato de registo e 700 € na compra com financiamento.\nMais 50 € por cada prédio adicional.\nPaga o IMT e o Selo antes e leva os comprovativos no dia.\n\ninfoimobiliaria.com\n(Link também na bio.)\n\nFonte: DECO Proteste, idealista e Caixa Geral de Depósitos, via Info Imobiliária. Valores sem impostos.\nInformação geral. Confirma com um advogado ou solicitador.\n\nInfo Imobiliária, by OMNI\n\n#escritura #casapronta #comprarcasa #imobiliário #infoimobiliária",
+   "stories": [
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261121-video-3.mp4"
+     ],
+     "scheduledAt_utc": "2026-11-21T19:25:00.000Z"
+    }
+   ],
+   "titulo_youtube": "Escritura de compra de casa: notário, DPA ou Casa Pronta",
+   "estado": "pronto",
+   "stories_estado": "por agendar"
+  },
+  {
+   "data": "2026-11-21",
+   "hora_lisboa": "12:30",
+   "scheduledAt_utc": "2026-11-21T12:30:00.000Z",
+   "tipo": "carrossel",
+   "assunto": "Comprar ou arrendar: o que pesa além da prestação",
+   "fonte": "Info Imobiliária, «Comprar ou arrendar casa», com Portal da Literacia Financeira e idealista.",
+   "ficheiros": [
+    "infoimobiliaria-20261121-carrossel-1.jpg",
+    "infoimobiliaria-20261121-carrossel-2.jpg",
+    "infoimobiliaria-20261121-carrossel-3.jpg",
+    "infoimobiliaria-20261121-carrossel-4.jpg",
+    "infoimobiliaria-20261121-carrossel-5.jpg"
+   ],
+   "commit": "dee3b0cf3454c2906e28ca6f37ef490a49250936",
+   "legenda": "Comprar ou arrendar: comparar prestação com renda não chega.\nNa compra há IMT, Selo de 0,8% e comissões do banco, entre 650 € e 900 €.\nTodos os anos há IMI, entre 0,3% e 0,45% do VPT.\nO simulador do Portal da Literacia Financeira assume 1% a 2% do valor da casa por ano em manutenção.\nSe o horizonte é de dois ou três anos, arrendar tende a fazer mais sentido.\nGuarda este carrossel.\n\ninfoimobiliaria.com\n(Link também na bio.)\n\nFonte: Info Imobiliária, «Comprar ou arrendar casa», com Portal da Literacia Financeira e idealista.\nInformação geral. Confirma com um advogado ou solicitador.\n\nInfo Imobiliária, by OMNI\n\n#arrendarouromprar #comprarcasa #arrendamento #imobiliário #infoimobiliária",
+   "stories": [
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261121-carrossel-1-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-11-21T13:00:00.000Z"
+    },
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261121-carrossel-2-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-11-21T13:12:00.000Z"
+    },
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261121-carrossel-3-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-11-21T13:24:00.000Z"
+    },
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261121-carrossel-4-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-11-21T13:36:00.000Z"
+    },
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261121-carrossel-5-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-11-21T13:48:00.000Z"
+    }
+   ],
+   "estado": "pronto",
+   "stories_estado": "por agendar"
+  },
+  {
+   "data": "2026-11-21",
+   "hora_lisboa": "17:30",
+   "scheduledAt_utc": "2026-11-21T17:30:00.000Z",
+   "tipo": "imagem",
+   "assunto": "Preço pedido: 3.228 €/m²",
+   "fonte": "idealista/news (1/10/2026), via Info Imobiliária.",
+   "ficheiros": [
+    "infoimobiliaria-20261121-imagem.jpg"
+   ],
+   "commit": "dee3b0cf3454c2906e28ca6f37ef490a49250936",
+   "legenda": "3 228 € por metro quadrado.\nÉ o preço mediano pedido nos anúncios em setembro, um novo recorde.\nMais 7,9% do que um ano antes.\nLisboa: 6 256 €/m².\nCastelo Branco: 1 090 €/m².\nÉ o preço pedido, não o preço de venda nem a avaliação do banco.\n\ninfoimobiliaria.com\n(Link também na bio.)\n\nFonte: idealista/news (1/10/2026), via Info Imobiliária.\n\nInfo Imobiliária, by OMNI\n\n#preçosdecasas #mercadoimobiliário #imobiliário #infoimobiliária",
+   "stories": [
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261121-imagem-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-11-21T18:00:00.000Z"
+    }
+   ],
+   "estado": "pronto",
+   "stories_estado": "por agendar"
+  },
+  {
+   "data": "2026-11-22",
+   "hora_lisboa": "10:30",
+   "scheduledAt_utc": "2026-11-22T10:30:00.000Z",
+   "tipo": "video",
+   "assunto": "OE2027: medidas para a habitação",
+   "fonte": "idealista/news (8/10/2026), via Info Imobiliária.",
+   "ficheiros": [
+    "infoimobiliaria-20261122-video-1.mp4"
+   ],
+   "commit": "dee3b0cf3454c2906e28ca6f37ef490a49250936",
+   "legenda": "Orçamento do Estado para 2027: o que traz para a habitação.\nProposta de IVA da construção a 6%, em vez de 23%.\nProposta de IRS mais baixo para rendas moderadas, até 2 300 € por mês.\nA garantia pública está prevista, mas a continuidade não foi confirmada formalmente.\nA votação final global está marcada para 24 de novembro.\nNada disto está em vigor.\n\ninfoimobiliaria.com\n(Link também na bio.)\n\nFonte: idealista/news (8/10/2026), via Info Imobiliária.\nInformação geral. Confirma com um advogado ou solicitador.\n\nInfo Imobiliária, by OMNI\n\n#OE2027 #habitação #IRS #imobiliário #infoimobiliária",
+   "stories": [
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261122-video-1.mp4"
+     ],
+     "scheduledAt_utc": "2026-11-22T10:55:00.000Z"
+    }
+   ],
+   "titulo_youtube": "OE2027 e habitação: IVA a 6% e IRS mais baixo nas rendas",
+   "estado": "pronto",
+   "stories_estado": "por agendar"
+  },
+  {
+   "data": "2026-11-22",
+   "hora_lisboa": "14:00",
+   "scheduledAt_utc": "2026-11-22T14:00:00.000Z",
+   "tipo": "video",
+   "assunto": "Garantia pública: 15% de 250 000 €",
+   "fonte": "Info Imobiliária, «Garantia pública» e ECO (22/10/2026). Exemplo calculado por nós.",
+   "ficheiros": [
+    "infoimobiliaria-20261122-video-2.mp4"
+   ],
+   "commit": "dee3b0cf3454c2906e28ca6f37ef490a49250936",
+   "legenda": "Casa de 250 000 €.\nSem garantia, o banco financia até 90%: 225 000 €, com entrada de 25 000 €.\nA garantia pública cobre até 15% do valor: 37 500 €.\nEm muitos casos, permite financiar 100%.\nÉ para jovens até 35 anos, na primeira casa, com imóvel até 450 000 €.\n\ninfoimobiliaria.com\n(Link também na bio.)\n\nFonte: Info Imobiliária, «Garantia pública» e ECO (22/10/2026). Exemplo calculado por nós.\nInformação geral. Confirma com um advogado ou solicitador.\n\nInfo Imobiliária, by OMNI\n\n#garantiapública #jovens #comprarcasa #imobiliário #infoimobiliária",
+   "stories": [
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261122-video-2.mp4"
+     ],
+     "scheduledAt_utc": "2026-11-22T14:25:00.000Z"
+    }
+   ],
+   "titulo_youtube": "Garantia pública para jovens: quanto cobre numa casa de 250 000 €?",
+   "estado": "pronto",
+   "stories_estado": "por agendar"
+  },
+  {
+   "data": "2026-11-22",
+   "hora_lisboa": "20:00",
+   "scheduledAt_utc": "2026-11-22T20:00:00.000Z",
+   "tipo": "video",
+   "assunto": "Vender primeiro ou comprar primeiro?",
+   "fonte": "Info Imobiliária, «Vender primeiro ou comprar primeiro: como decidir».",
+   "ficheiros": [
+    "infoimobiliaria-20261122-video-3.mp4"
+   ],
+   "commit": "dee3b0cf3454c2906e28ca6f37ef490a49250936",
+   "legenda": "Vais mudar de casa: vendes primeiro ou compras primeiro?\nPara a maioria, vender primeiro é a opção mais segura.\nComprar primeiro só com folga financeira ou cláusula suspensiva no contrato-promessa.\nSenão, arriscas dois créditos ou prestação mais renda.\nPede a pré-aprovação ao banco e coordena as datas das duas escrituras.\n\ninfoimobiliaria.com\n(Link também na bio.)\n\nFonte: Info Imobiliária, «Vender primeiro ou comprar primeiro: como decidir».\nInformação geral. Confirma com um advogado ou solicitador.\n\nInfo Imobiliária, by OMNI\n\n#vendercasa #comprarcasa #mudardecasa #imobiliário #infoimobiliária",
+   "stories": [
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261122-video-3.mp4"
+     ],
+     "scheduledAt_utc": "2026-11-22T20:25:00.000Z"
+    }
+   ],
+   "titulo_youtube": "Vender primeiro ou comprar primeiro: como decidir",
+   "estado": "pronto",
+   "stories_estado": "por agendar"
+  },
+  {
+   "data": "2026-11-22",
+   "hora_lisboa": "11:30",
+   "scheduledAt_utc": "2026-11-22T11:30:00.000Z",
+   "tipo": "carrossel",
+   "assunto": "Preparar a casa para vender, gastando pouco",
+   "fonte": "Info Imobiliária, «Como preparar a casa para vender, gastando pouco».",
+   "ficheiros": [
+    "infoimobiliaria-20261122-carrossel-1.jpg",
+    "infoimobiliaria-20261122-carrossel-2.jpg",
+    "infoimobiliaria-20261122-carrossel-3.jpg",
+    "infoimobiliaria-20261122-carrossel-4.jpg",
+    "infoimobiliaria-20261122-carrossel-5.jpg"
+   ],
+   "commit": "dee3b0cf3454c2906e28ca6f37ef490a49250936",
+   "legenda": "Preparar a casa para vender, gastando pouco.\n1.\nDespersonaliza e arruma: menos fotografias pessoais e menos mobília.\n2.\nLimpeza profunda e pequenas reparações.\n3.\nPintura em tons neutros e exterior cuidado.\nUm fim de semana costuma chegar, e a pintura soma mais alguns dias.\nGuarda este carrossel.\n\ninfoimobiliaria.com\n(Link também na bio.)\n\nFonte: Info Imobiliária, «Como preparar a casa para vender, gastando pouco».\n\nInfo Imobiliária, by OMNI\n\n#vendercasa #homestaging #dicasdecasa #imobiliário #infoimobiliária",
+   "stories": [
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261122-carrossel-1-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-11-22T12:00:00.000Z"
+    },
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261122-carrossel-2-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-11-22T12:12:00.000Z"
+    },
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261122-carrossel-3-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-11-22T12:24:00.000Z"
+    },
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261122-carrossel-4-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-11-22T12:36:00.000Z"
+    },
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261122-carrossel-5-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-11-22T12:48:00.000Z"
+    }
+   ],
+   "estado": "pronto",
+   "stories_estado": "por agendar"
+  },
+  {
+   "data": "2026-11-22",
+   "hora_lisboa": "16:30",
+   "scheduledAt_utc": "2026-11-22T16:30:00.000Z",
+   "tipo": "imagem",
+   "assunto": "Prestação média: 423 €",
+   "fonte": "INE, via ECO (21/10/2026).",
+   "ficheiros": [
+    "infoimobiliaria-20261122-imagem.jpg"
+   ],
+   "commit": "dee3b0cf3454c2906e28ca6f37ef490a49250936",
+   "legenda": "423 €.\nÉ a prestação média do crédito à habitação em setembro, segundo o INE.\nOs juros pesam 213 €, ou 50,4%, e o capital 210 €.\nMais 30 € do que um ano antes.\nÉ uma média: a tua prestação depende do capital, do prazo e da taxa.\n\ninfoimobiliaria.com\n(Link também na bio.)\n\nFonte: INE, via ECO (21/10/2026).\n\nInfo Imobiliária, by OMNI\n\n#créditohabitação #prestação #INE #imobiliário #infoimobiliária",
+   "stories": [
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261122-imagem-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-11-22T17:00:00.000Z"
+    }
+   ],
+   "estado": "pronto",
+   "stories_estado": "por agendar"
+  },
+  {
+   "data": "2026-11-23",
+   "hora_lisboa": "09:15",
+   "scheduledAt_utc": "2026-11-23T09:15:00.000Z",
+   "tipo": "video",
+   "assunto": "IMT Jovem: a proposta para 2027",
+   "fonte": "Info Imobiliária, «IMT Jovem» e «OE2027: IMT sobe 2,3%» (ECO e Contas Poupança, 8/10/2026). Exemplo calculado por nós.",
+   "ficheiros": [
+    "infoimobiliaria-20261123-video-1.mp4"
+   ],
+   "commit": "dee3b0cf3454c2906e28ca6f37ef490a49250936",
+   "legenda": "Jovens até 35 anos na primeira casa não pagam IMT até 330 539 €, em 2026.\nA proposta de Orçamento para 2027 sobe esse limite para 338 141 €.\nNuma casa de 400 000 €, o IMT passaria de 5 556,88 € para 4 948,72 €, sem contar o Selo.\nÉ só uma proposta, ainda por votar.\nEm 2026 vale a tabela de 2026.\n\ninfoimobiliaria.com\n(Link também na bio.)\n\nFonte: Info Imobiliária, «IMT Jovem» e «OE2027: IMT sobe 2,3%» (ECO e Contas Poupança, 8/10/2026). Exemplo calculado por nós.\nInformação geral. Confirma com um advogado ou solicitador.\n\nInfo Imobiliária, by OMNI\n\n#IMTjovem #OE2027 #jovens #imobiliário #infoimobiliária",
+   "stories": [
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261123-video-1.mp4"
+     ],
+     "scheduledAt_utc": "2026-11-23T09:40:00.000Z"
+    }
+   ],
+   "titulo_youtube": "IMT Jovem em 2027: o que o Orçamento propõe",
+   "estado": "pronto",
+   "stories_estado": "por agendar"
+  },
+  {
+   "data": "2026-11-23",
+   "hora_lisboa": "15:00",
+   "scheduledAt_utc": "2026-11-23T15:00:00.000Z",
+   "tipo": "video",
+   "assunto": "Caderneta predial ou certidão permanente?",
+   "fonte": "Info Imobiliária, páginas «Caderneta predial» e «Certidão permanente».",
+   "ficheiros": [
+    "infoimobiliaria-20261123-video-2.mp4"
+   ],
+   "commit": "dee3b0cf3454c2906e28ca6f37ef490a49250936",
+   "legenda": "Caderneta predial: emitida pelas Finanças, tem o VPT, as áreas e o proprietário.\nCertidão permanente: do registo predial, mostra o dono, hipotecas e penhoras.\nEm regra, a certidão vale 6 meses.\nNa compra precisas das duas.\nCompara áreas e descrição com o anúncio antes do CPCV.\n\ninfoimobiliaria.com\n(Link também na bio.)\n\nFonte: Info Imobiliária, páginas «Caderneta predial» e «Certidão permanente».\nInformação geral. Confirma com um advogado ou solicitador.\n\nInfo Imobiliária, by OMNI\n\n#cadernetapredial #certidãopermanente #comprarcasa #imobiliário #infoimobiliária",
+   "stories": [
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261123-video-2.mp4"
+     ],
+     "scheduledAt_utc": "2026-11-23T15:25:00.000Z"
+    }
+   ],
+   "titulo_youtube": "Caderneta predial ou certidão permanente: qual a diferença?",
+   "estado": "pronto",
+   "stories_estado": "por agendar"
+  },
+  {
+   "data": "2026-11-23",
+   "hora_lisboa": "19:15",
+   "scheduledAt_utc": "2026-11-23T19:15:00.000Z",
+   "tipo": "video",
+   "assunto": "Só 12% das casas vendem-se numa semana",
+   "fonte": "idealista/news (20/10/2026), via Info Imobiliária.",
+   "ficheiros": [
+    "infoimobiliaria-20261123-video-3.mp4"
+   ],
+   "commit": "dee3b0cf3454c2906e28ca6f37ef490a49250936",
+   "legenda": "Quanto tempo demora a vender casa?\nDados do 3.º trimestre no idealista.\n12% venderam em menos de uma semana e 37% demoraram entre 3 meses e 1 ano.\nEm Lisboa, só 7% venderam em menos de uma semana.\nNo Porto foram 14% e em Aveiro 15%.\nCada caso é diferente: o preço e a preparação pesam.\n\ninfoimobiliaria.com\n(Link também na bio.)\n\nFonte: idealista/news (20/10/2026), via Info Imobiliária.\n\nInfo Imobiliária, by OMNI\n\n#vendercasa #mercadoimobiliário #idealista #imobiliário #infoimobiliária",
+   "stories": [
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261123-video-3.mp4"
+     ],
+     "scheduledAt_utc": "2026-11-23T19:40:00.000Z"
+    }
+   ],
+   "titulo_youtube": "Só 12% das casas vendem-se numa semana: e a tua?",
+   "estado": "pronto",
+   "stories_estado": "por agendar"
+  },
+  {
+   "data": "2026-11-23",
+   "hora_lisboa": "15:15",
+   "scheduledAt_utc": "2026-11-23T15:15:00.000Z",
+   "tipo": "carrossel",
+   "assunto": "Imposto do Selo: compra, crédito e comissões",
+   "fonte": "Info Imobiliária, «Tabela do Imposto do Selo em 2026». Exemplo calculado por nós.",
+   "ficheiros": [
+    "infoimobiliaria-20261123-carrossel-1.jpg",
+    "infoimobiliaria-20261123-carrossel-2.jpg",
+    "infoimobiliaria-20261123-carrossel-3.jpg",
+    "infoimobiliaria-20261123-carrossel-4.jpg",
+    "infoimobiliaria-20261123-carrossel-5.jpg"
+   ],
+   "commit": "dee3b0cf3454c2906e28ca6f37ef490a49250936",
+   "legenda": "Imposto do Selo: o que pagas.\nNa compra da casa: 0,8% sobre o valor que serve de base ao IMT.\nNo crédito: 0,6% do capital, quando o prazo é de 5 anos ou mais.\nNas comissões do banco: 4%.\nExemplo: casa de 250 000 € e crédito de 200 000 € dão 2 000 € + 1 200 € = 3 200 € de Selo.\nGuarda este carrossel.\n\ninfoimobiliaria.com\n(Link também na bio.)\n\nFonte: Info Imobiliária, «Tabela do Imposto do Selo em 2026». Exemplo calculado por nós.\nInformação geral. Confirma com um advogado ou solicitador.\n\nInfo Imobiliária, by OMNI\n\n#impostodoselo #comprarcasa #impostos #imobiliário #infoimobiliária",
+   "stories": [
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261123-carrossel-1-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-11-23T15:45:00.000Z"
+    },
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261123-carrossel-2-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-11-23T15:57:00.000Z"
+    },
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261123-carrossel-3-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-11-23T16:09:00.000Z"
+    },
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261123-carrossel-4-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-11-23T16:21:00.000Z"
+    },
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261123-carrossel-5-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-11-23T16:33:00.000Z"
+    }
+   ],
+   "estado": "pronto",
+   "stories_estado": "por agendar"
+  },
+  {
+   "data": "2026-11-23",
+   "hora_lisboa": "17:00",
+   "scheduledAt_utc": "2026-11-23T17:00:00.000Z",
+   "tipo": "imagem",
+   "assunto": "Preços da habitação: +16,5%",
+   "fonte": "INE (22/9/2026), via ComparaJá.",
+   "ficheiros": [
+    "infoimobiliaria-20261123-imagem.jpg"
+   ],
+   "commit": "dee3b0cf3454c2906e28ca6f37ef490a49250936",
+   "legenda": "+16,5%.\nÉ a subida dos preços da habitação no 2.º trimestre de 2026, face a um ano antes, segundo o INE.\nAbrandou face aos 17,8% do 1.º trimestre.\nMede transações de casas novas e existentes.\n\ninfoimobiliaria.com\n(Link também na bio.)\n\nFonte: INE (22/9/2026), via ComparaJá.\n\nInfo Imobiliária, by OMNI\n\n#preçosdecasas #INE #mercadoimobiliário #imobiliário #infoimobiliária",
+   "stories": [
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261123-imagem-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-11-23T17:30:00.000Z"
+    }
+   ],
+   "estado": "pronto",
+   "stories_estado": "por agendar"
+  },
+  {
+   "data": "2026-11-24",
+   "hora_lisboa": "10:00",
+   "scheduledAt_utc": "2026-11-24T10:00:00.000Z",
+   "tipo": "video",
+   "assunto": "Mais procura: preços sobem mais do que as rendas",
+   "fonte": "idealista/news (Lusa), 16/10/2026, via Info Imobiliária.",
+   "ficheiros": [
+    "infoimobiliaria-20261124-video-1.mp4"
+   ],
+   "commit": "dee3b0cf3454c2906e28ca6f37ef490a49250936",
+   "legenda": "Um estudo do Banco de Portugal analisou os municípios entre 2017 e 2024.\nQuando a procura sobe 1%, os preços das casas sobem cerca de 0,69% e as rendas cerca de 0,37%.\nO efeito é maior onde há menos oferta, como Lisboa e Porto.\nA conclusão é que apoiar só a procura não chega: falta oferta.\nÉ um estudo, não muda regras nem impostos.\n\ninfoimobiliaria.com\n(Link também na bio.)\n\nFonte: idealista/news (Lusa), 16/10/2026, via Info Imobiliária.\n\nInfo Imobiliária, by OMNI\n\n#bancodeportugal #habitação #preços #imobiliário #infoimobiliária",
+   "stories": [
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261124-video-1.mp4"
+     ],
+     "scheduledAt_utc": "2026-11-24T10:25:00.000Z"
+    }
+   ],
+   "titulo_youtube": "Banco de Portugal: mais procura sobe mais os preços do que as rendas",
+   "estado": "pronto",
+   "stories_estado": "por agendar"
+  },
+  {
+   "data": "2026-11-24",
+   "hora_lisboa": "13:15",
+   "scheduledAt_utc": "2026-11-24T13:15:00.000Z",
+   "tipo": "video",
+   "assunto": "Teste de stress do banco: a prestação que conta",
+   "fonte": "Info Imobiliária, «Taxa de esforço», com base no Portal da Literacia Financeira. Exemplo calculado por nós.",
+   "ficheiros": [
+    "infoimobiliaria-20261124-video-2.mp4"
+   ],
+   "commit": "dee3b0cf3454c2906e28ca6f37ef490a49250936",
+   "legenda": "Crédito de 150 000 €, 30 anos, taxa de 3,5%.\nA prestação real é de 673,57 €.\nO banco simula uma subida de 1,5 pontos nos créditos com mais de 10 anos: taxa de 5%, prestação de 805,23 €.\nCom o limite de 45%, precisas de cerca de 1 789 € líquidos por mês, só para este crédito.\nCada outro crédito que pagas aumenta o rendimento de que precisas.\n\ninfoimobiliaria.com\n(Link também na bio.)\n\nFonte: Info Imobiliária, «Taxa de esforço», com base no Portal da Literacia Financeira. Exemplo calculado por nós.\n\nInfo Imobiliária, by OMNI\n\n#taxadeesforço #stresstest #créditohabitação #imobiliário #infoimobiliária",
+   "stories": [
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261124-video-2.mp4"
+     ],
+     "scheduledAt_utc": "2026-11-24T13:40:00.000Z"
+    }
+   ],
+   "titulo_youtube": "O teste de stress do banco: a prestação que realmente conta",
+   "estado": "pronto",
+   "stories_estado": "por agendar"
+  },
+  {
+   "data": "2026-11-24",
+   "hora_lisboa": "20:30",
+   "scheduledAt_utc": "2026-11-24T20:30:00.000Z",
+   "tipo": "video",
+   "assunto": "Erro comum: começar obras sem orçamentos",
+   "fonte": "Info Imobiliária, «Obras em casa: por onde começar, orçamentos e licenças».",
+   "ficheiros": [
+    "infoimobiliaria-20261124-video-3.mp4"
+   ],
+   "commit": "dee3b0cf3454c2906e28ca6f37ef490a49250936",
+   "legenda": "Erro comum: chamar o primeiro empreiteiro e aceitar o primeiro preço.\nPede pelo menos dois ou três orçamentos.\nConfirma na câmara se a obra precisa de licença.\nCombina o pagamento por escrito, por exemplo 50% no início e 50% no fim.\nSe houver defeitos, avisa por carta registada com aviso de receção.\n\ninfoimobiliaria.com\n(Link também na bio.)\n\nFonte: Info Imobiliária, «Obras em casa: por onde começar, orçamentos e licenças».\nInformação geral. Confirma com um advogado ou solicitador.\n\nInfo Imobiliária, by OMNI\n\n#obras #empreiteiro #casaevida #imobiliário #infoimobiliária",
+   "stories": [
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261124-video-3.mp4"
+     ],
+     "scheduledAt_utc": "2026-11-24T20:55:00.000Z"
+    }
+   ],
+   "titulo_youtube": "Erro comum: começar as obras em casa sem orçamentos",
+   "estado": "pronto",
+   "stories_estado": "por agendar"
+  },
+  {
+   "data": "2026-11-24",
+   "hora_lisboa": "11:45",
+   "scheduledAt_utc": "2026-11-24T11:45:00.000Z",
+   "tipo": "carrossel",
+   "assunto": "Mudar de casa: os prazos",
+   "fonte": "Info Imobiliária, «Mudar de casa: o que tratar e em que prazos», com gov.pt.",
+   "ficheiros": [
+    "infoimobiliaria-20261124-carrossel-1.jpg",
+    "infoimobiliaria-20261124-carrossel-2.jpg",
+    "infoimobiliaria-20261124-carrossel-3.jpg",
+    "infoimobiliaria-20261124-carrossel-4.jpg",
+    "infoimobiliaria-20261124-carrossel-5.jpg"
+   ],
+   "commit": "dee3b0cf3454c2906e28ca6f37ef490a49250936",
+   "legenda": "Mudar de casa: prazos a cumprir.\nMorada fiscal: 60 dias após a mudança, com o código enviado por carta para a nova morada.\nCertificado de matrícula do carro: 60 dias.\nAnimal de companhia (SIAC): 15 dias.\nReexpedição dos CTT: cerca de 3 dias úteis a ficar ativa.\nGuarda este carrossel.\n\ninfoimobiliaria.com\n(Link também na bio.)\n\nFonte: Info Imobiliária, «Mudar de casa: o que tratar e em que prazos», com gov.pt.\n\nInfo Imobiliária, by OMNI\n\n#mudardecasa #moradafiscal #checklist #imobiliário #infoimobiliária",
+   "stories": [
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261124-carrossel-1-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-11-24T12:15:00.000Z"
+    },
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261124-carrossel-2-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-11-24T12:27:00.000Z"
+    },
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261124-carrossel-3-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-11-24T12:39:00.000Z"
+    },
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261124-carrossel-4-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-11-24T12:51:00.000Z"
+    },
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261124-carrossel-5-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-11-24T13:03:00.000Z"
+    }
+   ],
+   "estado": "pronto",
+   "stories_estado": "por agendar"
+  },
+  {
+   "data": "2026-11-24",
+   "hora_lisboa": "16:15",
+   "scheduledAt_utc": "2026-11-24T16:15:00.000Z",
+   "tipo": "imagem",
+   "assunto": "Prazo máximo do crédito: 40 ou 35 anos",
+   "fonte": "Info Imobiliária, «Taxa de esforço» e «Crédito habitação: taxa de esforço máxima desce para 45%».",
+   "ficheiros": [
+    "infoimobiliaria-20261124-imagem.jpg"
+   ],
+   "commit": "dee3b0cf3454c2906e28ca6f37ef490a49250936",
+   "legenda": "Prazo máximo do crédito habitação: 40 anos até aos 35 anos de idade e 35 anos acima disso.\nÉ uma recomendação do Banco de Portugal, em vigor desde 1 de agosto de 2026.\nSegue a lógica de cumprir ou explicar.\nCada banco pode fazer exceções limitadas.\n\ninfoimobiliaria.com\n(Link também na bio.)\n\nFonte: Info Imobiliária, «Taxa de esforço» e «Crédito habitação: taxa de esforço máxima desce para 45%».\n\nInfo Imobiliária, by OMNI\n\n#créditohabitação #bancodeportugal #prazo #imobiliário #infoimobiliária",
+   "stories": [
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261124-imagem-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-11-24T16:45:00.000Z"
+    }
+   ],
+   "estado": "pronto",
+   "stories_estado": "por agendar"
+  },
+  {
+   "data": "2026-11-25",
+   "hora_lisboa": "09:30",
+   "scheduledAt_utc": "2026-11-25T09:30:00.000Z",
+   "tipo": "video",
+   "assunto": "Avaliação bancária: 2.278 €/m²",
+   "fonte": "INE (27/10/2026), via Jornal Económico e Executive Digest.",
+   "ficheiros": [
+    "infoimobiliaria-20261125-video-1.mp4"
+   ],
+   "commit": "dee3b0cf3454c2906e28ca6f37ef490a49250936",
+   "legenda": "A avaliação bancária mediana das casas chegou a 2 278 €/m² em setembro, um máximo histórico.\nÉ mais 1,1% do que em agosto e mais 14,2% do que um ano antes.\nA subida anual abrandou: em agosto era de 14,7%.\nO banco financia sobre o menor valor entre o preço e a avaliação.\nSe a avaliação ficar abaixo do preço, a diferença sai do teu bolso.\n\ninfoimobiliaria.com\n(Link também na bio.)\n\nFonte: INE (27/10/2026), via Jornal Económico e Executive Digest.\n\nInfo Imobiliária, by OMNI\n\n#avaliaçãobancária #INE #créditohabitação #imobiliário #infoimobiliária",
+   "stories": [
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261125-video-1.mp4"
+     ],
+     "scheduledAt_utc": "2026-11-25T09:55:00.000Z"
+    }
+   ],
+   "titulo_youtube": "Avaliação bancária em recorde: 2.278 €/m² em setembro",
+   "estado": "pronto",
+   "stories_estado": "por agendar"
+  },
+  {
+   "data": "2026-11-25",
+   "hora_lisboa": "14:45",
+   "scheduledAt_utc": "2026-11-25T14:45:00.000Z",
+   "tipo": "video",
+   "assunto": "AIMI: quanto paga quem tem imóveis de 1,3 milhões?",
+   "fonte": "Info Imobiliária, «AIMI: quem paga o adicional ao IMI», com a Caixa Geral de Depósitos. Exemplo calculado por nós.",
+   "ficheiros": [
+    "infoimobiliaria-20261125-video-2.mp4"
+   ],
+   "commit": "dee3b0cf3454c2906e28ca6f37ef490a49250936",
+   "legenda": "AIMI: o adicional ao IMI só afeta quem tem imóveis com VPT total acima de 600 000 €.\nExemplo: VPT total de 1 300 000 €.\nDe 600 000 € a 1 000 000 €: 400 000 € × 0,7% = 2 800 €.\nDe 1 000 000 € a 1 300 000 €: 300 000 € × 1% = 3 000 €.\nTotal: 5 800 €.\n\ninfoimobiliaria.com\n(Link também na bio.)\n\nFonte: Info Imobiliária, «AIMI: quem paga o adicional ao IMI», com a Caixa Geral de Depósitos. Exemplo calculado por nós.\nInformação geral. Confirma com um advogado ou solicitador.\n\nInfo Imobiliária, by OMNI\n\n#AIMI #IMI #impostos #imobiliário #infoimobiliária",
+   "stories": [
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261125-video-2.mp4"
+     ],
+     "scheduledAt_utc": "2026-11-25T15:10:00.000Z"
+    }
+   ],
+   "titulo_youtube": "AIMI: quanto paga quem tem 1,3 milhões em imóveis?",
+   "estado": "pronto",
+   "stories_estado": "por agendar"
+  },
+  {
+   "data": "2026-11-25",
+   "hora_lisboa": "19:45",
+   "scheduledAt_utc": "2026-11-25T19:45:00.000Z",
+   "tipo": "video",
+   "assunto": "Erro comum: CPCV sem cláusula de financiamento",
+   "fonte": "Info Imobiliária, «E se o banco recusar o crédito depois de assinares o CPCV?», com LexPoint e Portal da Literacia Financeira.",
+   "ficheiros": [
+    "infoimobiliaria-20261125-video-3.mp4"
+   ],
+   "commit": "dee3b0cf3454c2906e28ca6f37ef490a49250936",
+   "legenda": "Erro comum: assinar o CPCV a contar com o crédito, sem o escrever.\nSem cláusula de financiamento, se o banco recusar o crédito o risco é teu.\nCom a cláusula, recuperas o sinal.\nNum caso de 14 de julho de 2026, a Relação de Évora mandou devolver o sinal em singelo.\nEscreve no CPCV o que acontece ao sinal se o banco recusar.\n\ninfoimobiliaria.com\n(Link também na bio.)\n\nFonte: Info Imobiliária, «E se o banco recusar o crédito depois de assinares o CPCV?», com LexPoint e Portal da Literacia Financeira.\nInformação geral. Confirma com um advogado ou solicitador.\n\nInfo Imobiliária, by OMNI\n\n#CPCV #sinal #créditohabitação #imobiliário #infoimobiliária",
+   "stories": [
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261125-video-3.mp4"
+     ],
+     "scheduledAt_utc": "2026-11-25T20:10:00.000Z"
+    }
+   ],
+   "titulo_youtube": "Erro comum: assinar o CPCV sem cláusula de financiamento",
+   "estado": "pronto",
+   "stories_estado": "por agendar"
+  },
+  {
+   "data": "2026-11-25",
+   "hora_lisboa": "10:30",
+   "scheduledAt_utc": "2026-11-25T10:30:00.000Z",
+   "tipo": "carrossel",
+   "assunto": "Oferta de casas à venda: -4% no verão",
+   "fonte": "idealista/news (15/10/2026), via Info Imobiliária.",
+   "ficheiros": [
+    "infoimobiliaria-20261125-carrossel-1.jpg",
+    "infoimobiliaria-20261125-carrossel-2.jpg",
+    "infoimobiliaria-20261125-carrossel-3.jpg",
+    "infoimobiliaria-20261125-carrossel-4.jpg",
+    "infoimobiliaria-20261125-carrossel-5.jpg"
+   ],
+   "commit": "dee3b0cf3454c2906e28ca6f37ef490a49250936",
+   "legenda": "Oferta de casas à venda cai 4%.\nFoi o 7.º trimestre seguido de quedas, entre junho e agosto de 2026.\nNas capitais de distrito, caiu no Funchal (-33%), no Porto (-21%) e em Viana do Castelo (-17%).\nSubiu em Vila Real (+34%), na Guarda (+25%) e em Bragança (+18%).\nHá grandes diferenças entre zonas.\nGuarda este carrossel.\n\ninfoimobiliaria.com\n(Link também na bio.)\n\nFonte: idealista/news (15/10/2026), via Info Imobiliária.\n\nInfo Imobiliária, by OMNI\n\n#mercadoimobiliário #oferta #idealista #imobiliário #infoimobiliária",
+   "stories": [
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261125-carrossel-1-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-11-25T11:00:00.000Z"
+    },
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261125-carrossel-2-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-11-25T11:12:00.000Z"
+    },
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261125-carrossel-3-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-11-25T11:24:00.000Z"
+    },
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261125-carrossel-4-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-11-25T11:36:00.000Z"
+    },
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261125-carrossel-5-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-11-25T11:48:00.000Z"
+    }
+   ],
+   "estado": "pronto",
+   "stories_estado": "por agendar"
+  },
+  {
+   "data": "2026-11-25",
+   "hora_lisboa": "15:30",
+   "scheduledAt_utc": "2026-11-25T15:30:00.000Z",
+   "tipo": "imagem",
+   "assunto": "AIMI: acima de 600 000 €",
+   "fonte": "Info Imobiliária, «AIMI: quem paga o adicional ao IMI».",
+   "ficheiros": [
+    "infoimobiliaria-20261125-imagem.jpg"
+   ],
+   "commit": "dee3b0cf3454c2906e28ca6f37ef490a49250936",
+   "legenda": "600 000 €.\nÉ o VPT total dos imóveis a partir do qual uma pessoa singular paga AIMI.\nAbaixo disso, não há AIMI.\nCasal em tributação conjunta: 1 200 000 €.\nPaga-se em setembro.\n\ninfoimobiliaria.com\n(Link também na bio.)\n\nFonte: Info Imobiliária, «AIMI: quem paga o adicional ao IMI».\nInformação geral. Confirma com um advogado ou solicitador.\n\nInfo Imobiliária, by OMNI\n\n#AIMI #IMI #impostos #imobiliário #infoimobiliária",
+   "stories": [
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261125-imagem-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-11-25T16:00:00.000Z"
+    }
+   ],
+   "estado": "pronto",
+   "stories_estado": "por agendar"
+  },
+  {
+   "data": "2026-11-26",
+   "hora_lisboa": "10:45",
+   "scheduledAt_utc": "2026-11-26T10:45:00.000Z",
+   "tipo": "video",
+   "assunto": "Casa mais quente no inverno sem obras",
+   "fonte": "idealista/news e Cofidis, via Info Imobiliária.",
+   "ficheiros": [
+    "infoimobiliaria-20261126-video-1.mp4"
+   ],
+   "commit": "dee3b0cf3454c2906e28ca6f37ef490a49250936",
+   "legenda": "Casa mais quente no inverno, sem obras.\nDeixa entrar o sol de dia e fecha ao fim da tarde.\nVeda as frinchas e isola a caixa dos estores.\nUsa cortinas grossas e fecha as portas das divisões sem uso.\nVentila pouco tempo, de cada vez.\nTemperatura de conforto: 18 ºC a 21 ºC em casa e 16 ºC a 20 ºC nos quartos.\n\ninfoimobiliaria.com\n(Link também na bio.)\n\nFonte: idealista/news e Cofidis, via Info Imobiliária.\n\nInfo Imobiliária, by OMNI\n\n#casaquente #inverno #dicasdecasa #casaevida #infoimobiliária",
+   "stories": [
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261126-video-1.mp4"
+     ],
+     "scheduledAt_utc": "2026-11-26T11:10:00.000Z"
+    }
+   ],
+   "titulo_youtube": "Casa mais quente no inverno sem obras",
+   "estado": "pronto",
+   "stories_estado": "por agendar"
+  },
+  {
+   "data": "2026-11-26",
+   "hora_lisboa": "13:30",
+   "scheduledAt_utc": "2026-11-26T13:30:00.000Z",
+   "tipo": "video",
+   "assunto": "IMT numa segunda casa: quanto a mais?",
+   "fonte": "Info Imobiliária, «Tabela do IMT 2026» (Ofício Circulado n.º 40129/2026 da AT). Exemplo calculado por nós.",
+   "ficheiros": [
+    "infoimobiliaria-20261126-video-2.mp4"
+   ],
+   "commit": "dee3b0cf3454c2906e28ca6f37ef490a49250936",
+   "legenda": "Casa de 250 000 € no Continente, tabela de IMT de 2026.\nHabitação própria e permanente: IMT de 7 042,04 €.\nSegunda habitação ou casa para arrendar: IMT de 8 105,50 €.\nSão 1 063,46 € a mais.\nO Imposto do Selo de 0,8% é igual nos dois casos.\n\ninfoimobiliaria.com\n(Link também na bio.)\n\nFonte: Info Imobiliária, «Tabela do IMT 2026» (Ofício Circulado n.º 40129/2026 da AT). Exemplo calculado por nós.\nInformação geral. Confirma com um advogado ou solicitador.\n\nInfo Imobiliária, by OMNI\n\n#IMT #segundahabitação #comprarcasa #imobiliário #infoimobiliária",
+   "stories": [
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261126-video-2.mp4"
+     ],
+     "scheduledAt_utc": "2026-11-26T13:55:00.000Z"
+    }
+   ],
+   "titulo_youtube": "IMT: casa própria ou segunda casa? A diferença em 250 000 €",
+   "estado": "pronto",
+   "stories_estado": "por agendar"
+  },
+  {
+   "data": "2026-11-26",
+   "hora_lisboa": "20:15",
+   "scheduledAt_utc": "2026-11-26T20:15:00.000Z",
+   "tipo": "video",
+   "assunto": "Mediação exclusiva ou aberta: qual escolher?",
+   "fonte": "Info Imobiliária, «Mediação exclusiva ou mediação aberta: qual escolher».",
+   "ficheiros": [
+    "infoimobiliaria-20261126-video-3.mp4"
+   ],
+   "commit": "dee3b0cf3454c2906e28ca6f37ef490a49250936",
+   "legenda": "Mediação exclusiva: um agente, durante um período definido.\nMediação aberta: várias agências ao mesmo tempo.\nNa aberta, há risco de anúncios com preços e fotos diferentes.\nPara a maioria das vendas, a exclusiva tende a dar melhor resultado.\nA comissão varia: não há regra fixa.\n\ninfoimobiliaria.com\n(Link também na bio.)\n\nFonte: Info Imobiliária, «Mediação exclusiva ou mediação aberta: qual escolher».\nInformação geral. Confirma com um advogado ou solicitador.\n\nInfo Imobiliária, by OMNI\n\n#vendercasa #mediação #agenteimobiliário #imobiliário #infoimobiliária",
+   "stories": [
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261126-video-3.mp4"
+     ],
+     "scheduledAt_utc": "2026-11-26T20:40:00.000Z"
+    }
+   ],
+   "titulo_youtube": "Mediação exclusiva ou aberta: qual escolher ao vender casa?",
+   "estado": "pronto",
+   "stories_estado": "por agendar"
+  },
+  {
+   "data": "2026-11-26",
+   "hora_lisboa": "15:45",
+   "scheduledAt_utc": "2026-11-26T15:45:00.000Z",
+   "tipo": "carrossel",
+   "assunto": "Como baixar a taxa de esforço",
+   "fonte": "Info Imobiliária, «Taxa de esforço: quanto o banco te deixa gastar».",
+   "ficheiros": [
+    "infoimobiliaria-20261126-carrossel-1.jpg",
+    "infoimobiliaria-20261126-carrossel-2.jpg",
+    "infoimobiliaria-20261126-carrossel-3.jpg",
+    "infoimobiliaria-20261126-carrossel-4.jpg",
+    "infoimobiliaria-20261126-carrossel-5.jpg"
+   ],
+   "commit": "dee3b0cf3454c2906e28ca6f37ef490a49250936",
+   "legenda": "Como baixar a tua taxa de esforço antes de pedir o crédito.\nPaga os créditos pequenos e cancela os cartões de crédito que não usas.\nAumenta a entrada para pedir menos ao banco, ou junta um segundo proponente.\nAlargar o prazo baixa a prestação, mas pagas mais juros no total.\nUma taxa fixa não sofre o acréscimo do teste de stress.\nGuarda este carrossel.\n\ninfoimobiliaria.com\n(Link também na bio.)\n\nFonte: Info Imobiliária, «Taxa de esforço: quanto o banco te deixa gastar».\n\nInfo Imobiliária, by OMNI\n\n#taxadeesforço #créditohabitação #comprarcasa #imobiliário #infoimobiliária",
+   "stories": [
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261126-carrossel-1-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-11-26T16:15:00.000Z"
+    },
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261126-carrossel-2-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-11-26T16:27:00.000Z"
+    },
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261126-carrossel-3-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-11-26T16:39:00.000Z"
+    },
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261126-carrossel-4-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-11-26T16:51:00.000Z"
+    },
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261126-carrossel-5-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-11-26T17:03:00.000Z"
+    }
+   ],
+   "estado": "pronto",
+   "stories_estado": "por agendar"
+  },
+  {
+   "data": "2026-11-26",
+   "hora_lisboa": "17:45",
+   "scheduledAt_utc": "2026-11-26T17:45:00.000Z",
+   "tipo": "imagem",
+   "assunto": "Temperatura de conforto: 18 a 21 ºC",
+   "fonte": "Cofidis, via Info Imobiliária.",
+   "ficheiros": [
+    "infoimobiliaria-20261126-imagem.jpg"
+   ],
+   "commit": "dee3b0cf3454c2906e28ca6f37ef490a49250936",
+   "legenda": "18 ºC a 21 ºC.\nÉ a temperatura de conforto em casa.\nNos quartos, 16 ºC a 20 ºC.\nAntes de gastares mais em aquecimento, resolve as perdas de calor.\nAs primeiras medidas custam pouco ou nada.\n\ninfoimobiliaria.com\n(Link também na bio.)\n\nFonte: Cofidis, via Info Imobiliária.\n\nInfo Imobiliária, by OMNI\n\n#casaquente #inverno #casaevida #dicasdecasa #infoimobiliária",
+   "stories": [
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261126-imagem-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-11-26T18:15:00.000Z"
+    }
+   ],
+   "estado": "pronto",
+   "stories_estado": "por agendar"
+  },
+  {
+   "data": "2026-11-27",
+   "hora_lisboa": "09:00",
+   "scheduledAt_utc": "2026-11-27T09:00:00.000Z",
+   "tipo": "video",
+   "assunto": "Garantia pública: bancos a esgotar quotas",
+   "fonte": "ECO (22/10/2026) e Lusa/DNoticias (2/9/2026), via Info Imobiliária.",
+   "ficheiros": [
+    "infoimobiliaria-20261127-video-1.mp4"
+   ],
+   "commit": "dee3b0cf3454c2906e28ca6f37ef490a49250936",
+   "legenda": "O Bankinter já usou cerca de 45 dos 60 milhões atribuídos para a garantia pública: cerca de 75% da quota.\nA 2 de setembro, o plafond foi reforçado em 100 milhões: 40 milhões para o Novo Banco e 60 milhões para o Montepio.\nA garantia cobre contratos assinados até ao final de 2026.\nPara 2027, ainda depende do Orçamento do Estado.\nPergunta ao teu banco se ainda tem quota.\n\ninfoimobiliaria.com\n(Link também na bio.)\n\nFonte: ECO (22/10/2026) e Lusa/DNoticias (2/9/2026), via Info Imobiliária.\nInformação geral. Confirma com um advogado ou solicitador.\n\nInfo Imobiliária, by OMNI\n\n#garantiapública #jovens #créditohabitação #imobiliário #infoimobiliária",
+   "stories": [
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261127-video-1.mp4"
+     ],
+     "scheduledAt_utc": "2026-11-27T09:25:00.000Z"
+    }
+   ],
+   "titulo_youtube": "Garantia pública para jovens: bancos a esgotar as quotas",
+   "estado": "pronto",
+   "stories_estado": "por agendar"
+  },
+  {
+   "data": "2026-11-27",
+   "hora_lisboa": "14:00",
+   "scheduledAt_utc": "2026-11-27T14:00:00.000Z",
+   "tipo": "video",
+   "assunto": "Habitação própria e permanente: o que significa",
+   "fonte": "Info Imobiliária, «Habitação própria e permanente: o que significa».",
+   "ficheiros": [
+    "infoimobiliaria-20261127-video-2.mp4"
+   ],
+   "commit": "dee3b0cf3454c2906e28ca6f37ef490a49250936",
+   "legenda": "Habitação própria e permanente: a casa onde moras e que é a tua morada fiscal.\nNão é segunda habitação, casa de férias ou investimento para arrendar.\nNo IMT há uma tabela própria.\nNo crédito, o financiamento máximo costuma ser mais alto.\nSe deixares de a usar como tal, podem mudar as regras que te beneficiaram.\n\ninfoimobiliaria.com\n(Link também na bio.)\n\nFonte: Info Imobiliária, «Habitação própria e permanente: o que significa».\nInformação geral. Confirma com um advogado ou solicitador.\n\nInfo Imobiliária, by OMNI\n\n#habitaçãopróprio #IMT #créditohabitação #imobiliário #infoimobiliária",
+   "stories": [
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261127-video-2.mp4"
+     ],
+     "scheduledAt_utc": "2026-11-27T14:25:00.000Z"
+    }
+   ],
+   "titulo_youtube": "Habitação própria e permanente: o que significa",
+   "estado": "pronto",
+   "stories_estado": "por agendar"
+  },
+  {
+   "data": "2026-11-27",
+   "hora_lisboa": "19:00",
+   "scheduledAt_utc": "2026-11-27T19:00:00.000Z",
+   "tipo": "video",
+   "assunto": "Erro comum: anunciar a casa sem certificado energético",
+   "fonte": "Info Imobiliária, «Certificado energético: classes e quando é obrigatório».",
+   "ficheiros": [
+    "infoimobiliaria-20261127-video-3.mp4"
+   ],
+   "commit": "dee3b0cf3454c2906e28ca6f37ef490a49250936",
+   "legenda": "Erro comum: deixar o certificado energético para depois de ter comprador.\nÉ exigido na venda, no arrendamento e na publicidade.\nO anúncio deve indicar a classe.\nEm regra, vale 10 anos na habitação e é emitido por um perito qualificado.\nTrata dele cedo, porque alguns peritos demoram.\n\ninfoimobiliaria.com\n(Link também na bio.)\n\nFonte: Info Imobiliária, «Certificado energético: classes e quando é obrigatório».\nInformação geral. Confirma com um advogado ou solicitador.\n\nInfo Imobiliária, by OMNI\n\n#certificadoenergético #vendercasa #anúncio #imobiliário #infoimobiliária",
+   "stories": [
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261127-video-3.mp4"
+     ],
+     "scheduledAt_utc": "2026-11-27T19:25:00.000Z"
+    }
+   ],
+   "titulo_youtube": "Erro comum: anunciar a casa sem certificado energético",
+   "estado": "pronto",
+   "stories_estado": "por agendar"
+  },
+  {
+   "data": "2026-11-27",
+   "hora_lisboa": "12:15",
+   "scheduledAt_utc": "2026-11-27T12:15:00.000Z",
+   "tipo": "carrossel",
+   "assunto": "7 dicas para vender casa mais rápido",
+   "fonte": "Info Imobiliária, «7 dicas para vender casa mais rápido».",
+   "ficheiros": [
+    "infoimobiliaria-20261127-carrossel-1.jpg",
+    "infoimobiliaria-20261127-carrossel-2.jpg",
+    "infoimobiliaria-20261127-carrossel-3.jpg",
+    "infoimobiliaria-20261127-carrossel-4.jpg",
+    "infoimobiliaria-20261127-carrossel-5.jpg"
+   ],
+   "commit": "dee3b0cf3454c2906e28ca6f37ef490a49250936",
+   "legenda": "7 dicas para vender casa mais rápido.\nFacilita as visitas, ao fim de semana ou ao fim do dia.\nCuida da primeira impressão e livra-te do excesso de coisas.\nMostra os benefícios da casa, não só as medidas.\nAposta na luz e faz uma inspeção prévia.\nTem os documentos prontos: caderneta, certificado energético, licença de utilização e certidão permanente.\nGuarda este carrossel.\n\ninfoimobiliaria.com\n(Link também na bio.)\n\nFonte: Info Imobiliária, «7 dicas para vender casa mais rápido».\n\nInfo Imobiliária, by OMNI\n\n#vendercasa #dicas #homestaging #imobiliário #infoimobiliária",
+   "stories": [
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261127-carrossel-1-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-11-27T12:45:00.000Z"
+    },
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261127-carrossel-2-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-11-27T12:57:00.000Z"
+    },
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261127-carrossel-3-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-11-27T13:09:00.000Z"
+    },
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261127-carrossel-4-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-11-27T13:21:00.000Z"
+    },
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261127-carrossel-5-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-11-27T13:33:00.000Z"
+    }
+   ],
+   "estado": "pronto",
+   "stories_estado": "por agendar"
+  },
+  {
+   "data": "2026-11-27",
+   "hora_lisboa": "16:45",
+   "scheduledAt_utc": "2026-11-27T16:45:00.000Z",
+   "tipo": "imagem",
+   "assunto": "Comissão de reembolso antecipado: 0,5% e 2%",
+   "fonte": "Info Imobiliária, «Como vender casa, passo a passo», com a Caixa Geral de Depósitos.",
+   "ficheiros": [
+    "infoimobiliaria-20261127-imagem.jpg"
+   ],
+   "commit": "dee3b0cf3454c2906e28ca6f37ef490a49250936",
+   "legenda": "Amortizar o crédito antes do tempo: a comissão tem limite.\nTaxa variável: máximo de 0,5% do capital em dívida.\nTaxa fixa: máximo de 2%.\nPergunta ao banco quanto vais pagar antes de amortizares.\n\ninfoimobiliaria.com\n(Link também na bio.)\n\nFonte: Info Imobiliária, «Como vender casa, passo a passo», com a Caixa Geral de Depósitos.\nInformação geral. Confirma com um advogado ou solicitador.\n\nInfo Imobiliária, by OMNI\n\n#amortização #créditohabitação #comissões #imobiliário #infoimobiliária",
+   "stories": [
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261127-imagem-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-11-27T17:15:00.000Z"
+    }
+   ],
+   "estado": "pronto",
+   "stories_estado": "por agendar"
+  },
+  {
+   "data": "2026-11-28",
+   "hora_lisboa": "11:15",
+   "scheduledAt_utc": "2026-11-28T11:15:00.000Z",
+   "tipo": "video",
+   "assunto": "Inquilinos: dedução da renda no IRS",
+   "fonte": "DECO Proteste (1/6/2026), via Info Imobiliária.",
+   "ficheiros": [
+    "infoimobiliaria-20261128-video-1.mp4"
+   ],
+   "commit": "dee3b0cf3454c2906e28ca6f37ef490a49250936",
+   "legenda": "Se és inquilino, podes deduzir 15% da renda anual paga no IRS, com limite.\nO limite é de 900 € em 2026 e de 1 000 € em 2027, segundo a DECO Proteste.\nA proposta de IRS mais baixo para rendas moderadas, no Orçamento do Estado para 2027, ainda está por votar.\nConfirma o teu caso no IRS.\n\ninfoimobiliaria.com\n(Link também na bio.)\n\nFonte: DECO Proteste (1/6/2026), via Info Imobiliária.\nInformação geral. Confirma com um advogado ou solicitador.\n\nInfo Imobiliária, by OMNI\n\n#IRS #arrendamento #inquilinos #imobiliário #infoimobiliária",
+   "stories": [
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261128-video-1.mp4"
+     ],
+     "scheduledAt_utc": "2026-11-28T11:40:00.000Z"
+    }
+   ],
+   "titulo_youtube": "Inquilinos: deduzir a renda no IRS, até 900 € em 2026",
+   "estado": "pronto",
+   "stories_estado": "por agendar"
+  },
+  {
+   "data": "2026-11-28",
+   "hora_lisboa": "15:15",
+   "scheduledAt_utc": "2026-11-28T15:15:00.000Z",
+   "tipo": "video",
+   "assunto": "Renda de 750 € ou 1 000 €: quanto sobe em 2027?",
+   "fonte": "Info Imobiliária, «Rendas em 2027», com ECO e DECO Proteste. Exemplo calculado por nós, com rendas hipotéticas.",
+   "ficheiros": [
+    "infoimobiliaria-20261128-video-2.mp4"
+   ],
+   "commit": "dee3b0cf3454c2906e28ca6f37ef490a49250936",
+   "legenda": "Exemplo com o coeficiente de 2,56%, aplicado uma só vez.\nRenda de 750 €: passa para 769,20 €, mais 19,20 € por mês.\nRenda de 1 000 €: passa para 1 025,60 €, mais 25,60 € por mês, ou 307,20 € por ano.\nO senhorio decide se aplica e tem de avisar por escrito com 30 dias de antecedência.\n\ninfoimobiliaria.com\n(Link também na bio.)\n\nFonte: Info Imobiliária, «Rendas em 2027», com ECO e DECO Proteste. Exemplo calculado por nós, com rendas hipotéticas.\nInformação geral. Confirma com um advogado ou solicitador.\n\nInfo Imobiliária, by OMNI\n\n#arrendamento #rendas2027 #inquilinos #senhorios #infoimobiliária",
+   "stories": [
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261128-video-2.mp4"
+     ],
+     "scheduledAt_utc": "2026-11-28T15:40:00.000Z"
+    }
+   ],
+   "titulo_youtube": "Quanto sobe uma renda de 750 € ou de 1 000 € em 2027?",
+   "estado": "pronto",
+   "stories_estado": "por agendar"
+  },
+  {
+   "data": "2026-11-28",
+   "hora_lisboa": "20:45",
+   "scheduledAt_utc": "2026-11-28T20:45:00.000Z",
+   "tipo": "video",
+   "assunto": "Como alterar a morada fiscal sem perder a isenção de IMI",
+   "fonte": "gov.pt e Info Imobiliária, «Como alterar a morada fiscal sem perder a isenção de IMI».",
+   "ficheiros": [
+    "infoimobiliaria-20261128-video-3.mp4"
+   ],
+   "commit": "dee3b0cf3454c2906e28ca6f37ef490a49250936",
+   "legenda": "Como alterar a morada fiscal, passo a passo.\n1.\nAltera a morada do Cartão de Cidadão.\n2.\nEspera a carta com o código na morada nova e confirma-o.\n3.\nConfirma no Portal das Finanças alguns dias depois.\nPara a isenção de IMI, tens 6 meses após a compra para fixar a morada fiscal.\n\ninfoimobiliaria.com\n(Link também na bio.)\n\nFonte: gov.pt e Info Imobiliária, «Como alterar a morada fiscal sem perder a isenção de IMI».\nInformação geral. Confirma com um advogado ou solicitador.\n\nInfo Imobiliária, by OMNI\n\n#moradafiscal #IMI #mudardecasa #imobiliário #infoimobiliária",
+   "stories": [
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261128-video-3.mp4"
+     ],
+     "scheduledAt_utc": "2026-11-28T21:10:00.000Z"
+    }
+   ],
+   "titulo_youtube": "Como alterar a morada fiscal sem perder a isenção de IMI",
+   "estado": "pronto",
+   "stories_estado": "por agendar"
+  },
+  {
+   "data": "2026-11-28",
+   "hora_lisboa": "11:00",
+   "scheduledAt_utc": "2026-11-28T11:00:00.000Z",
+   "tipo": "carrossel",
+   "assunto": "Escritura: o que levar e o que pagar",
+   "fonte": "Info Imobiliária, «Escritura de compra de casa», com DECO Proteste, idealista e Caixa Geral de Depósitos. Valores sem impostos.",
+   "ficheiros": [
+    "infoimobiliaria-20261128-carrossel-1.jpg",
+    "infoimobiliaria-20261128-carrossel-2.jpg",
+    "infoimobiliaria-20261128-carrossel-3.jpg",
+    "infoimobiliaria-20261128-carrossel-4.jpg",
+    "infoimobiliaria-20261128-carrossel-5.jpg"
+   ],
+   "commit": "dee3b0cf3454c2906e28ca6f37ef490a49250936",
+   "legenda": "Escritura de compra de casa: o que levar e o que pagar.\nLeva identificação, comprovativos do IMT e do Selo, caderneta predial, licença de utilização e certidão permanente.\nSe houver hipoteca, o distrate.\nRegisto predial da compra: 225 € online ou 250 € ao balcão.\nDeclaração de direito de preferência: 15 €.\nGuarda este carrossel.\n\ninfoimobiliaria.com\n(Link também na bio.)\n\nFonte: Info Imobiliária, «Escritura de compra de casa», com DECO Proteste, idealista e Caixa Geral de Depósitos. Valores sem impostos.\nInformação geral. Confirma com um advogado ou solicitador.\n\nInfo Imobiliária, by OMNI\n\n#escritura #comprarcasa #documentos #imobiliário #infoimobiliária",
+   "stories": [
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261128-carrossel-1-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-11-28T11:30:00.000Z"
+    },
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261128-carrossel-2-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-11-28T11:42:00.000Z"
+    },
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261128-carrossel-3-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-11-28T11:54:00.000Z"
+    },
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261128-carrossel-4-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-11-28T12:06:00.000Z"
+    },
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261128-carrossel-5-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-11-28T12:18:00.000Z"
+    }
+   ],
+   "estado": "pronto",
+   "stories_estado": "por agendar"
+  },
+  {
+   "data": "2026-11-28",
+   "hora_lisboa": "17:15",
+   "scheduledAt_utc": "2026-11-28T17:15:00.000Z",
+   "tipo": "imagem",
+   "assunto": "Caderneta predial: grátis e válida 12 meses",
+   "fonte": "Info Imobiliária, «Caderneta predial e VPT», com Portal da Literacia Financeira.",
+   "ficheiros": [
+    "infoimobiliaria-20261128-imagem.jpg"
+   ],
+   "commit": "dee3b0cf3454c2906e28ca6f37ef490a49250936",
+   "legenda": "12 meses.\nÉ a validade da caderneta predial.\nPede-se grátis no Portal das Finanças e o PDF gera-se na hora.\nSó o titular ou um representante a pode pedir.\n\ninfoimobiliaria.com\n(Link também na bio.)\n\nFonte: Info Imobiliária, «Caderneta predial e VPT», com Portal da Literacia Financeira.\nInformação geral. Confirma com um advogado ou solicitador.\n\nInfo Imobiliária, by OMNI\n\n#cadernetapredial #VPT #documentos #imobiliário #infoimobiliária",
+   "stories": [
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261128-imagem-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-11-28T17:45:00.000Z"
+    }
+   ],
+   "estado": "pronto",
+   "stories_estado": "por agendar"
+  },
+  {
+   "data": "2026-11-29",
+   "hora_lisboa": "10:15",
+   "scheduledAt_utc": "2026-11-29T10:15:00.000Z",
+   "tipo": "video",
+   "assunto": "Mais-valias em 2026: coeficientes de correção",
+   "fonte": "Portaria n.º 457/2026/1 (Diário da República, 15/10/2026) e idealista/news (16/10/2026). Exemplo calculado por nós.",
+   "ficheiros": [
+    "infoimobiliaria-20261129-video-1.mp4"
+   ],
+   "commit": "dee3b0cf3454c2906e28ca6f37ef490a49250936",
+   "legenda": "A Portaria n.º 457/2026/1 fixou os coeficientes para quem vende em 2026.\nEscolhe-se pelo ano da compra.\nCompra em 2025: 1,00.\nCompra em 2022: 1,08.\nCompra em 2021: 1,19.\nDe 2018 a 2020: 1,20.\nExemplo: casa comprada em 2019 por 200 000 € passa a contar 240 000 €.\nSegundo as fontes, só se aplica com pelo menos dois anos entre a compra e a venda.\nO IRS final depende dos teus outros rendimentos.\n\ninfoimobiliaria.com\n(Link também na bio.)\n\nFonte: Portaria n.º 457/2026/1 (Diário da República, 15/10/2026) e idealista/news (16/10/2026). Exemplo calculado por nós.\nInformação geral. Confirma com um advogado ou solicitador.\n\nInfo Imobiliária, by OMNI\n\n#maisvalias #vendercasa #IRS #imobiliário #infoimobiliária",
+   "stories": [
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261129-video-1.mp4"
+     ],
+     "scheduledAt_utc": "2026-11-29T10:40:00.000Z"
+    }
+   ],
+   "titulo_youtube": "Mais-valias em 2026: os coeficientes de correção para quem vende",
+   "estado": "pronto",
+   "stories_estado": "por agendar"
+  },
+  {
+   "data": "2026-11-29",
+   "hora_lisboa": "13:45",
+   "scheduledAt_utc": "2026-11-29T13:45:00.000Z",
+   "tipo": "video",
+   "assunto": "Quanto custa vender com mediador?",
+   "fonte": "Info Imobiliária, «Como vender casa, passo a passo», com a Caixa Geral de Depósitos. Exemplo calculado por nós.",
+   "ficheiros": [
+    "infoimobiliaria-20261129-video-2.mp4"
+   ],
+   "commit": "dee3b0cf3454c2906e28ca6f37ef490a49250936",
+   "legenda": "Casa vendida por 250 000 €, com mediador.\nA comissão costuma rondar 5% mais IVA.\nSobre 250 000 €, 5% são 12 500 €, antes de IVA.\nA comissão é uma despesa que podes descontar no cálculo da mais-valia.\nGuarda a fatura, em teu nome.\n\ninfoimobiliaria.com\n(Link também na bio.)\n\nFonte: Info Imobiliária, «Como vender casa, passo a passo», com a Caixa Geral de Depósitos. Exemplo calculado por nós.\nInformação geral. Confirma com um advogado ou solicitador.\n\nInfo Imobiliária, by OMNI\n\n#vendercasa #mediador #maisvalias #imobiliário #infoimobiliária",
+   "stories": [
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261129-video-2.mp4"
+     ],
+     "scheduledAt_utc": "2026-11-29T14:10:00.000Z"
+    }
+   ],
+   "titulo_youtube": "Quanto custa vender casa com mediador?",
+   "estado": "pronto",
+   "stories_estado": "por agendar"
+  },
+  {
+   "data": "2026-11-29",
+   "hora_lisboa": "19:30",
+   "scheduledAt_utc": "2026-11-29T19:30:00.000Z",
+   "tipo": "video",
+   "assunto": "Erro comum: não declarar a venda da casa no IRS",
+   "fonte": "Info Imobiliária, «Mais-valias na venda de casa: como se calculam» e «Como vender casa, passo a passo».",
+   "ficheiros": [
+    "infoimobiliaria-20261129-video-3.mp4"
+   ],
+   "commit": "dee3b0cf3454c2906e28ca6f37ef490a49250936",
+   "legenda": "Erro comum: achar que, se a mais-valia está isenta, não há nada a declarar.\nA venda declara-se no IRS do ano seguinte, no anexo G, mesmo se estiver isenta.\nCasas compradas antes de 1 de janeiro de 1989 não pagam imposto, mas declaram-se no anexo G1.\nGuarda a escritura e as faturas.\n\ninfoimobiliaria.com\n(Link também na bio.)\n\nFonte: Info Imobiliária, «Mais-valias na venda de casa: como se calculam» e «Como vender casa, passo a passo».\nInformação geral. Confirma com um advogado ou solicitador.\n\nInfo Imobiliária, by OMNI\n\n#maisvalias #IRS #vendercasa #imobiliário #infoimobiliária",
+   "stories": [
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261129-video-3.mp4"
+     ],
+     "scheduledAt_utc": "2026-11-29T19:55:00.000Z"
+    }
+   ],
+   "titulo_youtube": "Erro comum: vender a casa e não declarar no IRS",
+   "estado": "pronto",
+   "stories_estado": "por agendar"
+  },
+  {
+   "data": "2026-11-29",
+   "hora_lisboa": "12:00",
+   "scheduledAt_utc": "2026-11-29T12:00:00.000Z",
+   "tipo": "carrossel",
+   "assunto": "IMI: como se calcula e quando se paga",
+   "fonte": "Info Imobiliária, «Tabela do IMI em 2026».",
+   "ficheiros": [
+    "infoimobiliaria-20261129-carrossel-1.jpg",
+    "infoimobiliaria-20261129-carrossel-2.jpg",
+    "infoimobiliaria-20261129-carrossel-3.jpg",
+    "infoimobiliaria-20261129-carrossel-4.jpg",
+    "infoimobiliaria-20261129-carrossel-5.jpg"
+   ],
+   "commit": "dee3b0cf3454c2906e28ca6f37ef490a49250936",
+   "legenda": "IMI: como se calcula e quando se paga.\nCálculo: VPT × taxa do município, entre 0,3% e 0,45% nos prédios urbanos.\nAté 100 €: uma prestação, em maio.\nDe 100 € a 500 €: maio e novembro.\nAcima de 500 €: maio, agosto e novembro.\nGuarda este carrossel.\n\ninfoimobiliaria.com\n(Link também na bio.)\n\nFonte: Info Imobiliária, «Tabela do IMI em 2026».\n\nInfo Imobiliária, by OMNI\n\n#IMI #impostos #VPT #imobiliário #infoimobiliária",
+   "stories": [
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261129-carrossel-1-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-11-29T12:30:00.000Z"
+    },
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261129-carrossel-2-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-11-29T12:42:00.000Z"
+    },
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261129-carrossel-3-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-11-29T12:54:00.000Z"
+    },
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261129-carrossel-4-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-11-29T13:06:00.000Z"
+    },
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261129-carrossel-5-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-11-29T13:18:00.000Z"
+    }
+   ],
+   "estado": "pronto",
+   "stories_estado": "por agendar"
+  },
+  {
+   "data": "2026-11-29",
+   "hora_lisboa": "16:00",
+   "scheduledAt_utc": "2026-11-29T16:00:00.000Z",
+   "tipo": "imagem",
+   "assunto": "IMI: de 0,3% a 0,45%",
+   "fonte": "Info Imobiliária, «Tabela do IMI em 2026».",
+   "ficheiros": [
+    "infoimobiliaria-20261129-imagem.jpg"
+   ],
+   "commit": "dee3b0cf3454c2906e28ca6f37ef490a49250936",
+   "legenda": "0,3% a 0,45%.\nÉ a taxa de IMI nos prédios urbanos, fixada por cada município.\nO IMI calcula-se assim: VPT × taxa.\nConfirma a taxa do teu município.\n\ninfoimobiliaria.com\n(Link também na bio.)\n\nFonte: Info Imobiliária, «Tabela do IMI em 2026».\nInformação geral. Confirma com um advogado ou solicitador.\n\nInfo Imobiliária, by OMNI\n\n#IMI #VPT #impostos #imobiliário #infoimobiliária",
+   "stories": [
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261129-imagem-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-11-29T16:30:00.000Z"
+    }
+   ],
+   "estado": "pronto",
+   "stories_estado": "por agendar"
   }
  ],
  "nota_stories": "Stories 10-16 Nov agendadas no Planable (FB+IG, nao aprovadas)."
