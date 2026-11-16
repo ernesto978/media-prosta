@@ -1,6 +1,6 @@
 {
- "nota": "Fila Info Imobiliária. estado: pronto|agendado|falhou. Semana 10-16/11/2026 já agendada no Planable (sem aprovar). Peças de 17 a 29/11/2026 prontas (por agendar no Planable; stories por agendar).",
- "ultimo_dia_agendado_ate": "2026-11-16",
+ "nota": "Fila Info Imobiliária. estado: pronto|agendado|falhou. Peças de 10 a 29/11/2026 agendadas no Planable (sem aprovar).",
+ "ultimo_dia_agendado_ate": "2026-11-29",
  "pecas": [
   {
    "data": "2026-11-10",
@@ -961,8 +961,8 @@
     }
    ],
    "titulo_youtube": "Euribor a subir: o que se sabe e o que não se sabe",
-   "estado": "pronto",
-   "stories_estado": "por agendar"
+   "estado": "agendado",
+   "stories_estado": "agendado"
   },
   {
    "data": "2026-11-17",
@@ -985,8 +985,8 @@
     }
    ],
    "titulo_youtube": "Taxa de esforço: o banco só deixa 45% do teu rendimento",
-   "estado": "pronto",
-   "stories_estado": "por agendar"
+   "estado": "agendado",
+   "stories_estado": "agendado"
   },
   {
    "data": "2026-11-17",
@@ -1009,8 +1009,8 @@
     }
    ],
    "titulo_youtube": "Antes de assinar o crédito habitação: o que confirmar",
-   "estado": "pronto",
-   "stories_estado": "por agendar"
+   "estado": "agendado",
+   "stories_estado": "agendado"
   },
   {
    "data": "2026-11-17",
@@ -1060,8 +1060,8 @@
      "scheduledAt_utc": "2026-11-17T12:33:00.000Z"
     }
    ],
-   "estado": "pronto",
-   "stories_estado": "por agendar"
+   "estado": "agendado",
+   "stories_estado": "agendado"
   },
   {
    "data": "2026-11-17",
@@ -1083,8 +1083,8 @@
      "scheduledAt_utc": "2026-11-17T17:15:00.000Z"
     }
    ],
-   "estado": "pronto",
-   "stories_estado": "por agendar"
+   "estado": "agendado",
+   "stories_estado": "agendado"
   },
   {
    "data": "2026-11-18",
@@ -1107,8 +1107,8 @@
     }
    ],
    "titulo_youtube": "Heranças indivisas: o que muda para vender a casa",
-   "estado": "pronto",
-   "stories_estado": "por agendar"
+   "estado": "agendado",
+   "stories_estado": "agendado"
   },
   {
    "data": "2026-11-18",
@@ -1131,8 +1131,8 @@
     }
    ],
    "titulo_youtube": "Euribor +1 ou +2 pontos: quanto sobe a prestação?",
-   "estado": "pronto",
-   "stories_estado": "por agendar"
+   "estado": "agendado",
+   "stories_estado": "agendado"
   },
   {
    "data": "2026-11-18",
@@ -1155,8 +1155,8 @@
     }
    ],
    "titulo_youtube": "TAN ou TAEG: qual comparar no crédito habitação?",
-   "estado": "pronto",
-   "stories_estado": "por agendar"
+   "estado": "agendado",
+   "stories_estado": "agendado"
   },
   {
    "data": "2026-11-18",
@@ -1206,8 +1206,8 @@
      "scheduledAt_utc": "2026-11-18T16:48:00.000Z"
     }
    ],
-   "estado": "pronto",
-   "stories_estado": "por agendar"
+   "estado": "agendado",
+   "stories_estado": "agendado"
   },
   {
    "data": "2026-11-18",
@@ -1229,8 +1229,8 @@
      "scheduledAt_utc": "2026-11-18T17:45:00.000Z"
     }
    ],
-   "estado": "pronto",
-   "stories_estado": "por agendar"
+   "estado": "agendado",
+   "stories_estado": "agendado"
   },
   {
    "data": "2026-11-19",
@@ -1253,8 +1253,8 @@
     }
    ],
    "titulo_youtube": "Escritura: desde 1 de outubro tem de constar o título urbanístico",
-   "estado": "pronto",
-   "stories_estado": "por agendar"
+   "estado": "agendado",
+   "stories_estado": "agendado"
   },
   {
    "data": "2026-11-19",
@@ -1277,8 +1277,8 @@
     }
    ],
    "titulo_youtube": "Casa de 250 000 €: IMT e Selo a pagar",
-   "estado": "pronto",
-   "stories_estado": "por agendar"
+   "estado": "agendado",
+   "stories_estado": "agendado"
   },
   {
    "data": "2026-11-19",
@@ -1301,8 +1301,8 @@
     }
    ],
    "titulo_youtube": "Mais-valias: IMT e Selo não contam como reinvestimento",
-   "estado": "pronto",
-   "stories_estado": "por agendar"
+   "estado": "agendado",
+   "stories_estado": "agendado"
   },
   {
    "data": "2026-11-19",
@@ -1352,8 +1352,8 @@
      "scheduledAt_utc": "2026-11-19T13:18:00.000Z"
     }
    ],
-   "estado": "pronto",
-   "stories_estado": "por agendar"
+   "estado": "agendado",
+   "stories_estado": "agendado"
   },
   {
    "data": "2026-11-19",
@@ -1375,8 +1375,8 @@
      "scheduledAt_utc": "2026-11-19T16:30:00.000Z"
     }
    ],
-   "estado": "pronto",
-   "stories_estado": "por agendar"
+   "estado": "agendado",
+   "stories_estado": "agendado"
   },
   {
    "data": "2026-11-20",
@@ -1399,8 +1399,8 @@
     }
    ],
    "titulo_youtube": "IMI em 2027: o VPT pode subir 3% nas casas avaliadas em 2023",
-   "estado": "pronto",
-   "stories_estado": "por agendar"
+   "estado": "agendado",
+   "stories_estado": "agendado"
   },
   {
    "data": "2026-11-20",
@@ -1423,8 +1423,8 @@
     }
    ],
    "titulo_youtube": "O spread do crédito habitação conta: 1,0% ou 1,5%?",
-   "estado": "pronto",
-   "stories_estado": "por agendar"
+   "estado": "agendado",
+   "stories_estado": "agendado"
   },
   {
    "data": "2026-11-20",
@@ -1447,8 +1447,8 @@
     }
    ],
    "titulo_youtube": "Amortizar o crédito: reduzir a prestação ou o prazo?",
-   "estado": "pronto",
-   "stories_estado": "por agendar"
+   "estado": "agendado",
+   "stories_estado": "agendado"
   },
   {
    "data": "2026-11-20",
@@ -1498,8 +1498,8 @@
      "scheduledAt_utc": "2026-11-20T12:03:00.000Z"
     }
    ],
-   "estado": "pronto",
-   "stories_estado": "por agendar"
+   "estado": "agendado",
+   "stories_estado": "agendado"
   },
   {
    "data": "2026-11-20",
@@ -1521,8 +1521,8 @@
      "scheduledAt_utc": "2026-11-20T16:15:00.000Z"
     }
    ],
-   "estado": "pronto",
-   "stories_estado": "por agendar"
+   "estado": "agendado",
+   "stories_estado": "agendado"
   },
   {
    "data": "2026-11-21",
@@ -1545,8 +1545,8 @@
     }
    ],
    "titulo_youtube": "Rendas em 2027: o senhorio pode atualizar até 2,56%",
-   "estado": "pronto",
-   "stories_estado": "por agendar"
+   "estado": "agendado",
+   "stories_estado": "agendado"
   },
   {
    "data": "2026-11-21",
@@ -1569,8 +1569,8 @@
     }
    ],
    "titulo_youtube": "Defeitos ocultos na casa que compraste: prazos e direitos",
-   "estado": "pronto",
-   "stories_estado": "por agendar"
+   "estado": "agendado",
+   "stories_estado": "agendado"
   },
   {
    "data": "2026-11-21",
@@ -1593,8 +1593,8 @@
     }
    ],
    "titulo_youtube": "Escritura de compra de casa: notário, DPA ou Casa Pronta",
-   "estado": "pronto",
-   "stories_estado": "por agendar"
+   "estado": "agendado",
+   "stories_estado": "agendado"
   },
   {
    "data": "2026-11-21",
@@ -1644,8 +1644,8 @@
      "scheduledAt_utc": "2026-11-21T13:48:00.000Z"
     }
    ],
-   "estado": "pronto",
-   "stories_estado": "por agendar"
+   "estado": "agendado",
+   "stories_estado": "agendado"
   },
   {
    "data": "2026-11-21",
@@ -1667,8 +1667,8 @@
      "scheduledAt_utc": "2026-11-21T18:00:00.000Z"
     }
    ],
-   "estado": "pronto",
-   "stories_estado": "por agendar"
+   "estado": "agendado",
+   "stories_estado": "agendado"
   },
   {
    "data": "2026-11-22",
@@ -1691,8 +1691,8 @@
     }
    ],
    "titulo_youtube": "OE2027 e habitação: IVA a 6% e IRS mais baixo nas rendas",
-   "estado": "pronto",
-   "stories_estado": "por agendar"
+   "estado": "agendado",
+   "stories_estado": "agendado"
   },
   {
    "data": "2026-11-22",
@@ -1715,8 +1715,8 @@
     }
    ],
    "titulo_youtube": "Garantia pública para jovens: quanto cobre numa casa de 250 000 €?",
-   "estado": "pronto",
-   "stories_estado": "por agendar"
+   "estado": "agendado",
+   "stories_estado": "agendado"
   },
   {
    "data": "2026-11-22",
@@ -1739,8 +1739,8 @@
     }
    ],
    "titulo_youtube": "Vender primeiro ou comprar primeiro: como decidir",
-   "estado": "pronto",
-   "stories_estado": "por agendar"
+   "estado": "agendado",
+   "stories_estado": "agendado"
   },
   {
    "data": "2026-11-22",
@@ -1790,8 +1790,8 @@
      "scheduledAt_utc": "2026-11-22T12:48:00.000Z"
     }
    ],
-   "estado": "pronto",
-   "stories_estado": "por agendar"
+   "estado": "agendado",
+   "stories_estado": "agendado"
   },
   {
    "data": "2026-11-22",
@@ -1813,8 +1813,8 @@
      "scheduledAt_utc": "2026-11-22T17:00:00.000Z"
     }
    ],
-   "estado": "pronto",
-   "stories_estado": "por agendar"
+   "estado": "agendado",
+   "stories_estado": "agendado"
   },
   {
    "data": "2026-11-23",
@@ -1837,8 +1837,8 @@
     }
    ],
    "titulo_youtube": "IMT Jovem em 2027: o que o Orçamento propõe",
-   "estado": "pronto",
-   "stories_estado": "por agendar"
+   "estado": "agendado",
+   "stories_estado": "agendado"
   },
   {
    "data": "2026-11-23",
@@ -1861,8 +1861,8 @@
     }
    ],
    "titulo_youtube": "Caderneta predial ou certidão permanente: qual a diferença?",
-   "estado": "pronto",
-   "stories_estado": "por agendar"
+   "estado": "agendado",
+   "stories_estado": "agendado"
   },
   {
    "data": "2026-11-23",
@@ -1885,8 +1885,8 @@
     }
    ],
    "titulo_youtube": "Só 12% das casas vendem-se numa semana: e a tua?",
-   "estado": "pronto",
-   "stories_estado": "por agendar"
+   "estado": "agendado",
+   "stories_estado": "agendado"
   },
   {
    "data": "2026-11-23",
@@ -1936,8 +1936,8 @@
      "scheduledAt_utc": "2026-11-23T16:33:00.000Z"
     }
    ],
-   "estado": "pronto",
-   "stories_estado": "por agendar"
+   "estado": "agendado",
+   "stories_estado": "agendado"
   },
   {
    "data": "2026-11-23",
@@ -1959,8 +1959,8 @@
      "scheduledAt_utc": "2026-11-23T17:30:00.000Z"
     }
    ],
-   "estado": "pronto",
-   "stories_estado": "por agendar"
+   "estado": "agendado",
+   "stories_estado": "agendado"
   },
   {
    "data": "2026-11-24",
@@ -1983,8 +1983,8 @@
     }
    ],
    "titulo_youtube": "Banco de Portugal: mais procura sobe mais os preços do que as rendas",
-   "estado": "pronto",
-   "stories_estado": "por agendar"
+   "estado": "agendado",
+   "stories_estado": "agendado"
   },
   {
    "data": "2026-11-24",
@@ -2007,8 +2007,8 @@
     }
    ],
    "titulo_youtube": "O teste de stress do banco: a prestação que realmente conta",
-   "estado": "pronto",
-   "stories_estado": "por agendar"
+   "estado": "agendado",
+   "stories_estado": "agendado"
   },
   {
    "data": "2026-11-24",
@@ -2031,8 +2031,8 @@
     }
    ],
    "titulo_youtube": "Erro comum: começar as obras em casa sem orçamentos",
-   "estado": "pronto",
-   "stories_estado": "por agendar"
+   "estado": "agendado",
+   "stories_estado": "agendado"
   },
   {
    "data": "2026-11-24",
@@ -2082,8 +2082,8 @@
      "scheduledAt_utc": "2026-11-24T13:03:00.000Z"
     }
    ],
-   "estado": "pronto",
-   "stories_estado": "por agendar"
+   "estado": "agendado",
+   "stories_estado": "agendado"
   },
   {
    "data": "2026-11-24",
@@ -2105,8 +2105,8 @@
      "scheduledAt_utc": "2026-11-24T16:45:00.000Z"
     }
    ],
-   "estado": "pronto",
-   "stories_estado": "por agendar"
+   "estado": "agendado",
+   "stories_estado": "agendado"
   },
   {
    "data": "2026-11-25",
@@ -2129,8 +2129,8 @@
     }
    ],
    "titulo_youtube": "Avaliação bancária em recorde: 2.278 €/m² em setembro",
-   "estado": "pronto",
-   "stories_estado": "por agendar"
+   "estado": "agendado",
+   "stories_estado": "agendado"
   },
   {
    "data": "2026-11-25",
@@ -2153,8 +2153,8 @@
     }
    ],
    "titulo_youtube": "AIMI: quanto paga quem tem 1,3 milhões em imóveis?",
-   "estado": "pronto",
-   "stories_estado": "por agendar"
+   "estado": "agendado",
+   "stories_estado": "agendado"
   },
   {
    "data": "2026-11-25",
@@ -2177,8 +2177,8 @@
     }
    ],
    "titulo_youtube": "Erro comum: assinar o CPCV sem cláusula de financiamento",
-   "estado": "pronto",
-   "stories_estado": "por agendar"
+   "estado": "agendado",
+   "stories_estado": "agendado"
   },
   {
    "data": "2026-11-25",
@@ -2228,8 +2228,8 @@
      "scheduledAt_utc": "2026-11-25T11:48:00.000Z"
     }
    ],
-   "estado": "pronto",
-   "stories_estado": "por agendar"
+   "estado": "agendado",
+   "stories_estado": "agendado"
   },
   {
    "data": "2026-11-25",
@@ -2251,8 +2251,8 @@
      "scheduledAt_utc": "2026-11-25T16:00:00.000Z"
     }
    ],
-   "estado": "pronto",
-   "stories_estado": "por agendar"
+   "estado": "agendado",
+   "stories_estado": "agendado"
   },
   {
    "data": "2026-11-26",
@@ -2275,8 +2275,8 @@
     }
    ],
    "titulo_youtube": "Casa mais quente no inverno sem obras",
-   "estado": "pronto",
-   "stories_estado": "por agendar"
+   "estado": "agendado",
+   "stories_estado": "agendado"
   },
   {
    "data": "2026-11-26",
@@ -2299,8 +2299,8 @@
     }
    ],
    "titulo_youtube": "IMT: casa própria ou segunda casa? A diferença em 250 000 €",
-   "estado": "pronto",
-   "stories_estado": "por agendar"
+   "estado": "agendado",
+   "stories_estado": "agendado"
   },
   {
    "data": "2026-11-26",
@@ -2323,8 +2323,8 @@
     }
    ],
    "titulo_youtube": "Mediação exclusiva ou aberta: qual escolher ao vender casa?",
-   "estado": "pronto",
-   "stories_estado": "por agendar"
+   "estado": "agendado",
+   "stories_estado": "agendado"
   },
   {
    "data": "2026-11-26",
@@ -2374,8 +2374,8 @@
      "scheduledAt_utc": "2026-11-26T17:03:00.000Z"
     }
    ],
-   "estado": "pronto",
-   "stories_estado": "por agendar"
+   "estado": "agendado",
+   "stories_estado": "agendado"
   },
   {
    "data": "2026-11-26",
@@ -2397,8 +2397,8 @@
      "scheduledAt_utc": "2026-11-26T18:15:00.000Z"
     }
    ],
-   "estado": "pronto",
-   "stories_estado": "por agendar"
+   "estado": "agendado",
+   "stories_estado": "agendado"
   },
   {
    "data": "2026-11-27",
@@ -2421,8 +2421,8 @@
     }
    ],
    "titulo_youtube": "Garantia pública para jovens: bancos a esgotar as quotas",
-   "estado": "pronto",
-   "stories_estado": "por agendar"
+   "estado": "agendado",
+   "stories_estado": "agendado"
   },
   {
    "data": "2026-11-27",
@@ -2445,8 +2445,8 @@
     }
    ],
    "titulo_youtube": "Habitação própria e permanente: o que significa",
-   "estado": "pronto",
-   "stories_estado": "por agendar"
+   "estado": "agendado",
+   "stories_estado": "agendado"
   },
   {
    "data": "2026-11-27",
@@ -2469,8 +2469,8 @@
     }
    ],
    "titulo_youtube": "Erro comum: anunciar a casa sem certificado energético",
-   "estado": "pronto",
-   "stories_estado": "por agendar"
+   "estado": "agendado",
+   "stories_estado": "agendado"
   },
   {
    "data": "2026-11-27",
@@ -2520,8 +2520,8 @@
      "scheduledAt_utc": "2026-11-27T13:33:00.000Z"
     }
    ],
-   "estado": "pronto",
-   "stories_estado": "por agendar"
+   "estado": "agendado",
+   "stories_estado": "agendado"
   },
   {
    "data": "2026-11-27",
@@ -2543,8 +2543,8 @@
      "scheduledAt_utc": "2026-11-27T17:15:00.000Z"
     }
    ],
-   "estado": "pronto",
-   "stories_estado": "por agendar"
+   "estado": "agendado",
+   "stories_estado": "agendado"
   },
   {
    "data": "2026-11-28",
@@ -2567,8 +2567,8 @@
     }
    ],
    "titulo_youtube": "Inquilinos: deduzir a renda no IRS, até 900 € em 2026",
-   "estado": "pronto",
-   "stories_estado": "por agendar"
+   "estado": "agendado",
+   "stories_estado": "agendado"
   },
   {
    "data": "2026-11-28",
@@ -2591,8 +2591,8 @@
     }
    ],
    "titulo_youtube": "Quanto sobe uma renda de 750 € ou de 1 000 € em 2027?",
-   "estado": "pronto",
-   "stories_estado": "por agendar"
+   "estado": "agendado",
+   "stories_estado": "agendado"
   },
   {
    "data": "2026-11-28",
@@ -2615,8 +2615,8 @@
     }
    ],
    "titulo_youtube": "Como alterar a morada fiscal sem perder a isenção de IMI",
-   "estado": "pronto",
-   "stories_estado": "por agendar"
+   "estado": "agendado",
+   "stories_estado": "agendado"
   },
   {
    "data": "2026-11-28",
@@ -2666,8 +2666,8 @@
      "scheduledAt_utc": "2026-11-28T12:18:00.000Z"
     }
    ],
-   "estado": "pronto",
-   "stories_estado": "por agendar"
+   "estado": "agendado",
+   "stories_estado": "agendado"
   },
   {
    "data": "2026-11-28",
@@ -2689,8 +2689,8 @@
      "scheduledAt_utc": "2026-11-28T17:45:00.000Z"
     }
    ],
-   "estado": "pronto",
-   "stories_estado": "por agendar"
+   "estado": "agendado",
+   "stories_estado": "agendado"
   },
   {
    "data": "2026-11-29",
@@ -2713,8 +2713,8 @@
     }
    ],
    "titulo_youtube": "Mais-valias em 2026: os coeficientes de correção para quem vende",
-   "estado": "pronto",
-   "stories_estado": "por agendar"
+   "estado": "agendado",
+   "stories_estado": "agendado"
   },
   {
    "data": "2026-11-29",
@@ -2737,8 +2737,8 @@
     }
    ],
    "titulo_youtube": "Quanto custa vender casa com mediador?",
-   "estado": "pronto",
-   "stories_estado": "por agendar"
+   "estado": "agendado",
+   "stories_estado": "agendado"
   },
   {
    "data": "2026-11-29",
@@ -2761,8 +2761,8 @@
     }
    ],
    "titulo_youtube": "Erro comum: vender a casa e não declarar no IRS",
-   "estado": "pronto",
-   "stories_estado": "por agendar"
+   "estado": "agendado",
+   "stories_estado": "agendado"
   },
   {
    "data": "2026-11-29",
@@ -2812,8 +2812,8 @@
      "scheduledAt_utc": "2026-11-29T13:18:00.000Z"
     }
    ],
-   "estado": "pronto",
-   "stories_estado": "por agendar"
+   "estado": "agendado",
+   "stories_estado": "agendado"
   },
   {
    "data": "2026-11-29",
@@ -2835,8 +2835,8 @@
      "scheduledAt_utc": "2026-11-29T16:30:00.000Z"
     }
    ],
-   "estado": "pronto",
-   "stories_estado": "por agendar"
+   "estado": "agendado",
+   "stories_estado": "agendado"
   }
  ],
  "nota_stories": "Stories 10-16 Nov agendadas no Planable (FB+IG, nao aprovadas)."
