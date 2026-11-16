@@ -911,7 +911,12 @@
    ],
    "commit": "75c9fd5b3999252f3d5532c2b6d7821a8ec9a70b",
    "legenda": "Onde fica a próstata e para que serve.\nÉ uma glândula do tamanho de uma noz, que só existe nos homens.\nFica na pelve, logo abaixo da bexiga e à frente do reto.\nProduz parte do líquido do sémen.\nVolta a crescer a partir dos 40 anos.\nFonte: NHS (Reino Unido). As práticas em Portugal podem diferir.\nFaça o teste de sintomas em prostata.pt (link na bio).\nInformação geral. Não substitui a consulta com um médico.\n#próstata #prevenção #anatomia #prostatapt",
-   "estado": "pronto"
+   "estado": "agendado",
+   "planable_ids": [
+    "m3epx7Y9vCgy8QwzZ",
+    "Lspf9G7RfeTbtThsQ",
+    "7cxHtfxePeJDP4hSG"
+   ]
   },
   {
    "data": "2026-11-26",
@@ -932,7 +937,13 @@
    ],
    "commit": "75c9fd5b3999252f3d5532c2b6d7821a8ec9a70b",
    "legenda": "Dieta mediterrânica protege a próstata?\nUma análise de estudos encontrou um risco de cancro da próstata 4% menor em quem seguia mais de perto este padrão.\nA diferença é pequena e não prova causa e efeito.\nNenhum alimento isolado está provado como protetor da próstata.\nPesam mais o peso saudável, a alimentação equilibrada e a atividade física.\nFontes: Frontiers in Nutrition (2017) e Prostate Cancer UK (Reino Unido). As práticas em Portugal podem diferir.\nFaça o teste de sintomas em prostata.pt (link na bio).\nInformação geral. Não substitui a consulta com um médico.\n#próstata #alimentação #dietamediterrânica #prostatapt",
-   "estado": "pronto"
+   "estado": "falhou",
+   "planable_ids": [
+    "CgWDcYdLMyL2fasct",
+    "kFBXHBa4rwRw2BW49",
+    "givYXNhfYnMmSg7sp"
+   ],
+   "nota": "Slide 5 (car-alimentacao-mediterranica-o-que-se-sabe-05.jpg) recusado pelo jsDelivr (403) em 2026-11-16; 3 publicacoes ficaram com 6 de 7 imagens e foram passadas a rascunho (sem data). Resolver: anexar o slide 5 e reagendar 2026-11-26T14:00Z."
   },
   {
    "data": "2026-11-26",
@@ -947,7 +958,12 @@
    ],
    "commit": "75c9fd5b3999252f3d5532c2b6d7821a8ec9a70b",
    "legenda": "Prostatectomia radical: a recuperação.\nInternamento: 1 a 2 dias na cirurgia por buraquinhos e 3 a 7 dias na aberta.\nA sonda costuma ser retirada 1 a 2 semanas depois.\nCondução por volta de 2 semanas depois de cirurgia robótica.\nRegresso ao trabalho às 4 a 6 semanas e sem pesos até às 8 semanas.\nFontes: Prostate Cancer UK, Macmillan e hospitais do Reino Unido. Cada caso é diferente: siga a indicação da sua equipa.\nFaça o teste de sintomas em prostata.pt (link na bio).\nInformação geral. Não substitui a consulta com um médico.\n#próstata #tratamento #prostatectomia #prostatapt",
-   "estado": "pronto"
+   "estado": "agendado",
+   "planable_ids": [
+    "GBjnmpSqHW33uL3cq",
+    "EfDAAFw26Ddchuyst",
+    "KrJhXDWPyAseTXfmK"
+   ]
   },
   {
    "data": "2026-11-27",
@@ -962,7 +978,12 @@
    ],
    "commit": "75c9fd5b3999252f3d5532c2b6d7821a8ec9a70b",
    "legenda": "Diagnóstico de cancro da próstata: o que é normal sentir.\nChoque, medo, raiva, tristeza e culpa são reações comuns.\nMostrar emoções não é fraqueza.\nSe a dormência continuar, diga-o à equipa.\nEm Portugal, pergunte à equipa onde pedir apoio.\nFonte: Prostate Cancer UK (Reino Unido).\nFaça o teste de sintomas em prostata.pt (link na bio).\nInformação geral. Não substitui a consulta com um médico.\n#próstata #tratamento #apoioemocional #prostatapt",
-   "estado": "pronto"
+   "estado": "agendado",
+   "planable_ids": [
+    "pbJRYwnXPf7Lwtn3m",
+    "w8e9y5hguS29NktNR",
+    "qx3MW4BbYeFv7qbHB"
+   ]
   },
   {
    "data": "2026-11-27",
@@ -983,7 +1004,13 @@
    ],
    "commit": "75c9fd5b3999252f3d5532c2b6d7821a8ec9a70b",
    "legenda": "Biópsia da próstata: o que esperar.\nHá duas vias: transretal e transperineal. Nem todos os hospitais oferecem as duas.\nA transretal ronda 10 a 15 minutos e, no hospital, cerca de 1 hora e meia.\nDepois, beba o dobro do habitual nas primeiras 48 horas.\nFebre, tremores, muito sangue ou não conseguir urinar: urgência ou 112.\nFontes: Cancer Research UK e hospitais do Reino Unido. Em Portugal, pergunte ao urologista.\nFaça o teste de sintomas em prostata.pt (link na bio).\nInformação geral. Não substitui a consulta com um médico.\n#próstata #prevenção #biópsia #prostatapt",
-   "estado": "pronto"
+   "estado": "falhou",
+   "planable_ids": [
+    "2n6MYjxi4tDmEpiip",
+    "ph7R8ZvgnopRh6GFB",
+    "X39empAbCw4Pvrfze"
+   ],
+   "nota": "Slide 5 (car-prevencao-biopsia-o-que-esperar-05.jpg) recusado pelo jsDelivr (403) em 2026-11-16; 3 publicacoes ficaram com 6 de 7 imagens e foram passadas a rascunho (sem data). Resolver: anexar o slide 5 e reagendar 2026-11-27T14:00Z."
   },
   {
    "data": "2026-11-27",
@@ -998,7 +1025,12 @@
    ],
    "commit": "75c9fd5b3999252f3d5532c2b6d7821a8ec9a70b",
    "legenda": "Comer à mediterrânica: por onde começar.\nJunte uma porção de legumes a cada refeição principal.\nUse feijão, grão e lentilhas em sopas e saladas.\nDuas vezes por semana, coma peixe, uma delas peixe gordo.\nCozinhe com azeite, em pouca quantidade, e prefira cozer ou assar.\nComer assim não trata sintomas urinários.\nFontes: Prostate Cancer UK e Cancer Research UK (Reino Unido).\nFaça o teste de sintomas em prostata.pt (link na bio).\nInformação geral. Não substitui a consulta com um médico.\n#próstata #alimentação #dietamediterrânica #prostatapt",
-   "estado": "pronto"
+   "estado": "agendado",
+   "planable_ids": [
+    "bF2asQRWGetPj293B",
+    "pAXD2CYobLaJz2bAj",
+    "AMhSz4oLyAoSu4Lyw"
+   ]
   },
   {
    "data": "2026-11-28",
@@ -1013,7 +1045,12 @@
    ],
    "commit": "75c9fd5b3999252f3d5532c2b6d7821a8ec9a70b",
    "legenda": "A cintura também conta.\nNos homens, uma cintura de 94 cm ou mais indica risco mais alto.\nCom 102 cm ou mais, o risco é muito alto.\nHá evidência forte de que o excesso de peso aumenta o risco de cancro da próstata avançado ou agressivo.\nFontes: Cancer Research UK, Prostate Cancer UK e World Cancer Research Fund (Reino Unido). As práticas em Portugal podem diferir.\nFaça o teste de sintomas em prostata.pt (link na bio).\nInformação geral. Não substitui a consulta com um médico.\n#próstata #alimentação #pesosaudável #prostatapt",
-   "estado": "pronto"
+   "estado": "agendado",
+   "planable_ids": [
+    "HPTLRYebpYBLcHb7J",
+    "jgFrCh2H8thxLnFHW",
+    "Qym4a8iYSbpKwwcCf"
+   ]
   },
   {
    "data": "2026-11-28",
@@ -1034,7 +1071,8 @@
    ],
    "commit": "75c9fd5b3999252f3d5532c2b6d7821a8ec9a70b",
    "legenda": "Prostatectomia radical: como é a operação.\nRetira a próstata e as vesículas seminais, por vezes gânglios, com anestesia geral.\nAs técnicas robótica, laparoscópica e aberta são igualmente eficazes, segundo a Prostate Cancer UK.\nA operação demora entre 2 e 4 horas.\nHemorragia: menos de 1 em 100. Infeção: 1 a 5 em 100.\nFontes: Prostate Cancer UK, Macmillan e hospitais do Reino Unido. As práticas em Portugal podem diferir.\nFaça o teste de sintomas em prostata.pt (link na bio).\nInformação geral. Não substitui a consulta com um médico.\n#próstata #tratamento #prostatectomia #prostatapt",
-   "estado": "pronto"
+   "estado": "falhou",
+   "nota": "Nao criado em 2026-11-16: o slide 5 dos carrosseis de 26/11 e 27/11 foi recusado pelo jsDelivr (403); para nao deixar mais rascunhos (nao ha como apagar no Planable) nao se tentou. Resolver: confirmar que o slide 5 abre no jsDelivr e agendar."
   },
   {
    "data": "2026-11-28",
@@ -1049,7 +1087,12 @@
    ],
    "commit": "75c9fd5b3999252f3d5532c2b6d7821a8ec9a70b",
    "legenda": "Acordar de noite para urinar.\nA noctúria afeta 25 a 49% dos homens.\nNem sempre vem da próstata: pode vir do volume de urina, da bexiga ou do sono.\nRegiste durante 3 dias o que bebe e quando urina.\nBeba menos antes de dormir, mas hidrate-se durante o dia.\nFonte: Associação Portuguesa de Urologia (2020).\nFaça o teste de sintomas em prostata.pt (link na bio).\nInformação geral. Não substitui a consulta com um médico.\n#próstata #prevenção #noctúria #prostatapt",
-   "estado": "pronto"
+   "estado": "agendado",
+   "planable_ids": [
+    "FpR72vy3KZzJFmkrh",
+    "yqJKEpNuPHH3Zqqh8",
+    "zEMj98QdvyZCZBexu"
+   ]
   },
   {
    "data": "2026-11-29",
@@ -1064,7 +1107,12 @@
    ],
    "commit": "75c9fd5b3999252f3d5532c2b6d7821a8ec9a70b",
    "legenda": "A bexiga fica mesmo vazia?\nUma bexiga cheia comporta cerca de 300 a 600 ml.\nDepois de urinar, devem ficar 80 ml ou menos.\nSe sente que não esvazia, sente-se, urine sem força, espere cerca de 30 segundos e tente outra vez.\nSe continua, fale com o médico.\nFontes: Royal Berkshire NHS, Cambridge University Hospitals e NHS (Reino Unido). As práticas em Portugal podem diferir.\nFaça o teste de sintomas em prostata.pt (link na bio).\nInformação geral. Não substitui a consulta com um médico.\n#próstata #prevenção #bexiga #prostatapt",
-   "estado": "pronto"
+   "estado": "agendado",
+   "planable_ids": [
+    "HDJZPX9ijeRGCdqnj",
+    "Pia2nNrYLq6SG2Q9t",
+    "e6F7fyhnxBE6YEyo2"
+   ]
   },
   {
    "data": "2026-11-29",
@@ -1085,7 +1133,8 @@
    ],
    "commit": "75c9fd5b3999252f3d5532c2b6d7821a8ec9a70b",
    "legenda": "Quanto comer à mediterrânica?\nLegumes: 4 a 5 porções por dia. Fruta: 3 a 4 porções por dia.\nCereais, de preferência integrais: 6 a 8 porções por dia.\nPeixe: 2 ou mais vezes por semana. Feijão, grão ou lentilhas: 2 ou mais vezes.\nCarne processada: 1 vez ou menos por semana.\nFonte: guia de dietistas de um hospital do NHS (Reino Unido). É um ponto de partida: um nutricionista pode adaptá-lo a si.\nFaça o teste de sintomas em prostata.pt (link na bio).\nInformação geral. Não substitui a consulta com um médico.\n#próstata #alimentação #dietamediterrânica #prostatapt",
-   "estado": "pronto"
+   "estado": "falhou",
+   "nota": "Nao criado em 2026-11-16: o slide 5 dos carrosseis de 26/11 e 27/11 foi recusado pelo jsDelivr (403); para nao deixar mais rascunhos (nao ha como apagar no Planable) nao se tentou. Resolver: confirmar que o slide 5 abre no jsDelivr e agendar."
   },
   {
    "data": "2026-11-29",
@@ -1100,7 +1149,12 @@
    ],
    "commit": "75c9fd5b3999252f3d5532c2b6d7821a8ec9a70b",
    "legenda": "Falar com a parceira sobre a próstata.\nEscolha um momento calmo, sem televisão nem telemóvel.\nOiça sem interromper e repita o que ouviu.\nTentar adivinhar o que o outro sente costuma dar errado. É melhor perguntar.\nIntimidade não é só ereção.\nFontes: Prostate Cancer UK, Macmillan e NHS (Reino Unido).\nFaça o teste de sintomas em prostata.pt (link na bio).\nInformação geral. Não substitui a consulta com um médico.\n#próstata #tratamento #casal #prostatapt",
-   "estado": "pronto"
+   "estado": "agendado",
+   "planable_ids": [
+    "k3Hxrtc9o2zbaHcZ6",
+    "yRZC5b3Dxfe2wafxc",
+    "JMFZjmZpr6et5CWgR"
+   ]
   },
   {
    "data": "2026-11-30",
@@ -1115,7 +1169,13 @@
    ],
    "commit": "75c9fd5b3999252f3d5532c2b6d7821a8ec9a70b",
    "legenda": "Disfunção erétil tem tratamento.\nÉ muito comum, sobretudo depois dos 40 anos.\nO tratamento principal são os inibidores da PDE-5, com indicação do médico.\nOnline, muitos sites vendem medicamentos falsificados.\nPerder peso, deixar de fumar e fazer exercício todos os dias também ajudam.\nFonte: NHS (Reino Unido). Em Portugal, comece pelo médico de família ou urologista.\nFaça o teste de sintomas em prostata.pt (link na bio).\nInformação geral. Não substitui a consulta com um médico.\n#próstata #tratamento #saúdemasculina #prostatapt",
-   "estado": "pronto"
+   "estado": "falhou",
+   "planable_ids": [
+    "TY4fojtwAtPiMADbb",
+    "7KBQrqJxcT3JnQjfj",
+    "aoutZz3iC7nu62RZs"
+   ],
+   "nota": "Imagem img-tratamento-disfuncao-eretil.jpg recusada pelo jsDelivr (403) em 2026-11-16; 3 publicacoes ficaram sem media e foram passadas a rascunho (sem data). Resolver: anexar a imagem e reagendar 2026-11-30T10:30Z."
   },
   {
    "data": "2026-11-30",
@@ -1136,7 +1196,8 @@
    ],
    "commit": "75c9fd5b3999252f3d5532c2b6d7821a8ec9a70b",
    "legenda": "Jato urinário fraco: o que pode estar por trás.\nQuando a força se perde aos poucos num homem mais velho, a causa habitual é a próstata.\nUma mudança brusca, sobretudo num homem mais novo, pode indicar um estreitamento da uretra.\nUma próstata aumentada, por si só, não é cancro nem aumenta o risco de o ter.\nSangue na urina, dor ao urinar ou não conseguir urinar: procure ajuda urgente.\nFontes: NHS e hospitais do Reino Unido, University of Utah Health e MedlinePlus (EUA).\nFaça o teste de sintomas em prostata.pt (link na bio).\nInformação geral. Não substitui a consulta com um médico.\n#próstata #prevenção #jatofraco #prostatapt",
-   "estado": "pronto"
+   "estado": "falhou",
+   "nota": "Nao criado em 2026-11-16: o slide 5 dos carrosseis de 26/11 e 27/11 foi recusado pelo jsDelivr (403); para nao deixar mais rascunhos (nao ha como apagar no Planable) nao se tentou. Resolver: confirmar que o slide 5 abre no jsDelivr e agendar."
   },
   {
    "data": "2026-11-30",
@@ -1151,7 +1212,12 @@
    ],
    "commit": "75c9fd5b3999252f3d5532c2b6d7821a8ec9a70b",
    "legenda": "Álcool e bexiga.\nO álcool pode irritar a bexiga e faz urinar mais.\nNa próstata aumentada, reduzir álcool, cafeína e bebidas com gás está entre as primeiras medidas.\nNão se sabe se o álcool tem um efeito próprio no cancro da próstata.\nNo Reino Unido, aconselha-se no máximo 14 unidades por semana, com dias sem álcool.\nFontes: Cancer Research UK, NI Direct e NHS 111 Wales (Reino Unido).\nFaça o teste de sintomas em prostata.pt (link na bio).\nInformação geral. Não substitui a consulta com um médico.\n#próstata #alimentação #álcool #prostatapt",
-   "estado": "pronto"
+   "estado": "agendado",
+   "planable_ids": [
+    "sNXixi5svgXRsA6mT",
+    "tWjG4AYC5vxAH7ntE",
+    "x6NbvmEaNNnrjYJSr"
+   ]
   },
   {
    "data": "2026-12-01",
@@ -1166,7 +1232,12 @@
    ],
    "commit": "75c9fd5b3999252f3d5532c2b6d7821a8ec9a70b",
    "legenda": "Carne e laticínios: há prova?\nAlguns estudos associam a carne vermelha e os laticínios a mais risco de cancro da próstata.\nOutros não encontram ligação.\nNenhum alimento isolado está provado.\nA carne processada é a que se aconselha evitar, porque pode aumentar o risco de outros cancros.\nFonte: revisão publicada em Frontiers in Nutrition (2017) e Prostate Cancer UK (Reino Unido).\nFaça o teste de sintomas em prostata.pt (link na bio).\nInformação geral. Não substitui a consulta com um médico.\n#próstata #alimentação #nutrição #prostatapt",
-   "estado": "pronto"
+   "estado": "agendado",
+   "planable_ids": [
+    "ZqoZ6b4spg87fzu9Q",
+    "aj8AkCAYNnu4MsLAA",
+    "7Meyc46y5MnvskYme"
+   ]
   },
   {
    "data": "2026-12-01",
@@ -1187,7 +1258,8 @@
    ],
    "commit": "75c9fd5b3999252f3d5532c2b6d7821a8ec9a70b",
    "legenda": "Medicamentos para a próstata aumentada: três grupos.\nNem toda a próstata aumentada precisa de tratamento: depende dos sintomas e de quanto o incomodam.\nAjudam a urinar: tansulosina, doxazosina e alfuzosina.\nVontade frequente ou urgente: oxibutinina e tolterodina.\nTravam o crescimento: finasterida e dutasterida.\nFale com o médico ou o farmacêutico antes de tomar.\nFonte: NHS (Reino Unido). As práticas em Portugal podem diferir.\nFaça o teste de sintomas em prostata.pt (link na bio).\nInformação geral. Não substitui a consulta com um médico.\n#próstata #tratamento #próstataaumentada #prostatapt",
-   "estado": "pronto"
+   "estado": "falhou",
+   "nota": "Nao criado em 2026-11-16: o slide 5 dos carrosseis de 26/11 e 27/11 foi recusado pelo jsDelivr (403); para nao deixar mais rascunhos (nao ha como apagar no Planable) nao se tentou. Resolver: confirmar que o slide 5 abre no jsDelivr e agendar."
   },
   {
    "data": "2026-12-01",
@@ -1202,7 +1274,12 @@
    ],
    "commit": "75c9fd5b3999252f3d5532c2b6d7821a8ec9a70b",
    "legenda": "Infeção urinária no homem.\nSinais: ardor ao urinar, urinar mais vezes e urina turva ou com sangue.\nPode haver dor em baixo na barriga ou nas costas, febre e cansaço.\nNos mais velhos, pode surgir só como confusão, mal-estar ou mais perdas de urina.\nNo Reino Unido, recomenda-se consulta urgente a todos os homens com sintomas.\nFontes: NHS, Patient.info, Spire Healthcare e NHS Forth Valley. As práticas em Portugal podem diferir.\nFaça o teste de sintomas em prostata.pt (link na bio).\nInformação geral. Não substitui a consulta com um médico.\n#próstata #prevenção #infeçãourinária #prostatapt",
-   "estado": "pronto"
+   "estado": "agendado",
+   "planable_ids": [
+    "nqiCJDJRoB67RaRos",
+    "fTH8HqNGxLbabLjz3",
+    "DnvuWiXLdenaJct8B"
+   ]
   },
   {
    "data": "2026-12-02",
@@ -1217,7 +1294,12 @@
    ],
    "commit": "75c9fd5b3999252f3d5532c2b6d7821a8ec9a70b",
    "legenda": "O que é o Gleason?\nSoma duas notas e vai de 6 a 10 na prática.\nO Grupo de Grau vai de 1 (menos agressivo) a 5 (mais agressivo).\n3+4 é o Grupo 2 e 4+3 é o Grupo 3.\nFonte: Cancer Research UK (Reino Unido). As práticas em Portugal podem diferir.\nFaça o teste de sintomas em prostata.pt (link na bio).\nInformação geral. Não substitui a consulta com um médico.\n#próstata #prevenção #gleason #prostatapt",
-   "estado": "pronto"
+   "estado": "agendado",
+   "planable_ids": [
+    "eiv6DF2TdqDmekSw7",
+    "cE7yGKzhtn73aMo5e",
+    "jWRbGRnENa9hJGxW7"
+   ]
   },
   {
    "data": "2026-12-02",
@@ -1238,7 +1320,8 @@
    ],
    "commit": "75c9fd5b3999252f3d5532c2b6d7821a8ec9a70b",
    "legenda": "Perder peso com segurança.\nHá evidência forte de que o excesso de peso aumenta o risco de cancro da próstata avançado ou agressivo.\nFaça-o aos poucos: alimentação mais equilibrada e mais atividade física.\nAs dietas da moda costumam cortar grupos de alimentos ou ter poucas calorias.\nPerder alguns quilos é melhor do que não perder nenhum. O difícil é manter.\nFontes: Cancer Research UK, Prostate Cancer UK e World Cancer Research Fund (Reino Unido). As práticas em Portugal podem diferir.\nFaça o teste de sintomas em prostata.pt (link na bio).\nInformação geral. Não substitui a consulta com um médico.\n#próstata #alimentação #pesosaudável #prostatapt",
-   "estado": "pronto"
+   "estado": "falhou",
+   "nota": "Nao criado em 2026-11-16: o slide 5 dos carrosseis de 26/11 e 27/11 foi recusado pelo jsDelivr (403); para nao deixar mais rascunhos (nao ha como apagar no Planable) nao se tentou. Resolver: confirmar que o slide 5 abre no jsDelivr e agendar."
   },
   {
    "data": "2026-12-02",
@@ -1253,7 +1336,12 @@
    ],
    "commit": "75c9fd5b3999252f3d5532c2b6d7821a8ec9a70b",
    "legenda": "Não consegue urinar?\nA retenção urinária aguda é uma urgência médica: vá às urgências ou ligue 112.\nTrata-se com uma sonda, sem precisar de exames antes.\nA sonda fica entre 1 e 3 dias, e nunca menos de um dia.\nNo homem, a causa mais comum é a próstata aumentada.\nFontes: ICMR (Índia), Healthdirect (Austrália), Patient.info e hospital do NHS (Reino Unido).\nFaça o teste de sintomas em prostata.pt (link na bio).\nInformação geral. Não substitui a consulta com um médico.\n#próstata #tratamento #urgência #prostatapt",
-   "estado": "pronto"
+   "estado": "agendado",
+   "planable_ids": [
+    "Y3apLb4EA3FbhcYAE",
+    "q7EaLLcb3fkDm7xg8",
+    "gx58XBigiBTmAJnzn"
+   ]
   }
  ]
 }
