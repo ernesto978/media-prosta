@@ -1,5 +1,5 @@
 {
- "nota": "Fila Info Imobiliária. estado: pronto|agendado|falhou. Peças de 10 a 29/11/2026 agendadas no Planable (sem aprovar).",
+ "nota": "Fila Info Imobiliária. estado: pronto|agendado|falhou. Peças de 10 a 29/11/2026 agendadas no Planable (sem aprovar). Peças de 30/11 a 06/12/2026 prontas (por agendar).",
  "ultimo_dia_agendado_ate": "2026-11-29",
  "pecas": [
   {
@@ -2837,6 +2837,1049 @@
    ],
    "estado": "agendado",
    "stories_estado": "agendado"
+  },
+  {
+   "data": "2026-11-30",
+   "hora_lisboa": "09:30",
+   "scheduledAt_utc": "2026-11-30T09:30:00.000Z",
+   "tipo": "video",
+   "assunto": "Comissão da imobiliária: 5% de 250 000 €",
+   "fonte": "Info Imobiliária, «Comissão da imobiliária: quanto se paga, quando e o que diz a lei» (22/11/2026), com DECO PROteste e Lei n.º 15/2013. Exemplo calculado por nós.",
+   "ficheiros": [
+    "infoimobiliaria-20261130-video-1.mp4"
+   ],
+   "commit": "6367e044b290d028fab8286ad2dac2f9ff043e4b",
+   "legenda": "Casa vendida por 250 000 € e comissão de 5% mais IVA a 23%.\nComissão de 12 500 €, IVA de 2 875 € e total de 15 375 €.\nSe o contrato previr metade no CPCV e metade na escritura, são 7 687,50 € em cada momento.\nDepois de pagares a comissão, ficam 234 625 € do preço de venda.\nA DECO PROteste aponta 5% como média, mas o valor é o do contrato.\n\ninfoimobiliaria.com\n(Link também na bio.)\n\nFonte: Info Imobiliária, «Comissão da imobiliária: quanto se paga, quando e o que diz a lei» (22/11/2026), com DECO PROteste e Lei n.º 15/2013. Exemplo calculado por nós.\nInformação geral. Confirma com um advogado ou solicitador.\n\nInfo Imobiliária, by OMNI\n\n#comissão #vendercasa #mediaçãoimobiliária #imobiliário #infoimobiliária",
+   "stories": [
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261130-video-1.mp4"
+     ],
+     "scheduledAt_utc": "2026-11-30T09:55:00.000Z",
+     "nota": "reutiliza o mp4 (info/m/)"
+    }
+   ],
+   "estado": "pronto",
+   "stories_estado": "por agendar",
+   "titulo_youtube": "Comissão da imobiliária: quanto custa vender com 5%?"
+  },
+  {
+   "data": "2026-11-30",
+   "hora_lisboa": "11:45",
+   "scheduledAt_utc": "2026-11-30T11:45:00.000Z",
+   "tipo": "carrossel",
+   "assunto": "Isenção de IMI: os prazos",
+   "fonte": "Info Imobiliária, «Isenção de IMI: quem não paga, durante quanto tempo e como pedir» (Portal da Literacia Financeira, idealista/news e gov.pt).",
+   "ficheiros": [
+    "infoimobiliaria-20261130-carrossel-1.jpg",
+    "infoimobiliaria-20261130-carrossel-2.jpg",
+    "infoimobiliaria-20261130-carrossel-3.jpg",
+    "infoimobiliaria-20261130-carrossel-4.jpg",
+    "infoimobiliaria-20261130-carrossel-5.jpg"
+   ],
+   "commit": "6367e044b290d028fab8286ad2dac2f9ff043e4b",
+   "legenda": "Isenção de IMI: os prazos que não podes falhar.\nTens 6 meses para fixar a morada fiscal na casa.\nSe a isenção não aparecer sozinha, ou se a casa foi construída, ampliada ou melhorada, tens mais 60 dias para o pedido.\nSe te atrasares, a isenção só começa a contar no ano em que o fazes.\nGuarda este carrossel.\n\ninfoimobiliaria.com\n(Link também na bio.)\n\nFonte: Info Imobiliária, «Isenção de IMI: quem não paga, durante quanto tempo e como pedir» (Portal da Literacia Financeira, idealista/news e gov.pt).\nInformação geral. Confirma com um advogado ou solicitador.\n\nInfo Imobiliária, by OMNI\n\n#IMI #isençãoIMI #comprarcasa #imobiliário #infoimobiliária",
+   "stories": [
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261130-carrossel-1-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-11-30T12:15:00.000Z"
+    },
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261130-carrossel-2-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-11-30T12:27:00.000Z"
+    },
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261130-carrossel-3-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-11-30T12:39:00.000Z"
+    },
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261130-carrossel-4-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-11-30T12:51:00.000Z"
+    },
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261130-carrossel-5-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-11-30T13:03:00.000Z"
+    }
+   ],
+   "estado": "pronto",
+   "stories_estado": "por agendar"
+  },
+  {
+   "data": "2026-11-30",
+   "hora_lisboa": "14:00",
+   "scheduledAt_utc": "2026-11-30T14:00:00.000Z",
+   "tipo": "video",
+   "assunto": "Euribor: meio ponto muda a prestação",
+   "fonte": "Info Imobiliária, «Prestação da casa sobe em novembro...» (2/11/2026), com Lusa/DNoticias e ECO (30/10/2026). Exemplo calculado por nós, sem seguros nem comissões.",
+   "ficheiros": [
+    "infoimobiliaria-20261130-video-2.mp4"
+   ],
+   "commit": "6367e044b290d028fab8286ad2dac2f9ff043e4b",
+   "legenda": "Crédito de 150 000 € a 30 anos, spread de 1% e Euribor a 12 meses de 3,239% (média de outubro).\nPrestação de cerca de 736,94 € por mês.\nSe a Euribor subir 0,5 pontos: cerca de 781,48 €, mais 44,53 € por mês.\nSe descer 0,5 pontos: cerca de 693,74 €, menos 43,21 € por mês.\nMeio ponto a mais são mais de 500 € por ano.\n\ninfoimobiliaria.com\n(Link também na bio.)\n\nFonte: Info Imobiliária, «Prestação da casa sobe em novembro...» (2/11/2026), com Lusa/DNoticias e ECO (30/10/2026). Exemplo calculado por nós, sem seguros nem comissões.\n\nInfo Imobiliária, by OMNI\n\n#euribor #créditohabitação #prestação #imobiliário #infoimobiliária",
+   "stories": [
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261130-video-2.mp4"
+     ],
+     "scheduledAt_utc": "2026-11-30T14:25:00.000Z",
+     "nota": "reutiliza o mp4 (info/m/)"
+    }
+   ],
+   "estado": "pronto",
+   "stories_estado": "por agendar",
+   "titulo_youtube": "Meio ponto na Euribor: quanto muda a prestação?"
+  },
+  {
+   "data": "2026-11-30",
+   "hora_lisboa": "16:30",
+   "scheduledAt_utc": "2026-11-30T16:30:00.000Z",
+   "tipo": "imagem",
+   "assunto": "Arrendamento: comunicar até 31 de janeiro",
+   "fonte": "Info Imobiliária, «Como comunicar o contrato de arrendamento às Finanças e até quando» (21/11/2026), com a AT. Exemplo calculado por nós.",
+   "ficheiros": [
+    "infoimobiliaria-20261130-imagem.jpg"
+   ],
+   "commit": "6367e044b290d028fab8286ad2dac2f9ff043e4b",
+   "legenda": "Contrato de arrendamento com início a 1 de dezembro de 2026: o senhorio tem até 31 de janeiro de 2027 para comunicar às Finanças.\nO prazo é o fim do mês seguinte ao do início.\nO dia dentro do mês não muda nada.\n\ninfoimobiliaria.com\n(Link também na bio.)\n\nFonte: Info Imobiliária, «Como comunicar o contrato de arrendamento às Finanças e até quando» (21/11/2026), com a AT. Exemplo calculado por nós.\nInformação geral. Confirma com um advogado ou solicitador.\n\nInfo Imobiliária, by OMNI\n\n#arrendamento #senhorios #inquilinos #imobiliário #infoimobiliária",
+   "stories": [
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261130-imagem-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-11-30T17:00:00.000Z"
+    }
+   ],
+   "estado": "pronto",
+   "stories_estado": "por agendar"
+  },
+  {
+   "data": "2026-11-30",
+   "hora_lisboa": "20:15",
+   "scheduledAt_utc": "2026-11-30T20:15:00.000Z",
+   "tipo": "video",
+   "assunto": "Sala pequena: ganha espaço sem obras",
+   "fonte": "Info Imobiliária, «Sala pequena: 8 ideias de decoração que não pedem obras», com Planner 5D e Sienge.",
+   "ficheiros": [
+    "infoimobiliaria-20261130-video-3.mp4"
+   ],
+   "commit": "6367e044b290d028fab8286ad2dac2f9ff043e4b",
+   "legenda": "Sala pequena? Começa por aqui.\nMede antes de comprar móveis.\nUsa cores claras nas paredes e nos tecidos grandes.\nPõe um espelho em frente à janela.\nInstala as cortinas do teto ao chão e aproveita a altura com prateleiras.\n\ninfoimobiliaria.com\n(Link também na bio.)\n\nFonte: Info Imobiliária, «Sala pequena: 8 ideias de decoração que não pedem obras», com Planner 5D e Sienge.\n\nInfo Imobiliária, by OMNI\n\n#decoração #salapequena #casaevida #dicasdecasa #infoimobiliária",
+   "stories": [
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261130-video-3.mp4"
+     ],
+     "scheduledAt_utc": "2026-11-30T20:40:00.000Z",
+     "nota": "reutiliza o mp4 (info/m/)"
+    }
+   ],
+   "estado": "pronto",
+   "stories_estado": "por agendar",
+   "titulo_youtube": "Sala pequena: como ganhar espaço sem obras"
+  },
+  {
+   "data": "2026-12-01",
+   "hora_lisboa": "10:15",
+   "scheduledAt_utc": "2026-12-01T10:15:00.000Z",
+   "tipo": "video",
+   "assunto": "Imposto do Selo do arrendamento: 10% da renda",
+   "fonte": "Info Imobiliária, «Como comunicar o contrato de arrendamento às Finanças e até quando» (21/11/2026), com a AT. Exemplo calculado por nós.",
+   "ficheiros": [
+    "infoimobiliaria-20261201-video-1.mp4"
+   ],
+   "commit": "6367e044b290d028fab8286ad2dac2f9ff043e4b",
+   "legenda": "O Imposto do Selo do arrendamento é de 10% da renda mensal.\nRenda de 650 €: 65 €.\nRenda de 800 €: 80 €.\nRenda de 950 €: 95 €.\nPaga-se no mesmo prazo da comunicação: o fim do mês seguinte ao do início.\n\ninfoimobiliaria.com\n(Link também na bio.)\n\nFonte: Info Imobiliária, «Como comunicar o contrato de arrendamento às Finanças e até quando» (21/11/2026), com a AT. Exemplo calculado por nós.\nInformação geral. Confirma com um advogado ou solicitador.\n\nInfo Imobiliária, by OMNI\n\n#arrendamento #impostodoselo #senhorios #imobiliário #infoimobiliária",
+   "stories": [
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261201-video-1.mp4"
+     ],
+     "scheduledAt_utc": "2026-12-01T10:40:00.000Z",
+     "nota": "reutiliza o mp4 (info/m/)"
+    }
+   ],
+   "estado": "pronto",
+   "stories_estado": "por agendar",
+   "titulo_youtube": "Imposto do Selo do arrendamento: quanto é?"
+  },
+  {
+   "data": "2026-12-01",
+   "hora_lisboa": "13:30",
+   "scheduledAt_utc": "2026-12-01T13:30:00.000Z",
+   "tipo": "video",
+   "assunto": "Preço de venda em 3 passos",
+   "fonte": "Info Imobiliária, «Como determinar o preço de venda da tua casa, em 3 passos».",
+   "ficheiros": [
+    "infoimobiliaria-20261201-video-2.mp4"
+   ],
+   "commit": "6367e044b290d028fab8286ad2dac2f9ff043e4b",
+   "legenda": "Como definir o preço de venda da tua casa.\n1. Afasta-te da casa: o que gastaste e as tuas memórias valem pouco para quem compra.\n2. Compara o mercado: casas parecidas, na mesma zona, à venda ou vendidas há pouco.\n3. Junta serviços: documentos reunidos e ajuda com o crédito do comprador.\nUm preço certo atrai visitas e propostas.\n\ninfoimobiliaria.com\n(Link também na bio.)\n\nFonte: Info Imobiliária, «Como determinar o preço de venda da tua casa, em 3 passos».\n\nInfo Imobiliária, by OMNI\n\n#vendercasa #preçodevenda #imobiliário #dicas #infoimobiliária",
+   "stories": [
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261201-video-2.mp4"
+     ],
+     "scheduledAt_utc": "2026-12-01T13:55:00.000Z",
+     "nota": "reutiliza o mp4 (info/m/)"
+    }
+   ],
+   "estado": "pronto",
+   "stories_estado": "por agendar",
+   "titulo_youtube": "Como definir o preço de venda da tua casa em 3 passos"
+  },
+  {
+   "data": "2026-12-01",
+   "hora_lisboa": "15:15",
+   "scheduledAt_utc": "2026-12-01T15:15:00.000Z",
+   "tipo": "carrossel",
+   "assunto": "Contrato de mediação: o que tem de ter",
+   "fonte": "Info Imobiliária, «Comissão da imobiliária» (22/11/2026), com Lei n.º 15/2013 (art. 16.º) e Portaria n.º 228/2018.",
+   "ficheiros": [
+    "infoimobiliaria-20261201-carrossel-1.jpg",
+    "infoimobiliaria-20261201-carrossel-2.jpg",
+    "infoimobiliaria-20261201-carrossel-3.jpg",
+    "infoimobiliaria-20261201-carrossel-4.jpg",
+    "infoimobiliaria-20261201-carrossel-5.jpg"
+   ],
+   "commit": "6367e044b290d028fab8286ad2dac2f9ff043e4b",
+   "legenda": "Contrato de mediação imobiliária: o que tem de ter.\nTem de ser escrito, e a imobiliária não pode invocar a nulidade.\nInclui o imóvel, a remuneração, o IVA, o seguro de responsabilidade civil e a exclusividade, se acordada.\nSe não disser nada sobre o prazo, são seis meses.\nGuarda este carrossel.\n\ninfoimobiliaria.com\n(Link também na bio.)\n\nFonte: Info Imobiliária, «Comissão da imobiliária» (22/11/2026), com Lei n.º 15/2013 (art. 16.º) e Portaria n.º 228/2018.\nInformação geral. Confirma com um advogado ou solicitador.\n\nInfo Imobiliária, by OMNI\n\n#mediaçãoimobiliária #vendercasa #contrato #imobiliário #infoimobiliária",
+   "stories": [
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261201-carrossel-1-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-12-01T15:45:00.000Z"
+    },
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261201-carrossel-2-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-12-01T15:57:00.000Z"
+    },
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261201-carrossel-3-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-12-01T16:09:00.000Z"
+    },
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261201-carrossel-4-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-12-01T16:21:00.000Z"
+    },
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261201-carrossel-5-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-12-01T16:33:00.000Z"
+    }
+   ],
+   "estado": "pronto",
+   "stories_estado": "por agendar"
+  },
+  {
+   "data": "2026-12-01",
+   "hora_lisboa": "17:00",
+   "scheduledAt_utc": "2026-12-01T17:00:00.000Z",
+   "tipo": "imagem",
+   "assunto": "Isenção de IMI: VPT até 125 000 €",
+   "fonte": "Info Imobiliária, «Isenção de IMI: quem não paga, durante quanto tempo e como pedir» (Portal da Literacia Financeira) e «O que é o IMI».",
+   "ficheiros": [
+    "infoimobiliaria-20261201-imagem.jpg"
+   ],
+   "commit": "6367e044b290d028fab8286ad2dac2f9ff043e4b",
+   "legenda": "125 000 €.\nÉ o VPT máximo na isenção temporária de IMI de 3 anos.\nCom 125 001 € não há isenção parcial.\nO VPT está na caderneta predial.\n\ninfoimobiliaria.com\n(Link também na bio.)\n\nFonte: Info Imobiliária, «Isenção de IMI: quem não paga, durante quanto tempo e como pedir» (Portal da Literacia Financeira) e «O que é o IMI».\nInformação geral. Confirma com um advogado ou solicitador.\n\nInfo Imobiliária, by OMNI\n\n#IMI #VPT #isençãoIMI #imobiliário #infoimobiliária",
+   "stories": [
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261201-imagem-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-12-01T17:30:00.000Z"
+    }
+   ],
+   "estado": "pronto",
+   "stories_estado": "por agendar"
+  },
+  {
+   "data": "2026-12-01",
+   "hora_lisboa": "19:45",
+   "scheduledAt_utc": "2026-12-01T19:45:00.000Z",
+   "tipo": "video",
+   "assunto": "CPCV: o que confirmar antes de assinar",
+   "fonte": "Info Imobiliária, página «CPCV: o contrato-promessa de compra e venda».",
+   "ficheiros": [
+    "infoimobiliaria-20261201-video-3.mp4"
+   ],
+   "commit": "6367e044b290d028fab8286ad2dac2f9ff043e4b",
+   "legenda": "CPCV: o que confirmar antes de assinar.\nAs assinaturas são reconhecidas presencialmente.\nO contrato refere a licença de utilização ou de construção.\nA área e a descrição batem certo com o registo.\nO prazo da escritura é realista e o que entra no negócio ficou por escrito.\n\ninfoimobiliaria.com\n(Link também na bio.)\n\nFonte: Info Imobiliária, página «CPCV: o contrato-promessa de compra e venda».\nInformação geral. Confirma com um advogado ou solicitador.\n\nInfo Imobiliária, by OMNI\n\n#CPCV #comprarcasa #escritura #imobiliário #infoimobiliária",
+   "stories": [
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261201-video-3.mp4"
+     ],
+     "scheduledAt_utc": "2026-12-01T20:10:00.000Z",
+     "nota": "reutiliza o mp4 (info/m/)"
+    }
+   ],
+   "estado": "pronto",
+   "stories_estado": "por agendar",
+   "titulo_youtube": "CPCV: o que confirmar antes de assinar"
+  },
+  {
+   "data": "2026-12-02",
+   "hora_lisboa": "09:00",
+   "scheduledAt_utc": "2026-12-02T09:00:00.000Z",
+   "tipo": "video",
+   "assunto": "Mais-valias: só 50% entra no IRS",
+   "fonte": "Info Imobiliária, página «O que são as mais-valias imobiliárias», com CRN Contabilidade. Exemplo calculado por nós, sem coeficiente de correção.",
+   "ficheiros": [
+    "infoimobiliaria-20261202-video-1.mp4"
+   ],
+   "commit": "6367e044b290d028fab8286ad2dac2f9ff043e4b",
+   "legenda": "Se és residente em Portugal, só 50% da mais-valia entra no teu IRS.\nExemplo: compra por 150 000 €, venda por 220 000 € e 8 000 € de despesas dedutíveis.\nA mais-valia é de 62 000 €.\nEntram no IRS 31 000 €, que se somam aos teus outros rendimentos.\nO imposto depende dos teus outros rendimentos.\n\ninfoimobiliaria.com\n(Link também na bio.)\n\nFonte: Info Imobiliária, página «O que são as mais-valias imobiliárias», com CRN Contabilidade. Exemplo calculado por nós, sem coeficiente de correção.\nInformação geral. Confirma com um advogado ou solicitador.\n\nInfo Imobiliária, by OMNI\n\n#maisvalias #IRS #vendercasa #imobiliário #infoimobiliária",
+   "stories": [
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261202-video-1.mp4"
+     ],
+     "scheduledAt_utc": "2026-12-02T09:25:00.000Z",
+     "nota": "reutiliza o mp4 (info/m/)"
+    }
+   ],
+   "estado": "pronto",
+   "stories_estado": "por agendar",
+   "titulo_youtube": "Mais-valias: só metade entra no IRS?"
+  },
+  {
+   "data": "2026-12-02",
+   "hora_lisboa": "12:15",
+   "scheduledAt_utc": "2026-12-02T12:15:00.000Z",
+   "tipo": "carrossel",
+   "assunto": "Sala pequena: 8 ideias sem obras",
+   "fonte": "Info Imobiliária, «Sala pequena: 8 ideias de decoração que não pedem obras», com Planner 5D e Sienge.",
+   "ficheiros": [
+    "infoimobiliaria-20261202-carrossel-1.jpg",
+    "infoimobiliaria-20261202-carrossel-2.jpg",
+    "infoimobiliaria-20261202-carrossel-3.jpg",
+    "infoimobiliaria-20261202-carrossel-4.jpg",
+    "infoimobiliaria-20261202-carrossel-5.jpg"
+   ],
+   "commit": "6367e044b290d028fab8286ad2dac2f9ff043e4b",
+   "legenda": "Sala pequena: 8 ideias que não pedem obras.\nMede antes de comprar e escolhe cores claras.\nEspelhos, móveis multifuncionais e prateleiras ajudam.\nPensa a luz em camadas e usa cortinas do teto ao chão.\nGuarda este carrossel.\n\ninfoimobiliaria.com\n(Link também na bio.)\n\nFonte: Info Imobiliária, «Sala pequena: 8 ideias de decoração que não pedem obras», com Planner 5D e Sienge.\n\nInfo Imobiliária, by OMNI\n\n#decoração #salapequena #casaevida #dicasdecasa #infoimobiliária",
+   "stories": [
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261202-carrossel-1-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-12-02T12:45:00.000Z"
+    },
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261202-carrossel-2-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-12-02T12:57:00.000Z"
+    },
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261202-carrossel-3-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-12-02T13:09:00.000Z"
+    },
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261202-carrossel-4-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-12-02T13:21:00.000Z"
+    },
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261202-carrossel-5-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-12-02T13:33:00.000Z"
+    }
+   ],
+   "estado": "pronto",
+   "stories_estado": "por agendar"
+  },
+  {
+   "data": "2026-12-02",
+   "hora_lisboa": "14:30",
+   "scheduledAt_utc": "2026-12-02T14:30:00.000Z",
+   "tipo": "video",
+   "assunto": "Arrendamento: o inquilino pode comunicar o contrato",
+   "fonte": "Info Imobiliária, «Como comunicar o contrato de arrendamento às Finanças e até quando» (21/11/2026), com DECO PROteste e Doutor Finanças.",
+   "ficheiros": [
+    "infoimobiliaria-20261202-video-2.mp4"
+   ],
+   "commit": "6367e044b290d028fab8286ad2dac2f9ff043e4b",
+   "legenda": "O senhorio não comunicou o contrato de arrendamento às Finanças?\nQuem comunica é o senhorio, até ao fim do mês seguinte ao do início.\nDesde 1 de agosto de 2025, o inquilino pode comunicar depois de esse prazo terminar.\nTem de anexar o contrato assinado, no Portal das Finanças.\nSem contrato escrito, não consegue.\n\ninfoimobiliaria.com\n(Link também na bio.)\n\nFonte: Info Imobiliária, «Como comunicar o contrato de arrendamento às Finanças e até quando» (21/11/2026), com DECO PROteste e Doutor Finanças.\nInformação geral. Confirma com um advogado ou solicitador.\n\nInfo Imobiliária, by OMNI\n\n#arrendamento #inquilinos #senhorios #finanças #infoimobiliária",
+   "stories": [
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261202-video-2.mp4"
+     ],
+     "scheduledAt_utc": "2026-12-02T14:55:00.000Z",
+     "nota": "reutiliza o mp4 (info/m/)"
+    }
+   ],
+   "estado": "pronto",
+   "stories_estado": "por agendar",
+   "titulo_youtube": "Senhorio não comunicou o contrato de arrendamento? O que fazer"
+  },
+  {
+   "data": "2026-12-02",
+   "hora_lisboa": "16:00",
+   "scheduledAt_utc": "2026-12-02T16:00:00.000Z",
+   "tipo": "imagem",
+   "assunto": "Casas em CIA: aviso de 20 dias ao IHRU",
+   "fonte": "ECO (13/11/2026) e Info Imobiliária, «Casas compradas com benefícios fiscais para arrendar: a venda passa a exigir autorização do Governo».",
+   "ficheiros": [
+    "infoimobiliaria-20261202-imagem.jpg"
+   ],
+   "commit": "6367e044b290d028fab8286ad2dac2f9ff043e4b",
+   "legenda": "20 dias.\nÉ o aviso ao IHRU antes de vender um imóvel dos Contratos de Investimento para Arrendamento.\nÉ preciso também despacho do ministro da Habitação.\nSem a assunção do contrato na escritura, a venda é nula.\n\ninfoimobiliaria.com\n(Link também na bio.)\n\nFonte: ECO (13/11/2026) e Info Imobiliária, «Casas compradas com benefícios fiscais para arrendar: a venda passa a exigir autorização do Governo».\nInformação geral. Confirma com um advogado ou solicitador.\n\nInfo Imobiliária, by OMNI\n\n#arrendamento #habitação #investimento #imobiliário #infoimobiliária",
+   "stories": [
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261202-imagem-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-12-02T16:30:00.000Z"
+    }
+   ],
+   "estado": "pronto",
+   "stories_estado": "por agendar"
+  },
+  {
+   "data": "2026-12-02",
+   "hora_lisboa": "20:30",
+   "scheduledAt_utc": "2026-12-02T20:30:00.000Z",
+   "tipo": "video",
+   "assunto": "Erro comum: deixar passar a data de denúncia da mediação",
+   "fonte": "Info Imobiliária, «Comissão da imobiliária» (22/11/2026), com a Portaria n.º 228/2018.",
+   "ficheiros": [
+    "infoimobiliaria-20261202-video-3.mp4"
+   ],
+   "commit": "6367e044b290d028fab8286ad2dac2f9ff043e4b",
+   "legenda": "Erro comum: assinar o contrato de mediação e esquecer o prazo.\nSe o contrato não disser nada, a duração é de seis meses.\nPode renovar-se automaticamente, se assim ficar escrito.\nNo modelo da Portaria n.º 228/2018, a denúncia faz-se 10 dias antes do fim do prazo.\nSe a data passar, o contrato continua em vigor.\n\ninfoimobiliaria.com\n(Link também na bio.)\n\nFonte: Info Imobiliária, «Comissão da imobiliária» (22/11/2026), com a Portaria n.º 228/2018.\nInformação geral. Confirma com um advogado ou solicitador.\n\nInfo Imobiliária, by OMNI\n\n#mediaçãoimobiliária #vendercasa #errocomum #imobiliário #infoimobiliária",
+   "stories": [
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261202-video-3.mp4"
+     ],
+     "scheduledAt_utc": "2026-12-02T20:55:00.000Z",
+     "nota": "reutiliza o mp4 (info/m/)"
+    }
+   ],
+   "estado": "pronto",
+   "stories_estado": "por agendar",
+   "titulo_youtube": "Erro comum: deixar passar a data de denúncia do contrato de mediação"
+  },
+  {
+   "data": "2026-12-03",
+   "hora_lisboa": "10:30",
+   "scheduledAt_utc": "2026-12-03T10:30:00.000Z",
+   "tipo": "video",
+   "assunto": "Comparar casas pelo preço por m²",
+   "fonte": "Info Imobiliária, «Como determinar o preço de venda da tua casa, em 3 passos». Exemplo hipotético calculado por nós.",
+   "ficheiros": [
+    "infoimobiliaria-20261203-video-1.mp4"
+   ],
+   "commit": "6367e044b290d028fab8286ad2dac2f9ff043e4b",
+   "legenda": "O preço total engana. Compara o preço por metro quadrado.\nCasa A: 240 000 € e 80 m², ou 3 000 € por m².\nCasa B: 270 000 € e 100 m², ou 2 700 € por m².\nDepois ajusta pelo estado, piso, exposição solar, garagem e ano de construção.\nUm anúncio parado há meses costuma estar acima do que o mercado aceita.\n\ninfoimobiliaria.com\n(Link também na bio.)\n\nFonte: Info Imobiliária, «Como determinar o preço de venda da tua casa, em 3 passos». Exemplo hipotético calculado por nós.\n\nInfo Imobiliária, by OMNI\n\n#comprarcasa #preçopormetro #vendercasa #imobiliário #infoimobiliária",
+   "stories": [
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261203-video-1.mp4"
+     ],
+     "scheduledAt_utc": "2026-12-03T10:55:00.000Z",
+     "nota": "reutiliza o mp4 (info/m/)"
+    }
+   ],
+   "estado": "pronto",
+   "stories_estado": "por agendar",
+   "titulo_youtube": "Comparar casas: porque o preço por m² conta"
+  },
+  {
+   "data": "2026-12-03",
+   "hora_lisboa": "13:15",
+   "scheduledAt_utc": "2026-12-03T13:15:00.000Z",
+   "tipo": "video",
+   "assunto": "IMI: quem paga e quando",
+   "fonte": "Info Imobiliária, página «O que é o IMI» (PwC, Guia Fiscal 2026). Exemplos calculados por nós.",
+   "ficheiros": [
+    "infoimobiliaria-20261203-video-2.mp4"
+   ],
+   "commit": "6367e044b290d028fab8286ad2dac2f9ff043e4b",
+   "legenda": "IMI: o imposto anual de quem tem casa.\nPaga quem for dono da casa a 31 de dezembro desse ano. Quem arrenda não paga.\nCalcula-se com VPT × taxa do município. VPT de 120 000 € a 0,3%: 360 € por ano.\nAté 100 €, em maio. Entre 100 € e 500 €, em maio e novembro. Acima de 500 €, em maio, agosto e novembro.\nVPT de 200 000 € a 0,35%: 700 € por ano, em três prestações.\n\ninfoimobiliaria.com\n(Link também na bio.)\n\nFonte: Info Imobiliária, página «O que é o IMI» (PwC, Guia Fiscal 2026). Exemplos calculados por nós.\nInformação geral. Confirma com um advogado ou solicitador.\n\nInfo Imobiliária, by OMNI\n\n#IMI #VPT #imobiliário #impostos #infoimobiliária",
+   "stories": [
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261203-video-2.mp4"
+     ],
+     "scheduledAt_utc": "2026-12-03T13:40:00.000Z",
+     "nota": "reutiliza o mp4 (info/m/)"
+    }
+   ],
+   "estado": "pronto",
+   "stories_estado": "por agendar",
+   "titulo_youtube": "IMI: quem paga, quanto e quando"
+  },
+  {
+   "data": "2026-12-03",
+   "hora_lisboa": "15:30",
+   "scheduledAt_utc": "2026-12-03T15:30:00.000Z",
+   "tipo": "carrossel",
+   "assunto": "Comunicar o contrato de arrendamento: porque importa",
+   "fonte": "Info Imobiliária, «Como comunicar o contrato de arrendamento às Finanças e até quando» (21/11/2026), com AT, CGD, DECO PROteste e Doutor Finanças.",
+   "ficheiros": [
+    "infoimobiliaria-20261203-carrossel-1.jpg",
+    "infoimobiliaria-20261203-carrossel-2.jpg",
+    "infoimobiliaria-20261203-carrossel-3.jpg",
+    "infoimobiliaria-20261203-carrossel-4.jpg",
+    "infoimobiliaria-20261203-carrossel-5.jpg"
+   ],
+   "commit": "6367e044b290d028fab8286ad2dac2f9ff043e4b",
+   "legenda": "Porque comunicar o contrato de arrendamento importa.\nA dedução das rendas no IRS e apoios como o Porta 65 dependem do contrato comunicado.\nO senhorio só pode emitir recibos de renda eletrónicos depois de o comunicar.\nPara o senhorio, a coima vai de 75 € a 3 750 €.\nGuarda este carrossel.\n\ninfoimobiliaria.com\n(Link também na bio.)\n\nFonte: Info Imobiliária, «Como comunicar o contrato de arrendamento às Finanças e até quando» (21/11/2026), com AT, CGD, DECO PROteste e Doutor Finanças.\nInformação geral. Confirma com um advogado ou solicitador.\n\nInfo Imobiliária, by OMNI\n\n#arrendamento #senhorios #inquilinos #IRS #infoimobiliária",
+   "stories": [
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261203-carrossel-1-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-12-03T16:00:00.000Z"
+    },
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261203-carrossel-2-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-12-03T16:12:00.000Z"
+    },
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261203-carrossel-3-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-12-03T16:24:00.000Z"
+    },
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261203-carrossel-4-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-12-03T16:36:00.000Z"
+    },
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261203-carrossel-5-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-12-03T16:48:00.000Z"
+    }
+   ],
+   "estado": "pronto",
+   "stories_estado": "por agendar"
+  },
+  {
+   "data": "2026-12-03",
+   "hora_lisboa": "17:15",
+   "scheduledAt_utc": "2026-12-03T17:15:00.000Z",
+   "tipo": "imagem",
+   "assunto": "Euribor: a prestação só muda na revisão",
+   "fonte": "Info Imobiliária, página «Euribor: o que é e como afeta a tua prestação».",
+   "ficheiros": [
+    "infoimobiliaria-20261203-imagem.jpg"
+   ],
+   "commit": "6367e044b290d028fab8286ad2dac2f9ff043e4b",
+   "legenda": "A Euribor muda todos os dias.\nA tua prestação só muda na data de revisão do contrato.\nEntre revisões, mantém-se, mesmo que a Euribor mexa.\nVê a data da próxima revisão no teu contrato.\n\ninfoimobiliaria.com\n(Link também na bio.)\n\nFonte: Info Imobiliária, página «Euribor: o que é e como afeta a tua prestação».\n\nInfo Imobiliária, by OMNI\n\n#euribor #créditohabitação #prestação #imobiliário #infoimobiliária",
+   "stories": [
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261203-imagem-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-12-03T17:45:00.000Z"
+    }
+   ],
+   "estado": "pronto",
+   "stories_estado": "por agendar"
+  },
+  {
+   "data": "2026-12-03",
+   "hora_lisboa": "19:30",
+   "scheduledAt_utc": "2026-12-03T19:30:00.000Z",
+   "tipo": "video",
+   "assunto": "Agente imobiliário: sinais de alerta",
+   "fonte": "Info Imobiliária, «Como avaliar o trabalho do teu agente imobiliário».",
+   "ficheiros": [
+    "infoimobiliaria-20261203-video-3.mp4"
+   ],
+   "commit": "6367e044b290d028fab8286ad2dac2f9ff043e4b",
+   "legenda": "Sinais de que algo não está a correr bem com o teu agente.\nSemanas sem visitas e sem explicação.\nPressão para baixares o preço logo nos primeiros dias.\nDificuldade em saber quantas visitas houve.\nPouca clareza sobre exclusividade e duração. Fala com ele antes de o problema crescer.\n\ninfoimobiliaria.com\n(Link também na bio.)\n\nFonte: Info Imobiliária, «Como avaliar o trabalho do teu agente imobiliário».\n\nInfo Imobiliária, by OMNI\n\n#vendercasa #agenteimobiliário #mediação #imobiliário #infoimobiliária",
+   "stories": [
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261203-video-3.mp4"
+     ],
+     "scheduledAt_utc": "2026-12-03T19:55:00.000Z",
+     "nota": "reutiliza o mp4 (info/m/)"
+    }
+   ],
+   "estado": "pronto",
+   "stories_estado": "por agendar",
+   "titulo_youtube": "O teu agente imobiliário: 5 sinais de alerta"
+  },
+  {
+   "data": "2026-12-04",
+   "hora_lisboa": "09:45",
+   "scheduledAt_utc": "2026-12-04T09:45:00.000Z",
+   "tipo": "video",
+   "assunto": "Renda sobe: Selo só sobre o aumento",
+   "fonte": "Info Imobiliária, «Como comunicar o contrato de arrendamento às Finanças e até quando» (21/11/2026), com a AT. Exemplo calculado por nós.",
+   "ficheiros": [
+    "infoimobiliaria-20261204-video-1.mp4"
+   ],
+   "commit": "6367e044b290d028fab8286ad2dac2f9ff043e4b",
+   "legenda": "Renda de 800 € que passa para 850 €.\nO aumento tem de ser comunicado até ao fim do mês seguinte ao da alteração.\nO Imposto do Selo é de 10% do aumento, não da renda toda.\n50 € × 10% = 5 €.\nO fim do contrato também se comunica, no mesmo prazo.\n\ninfoimobiliaria.com\n(Link também na bio.)\n\nFonte: Info Imobiliária, «Como comunicar o contrato de arrendamento às Finanças e até quando» (21/11/2026), com a AT. Exemplo calculado por nós.\nInformação geral. Confirma com um advogado ou solicitador.\n\nInfo Imobiliária, by OMNI\n\n#arrendamento #impostodoselo #senhorios #imobiliário #infoimobiliária",
+   "stories": [
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261204-video-1.mp4"
+     ],
+     "scheduledAt_utc": "2026-12-04T10:10:00.000Z",
+     "nota": "reutiliza o mp4 (info/m/)"
+    }
+   ],
+   "estado": "pronto",
+   "stories_estado": "por agendar",
+   "titulo_youtube": "A renda sobe: o que comunicar às Finanças?"
+  },
+  {
+   "data": "2026-12-04",
+   "hora_lisboa": "11:15",
+   "scheduledAt_utc": "2026-12-04T11:15:00.000Z",
+   "tipo": "carrossel",
+   "assunto": "4 números: preço pedido, venda, avaliação e VPT",
+   "fonte": "Info Imobiliária, «Preço pedido, preço de venda e avaliação bancária: porque os números não coincidem», com idealista, INE e Doutor Finanças.",
+   "ficheiros": [
+    "infoimobiliaria-20261204-carrossel-1.jpg",
+    "infoimobiliaria-20261204-carrossel-2.jpg",
+    "infoimobiliaria-20261204-carrossel-3.jpg",
+    "infoimobiliaria-20261204-carrossel-4.jpg",
+    "infoimobiliaria-20261204-carrossel-5.jpg"
+   ],
+   "commit": "6367e044b290d028fab8286ad2dac2f9ff043e4b",
+   "legenda": "Preço pedido, preço de venda, avaliação e VPT: porque não coincidem.\nPreço pedido: o que os vendedores pedem nos anúncios.\nPreço de venda: o que se pagou nas transações, medido pelo INE.\nAvaliação bancária: a estimativa do banco. VPT: o valor fiscal.\nGuarda este carrossel.\n\ninfoimobiliaria.com\n(Link também na bio.)\n\nFonte: Info Imobiliária, «Preço pedido, preço de venda e avaliação bancária: porque os números não coincidem», com idealista, INE e Doutor Finanças.\nInformação geral. Confirma com um advogado ou solicitador.\n\nInfo Imobiliária, by OMNI\n\n#preços #avaliaçãobancária #VPT #imobiliário #infoimobiliária",
+   "stories": [
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261204-carrossel-1-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-12-04T11:45:00.000Z"
+    },
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261204-carrossel-2-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-12-04T11:57:00.000Z"
+    },
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261204-carrossel-3-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-12-04T12:09:00.000Z"
+    },
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261204-carrossel-4-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-12-04T12:21:00.000Z"
+    },
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261204-carrossel-5-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-12-04T12:33:00.000Z"
+    }
+   ],
+   "estado": "pronto",
+   "stories_estado": "por agendar"
+  },
+  {
+   "data": "2026-12-04",
+   "hora_lisboa": "14:15",
+   "scheduledAt_utc": "2026-12-04T14:15:00.000Z",
+   "tipo": "video",
+   "assunto": "Mais-valias: despesas dedutíveis",
+   "fonte": "Info Imobiliária, página «O que são as mais-valias imobiliárias», com CRN Contabilidade.",
+   "ficheiros": [
+    "infoimobiliaria-20261204-video-2.mp4"
+   ],
+   "commit": "6367e044b290d028fab8286ad2dac2f9ff043e4b",
+   "legenda": "Mais-valias: que despesas podes deduzir?\nEscritura e registo da compra.\nIMT e Imposto do Selo da compra.\nComissão imobiliária da venda e certificado energético.\nObras de conservação com fatura dos últimos 12 anos. As faturas têm de estar no teu NIF.\n\ninfoimobiliaria.com\n(Link também na bio.)\n\nFonte: Info Imobiliária, página «O que são as mais-valias imobiliárias», com CRN Contabilidade.\nInformação geral. Confirma com um advogado ou solicitador.\n\nInfo Imobiliária, by OMNI\n\n#maisvalias #IRS #vendercasa #imobiliário #infoimobiliária",
+   "stories": [
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261204-video-2.mp4"
+     ],
+     "scheduledAt_utc": "2026-12-04T14:40:00.000Z",
+     "nota": "reutiliza o mp4 (info/m/)"
+    }
+   ],
+   "estado": "pronto",
+   "stories_estado": "por agendar",
+   "titulo_youtube": "Mais-valias: que despesas podes deduzir na venda?"
+  },
+  {
+   "data": "2026-12-04",
+   "hora_lisboa": "16:45",
+   "scheduledAt_utc": "2026-12-04T16:45:00.000Z",
+   "tipo": "imagem",
+   "assunto": "Imobiliária: seguro de 150 000 €",
+   "fonte": "Info Imobiliária, «Comissão da imobiliária: quanto se paga, quando e o que diz a lei» (22/11/2026).",
+   "ficheiros": [
+    "infoimobiliaria-20261204-imagem.jpg"
+   ],
+   "commit": "6367e044b290d028fab8286ad2dac2f9ff043e4b",
+   "legenda": "150 000 €.\nÉ o capital mínimo do seguro de responsabilidade civil da imobiliária.\nO contrato de mediação tem de identificar o seguro.\nConfirma também a licença do IMPIC.\n\ninfoimobiliaria.com\n(Link também na bio.)\n\nFonte: Info Imobiliária, «Comissão da imobiliária: quanto se paga, quando e o que diz a lei» (22/11/2026).\nInformação geral. Confirma com um advogado ou solicitador.\n\nInfo Imobiliária, by OMNI\n\n#mediaçãoimobiliária #vendercasa #contrato #imobiliário #infoimobiliária",
+   "stories": [
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261204-imagem-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-12-04T17:15:00.000Z"
+    }
+   ],
+   "estado": "pronto",
+   "stories_estado": "por agendar"
+  },
+  {
+   "data": "2026-12-04",
+   "hora_lisboa": "21:00",
+   "scheduledAt_utc": "2026-12-04T21:00:00.000Z",
+   "tipo": "video",
+   "assunto": "Casa pronta a vender: documentos",
+   "fonte": "Info Imobiliária, «Como determinar o preço de venda da tua casa, em 3 passos».",
+   "ficheiros": [
+    "infoimobiliaria-20261204-video-3.mp4"
+   ],
+   "commit": "6367e044b290d028fab8286ad2dac2f9ff043e4b",
+   "legenda": "Antes de pôr a casa à venda, reúne os documentos.\nCaderneta predial, certidão de registo e certificado energético.\nFacilita o acesso a quem trata do crédito do comprador.\nDecide se há eletrodomésticos incluídos no preço.\nEntre duas casas parecidas e ao mesmo preço, isto costuma inclinar a balança.\n\ninfoimobiliaria.com\n(Link também na bio.)\n\nFonte: Info Imobiliária, «Como determinar o preço de venda da tua casa, em 3 passos».\n\nInfo Imobiliária, by OMNI\n\n#vendercasa #documentos #imobiliário #dicas #infoimobiliária",
+   "stories": [
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261204-video-3.mp4"
+     ],
+     "scheduledAt_utc": "2026-12-04T21:25:00.000Z",
+     "nota": "reutiliza o mp4 (info/m/)"
+    }
+   ],
+   "estado": "pronto",
+   "stories_estado": "por agendar",
+   "titulo_youtube": "Casa pronta a vender: o que ter reunido"
+  },
+  {
+   "data": "2026-12-05",
+   "hora_lisboa": "10:45",
+   "scheduledAt_utc": "2026-12-05T10:45:00.000Z",
+   "tipo": "video",
+   "assunto": "Comissão da imobiliária: quando é devida",
+   "fonte": "Info Imobiliária, «Comissão da imobiliária» (22/11/2026), com a Lei n.º 15/2013 (art. 19.º) e DECO PROteste.",
+   "ficheiros": [
+    "infoimobiliaria-20261205-video-1.mp4"
+   ],
+   "commit": "6367e044b290d028fab8286ad2dac2f9ff043e4b",
+   "legenda": "Quando é devida a comissão da imobiliária?\nEm regra, quando a venda se conclui. Sem venda, não há comissão.\nNo CPCV, se o contrato de mediação o previr.\nCom exclusividade, se a venda falhar por causa imputável a ti.\nSe alguém exercer um direito de preferência, o direito à comissão mantém-se.\n\ninfoimobiliaria.com\n(Link também na bio.)\n\nFonte: Info Imobiliária, «Comissão da imobiliária» (22/11/2026), com a Lei n.º 15/2013 (art. 19.º) e DECO PROteste.\nInformação geral. Confirma com um advogado ou solicitador.\n\nInfo Imobiliária, by OMNI\n\n#comissão #mediaçãoimobiliária #vendercasa #imobiliário #infoimobiliária",
+   "stories": [
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261205-video-1.mp4"
+     ],
+     "scheduledAt_utc": "2026-12-05T11:10:00.000Z",
+     "nota": "reutiliza o mp4 (info/m/)"
+    }
+   ],
+   "estado": "pronto",
+   "stories_estado": "por agendar",
+   "titulo_youtube": "Quando é devida a comissão da imobiliária?"
+  },
+  {
+   "data": "2026-12-05",
+   "hora_lisboa": "13:45",
+   "scheduledAt_utc": "2026-12-05T13:45:00.000Z",
+   "tipo": "video",
+   "assunto": "Mais-valias de casa herdada",
+   "fonte": "Info Imobiliária, página «O que são as mais-valias imobiliárias», com CRN Contabilidade.",
+   "ficheiros": [
+    "infoimobiliaria-20261205-video-2.mp4"
+   ],
+   "commit": "6367e044b290d028fab8286ad2dac2f9ff043e4b",
+   "legenda": "Casa herdada: como contam as mais-valias?\nA data de aquisição é a da morte de quem deixou a casa.\nO valor de compra é o que consta do Imposto do Selo.\nA isenção por reinvestimento aplica-se à venda da tua habitação própria e permanente.\nNuma casa herdada onde nunca viveste, normalmente não se aplica.\n\ninfoimobiliaria.com\n(Link também na bio.)\n\nFonte: Info Imobiliária, página «O que são as mais-valias imobiliárias», com CRN Contabilidade.\nInformação geral. Confirma com um advogado ou solicitador.\n\nInfo Imobiliária, by OMNI\n\n#maisvalias #heranças #IRS #imobiliário #infoimobiliária",
+   "stories": [
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261205-video-2.mp4"
+     ],
+     "scheduledAt_utc": "2026-12-05T14:10:00.000Z",
+     "nota": "reutiliza o mp4 (info/m/)"
+    }
+   ],
+   "estado": "pronto",
+   "stories_estado": "por agendar",
+   "titulo_youtube": "Vendeste uma casa herdada? Como contam as mais-valias"
+  },
+  {
+   "data": "2026-12-05",
+   "hora_lisboa": "15:45",
+   "scheduledAt_utc": "2026-12-05T15:45:00.000Z",
+   "tipo": "carrossel",
+   "assunto": "Como avaliar o trabalho do teu agente",
+   "fonte": "Info Imobiliária, «Como avaliar o trabalho do teu agente imobiliário».",
+   "ficheiros": [
+    "infoimobiliaria-20261205-carrossel-1.jpg",
+    "infoimobiliaria-20261205-carrossel-2.jpg",
+    "infoimobiliaria-20261205-carrossel-3.jpg",
+    "infoimobiliaria-20261205-carrossel-4.jpg",
+    "infoimobiliaria-20261205-carrossel-5.jpg"
+   ],
+   "commit": "6367e044b290d028fab8286ad2dac2f9ff043e4b",
+   "legenda": "Como avaliar o trabalho do teu agente imobiliário.\n1. O preço: pede casas parecidas que se venderam há pouco.\n2. A promoção: pede o plano de marketing.\n3. A negociação e 4. O acompanhamento até à escritura.\nGuarda este carrossel.\n\ninfoimobiliaria.com\n(Link também na bio.)\n\nFonte: Info Imobiliária, «Como avaliar o trabalho do teu agente imobiliário».\n\nInfo Imobiliária, by OMNI\n\n#vendercasa #agenteimobiliário #mediação #imobiliário #infoimobiliária",
+   "stories": [
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261205-carrossel-1-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-12-05T16:15:00.000Z"
+    },
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261205-carrossel-2-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-12-05T16:27:00.000Z"
+    },
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261205-carrossel-3-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-12-05T16:39:00.000Z"
+    },
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261205-carrossel-4-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-12-05T16:51:00.000Z"
+    },
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261205-carrossel-5-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-12-05T17:03:00.000Z"
+    }
+   ],
+   "estado": "pronto",
+   "stories_estado": "por agendar"
+  },
+  {
+   "data": "2026-12-05",
+   "hora_lisboa": "16:20",
+   "scheduledAt_utc": "2026-12-05T16:20:00.000Z",
+   "tipo": "imagem",
+   "assunto": "Isenção temporária de IMI: 3 anos",
+   "fonte": "Info Imobiliária, página «O que é o IMI» e «Isenção de IMI: quem não paga, durante quanto tempo e como pedir».",
+   "ficheiros": [
+    "infoimobiliaria-20261205-imagem.jpg"
+   ],
+   "commit": "6367e044b290d028fab8286ad2dac2f9ff043e4b",
+   "legenda": "3 anos.\nÉ a isenção temporária de IMI na compra de casa própria e permanente.\nO município pode prolongá-la por mais 2 anos.\nPode ser usada duas vezes por contribuinte ou agregado.\n\ninfoimobiliaria.com\n(Link também na bio.)\n\nFonte: Info Imobiliária, página «O que é o IMI» e «Isenção de IMI: quem não paga, durante quanto tempo e como pedir».\nInformação geral. Confirma com um advogado ou solicitador.\n\nInfo Imobiliária, by OMNI\n\n#IMI #isençãoIMI #comprarcasa #imobiliário #infoimobiliária",
+   "stories": [
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261205-imagem-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-12-05T16:50:00.000Z"
+    }
+   ],
+   "estado": "pronto",
+   "stories_estado": "por agendar"
+  },
+  {
+   "data": "2026-12-05",
+   "hora_lisboa": "20:00",
+   "scheduledAt_utc": "2026-12-05T20:00:00.000Z",
+   "tipo": "video",
+   "assunto": "Euribor a 3, 6 ou 12 meses: qual conta",
+   "fonte": "Info Imobiliária, página «Euribor» e «Prestação da casa sobe em novembro...» (2/11/2026), com dados do Banco de Portugal via Lusa/DNoticias (30/10/2026).",
+   "ficheiros": [
+    "infoimobiliaria-20261205-video-3.mp4"
+   ],
+   "commit": "6367e044b290d028fab8286ad2dac2f9ff043e4b",
+   "legenda": "Qual Euribor conta no teu crédito?\nA do prazo de revisão do contrato.\nO banco atualiza a taxa com essa Euribor e soma o spread.\nEm agosto, a de 6 meses era o indexante de cerca de 40% dos créditos a taxa variável, a de 12 meses de 31% e a de 3 meses de 24%.\nConfirma o indexante no teu contrato.\n\ninfoimobiliaria.com\n(Link também na bio.)\n\nFonte: Info Imobiliária, página «Euribor» e «Prestação da casa sobe em novembro...» (2/11/2026), com dados do Banco de Portugal via Lusa/DNoticias (30/10/2026).\n\nInfo Imobiliária, by OMNI\n\n#euribor #créditohabitação #indexante #imobiliário #infoimobiliária",
+   "stories": [
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261205-video-3.mp4"
+     ],
+     "scheduledAt_utc": "2026-12-05T20:25:00.000Z",
+     "nota": "reutiliza o mp4 (info/m/)"
+    }
+   ],
+   "estado": "pronto",
+   "stories_estado": "por agendar",
+   "titulo_youtube": "Euribor a 3, 6 ou 12 meses: qual conta no teu crédito?"
+  },
+  {
+   "data": "2026-12-06",
+   "hora_lisboa": "09:15",
+   "scheduledAt_utc": "2026-12-06T09:15:00.000Z",
+   "tipo": "video",
+   "assunto": "IMI ou IMT: qual é qual",
+   "fonte": "Info Imobiliária, página «O que é o IMI».",
+   "ficheiros": [
+    "infoimobiliaria-20261206-video-1.mp4"
+   ],
+   "commit": "6367e044b290d028fab8286ad2dac2f9ff043e4b",
+   "legenda": "IMI ou IMT: qual é qual?\nO IMT paga-se uma vez, quando compras.\nO IMI paga-se todos os anos, enquanto fores dono. A receita vai para o município.\nQuem arrenda não paga IMI: é do proprietário.\nFaz as contas à compra no site.\n\ninfoimobiliaria.com\n(Link também na bio.)\n\nFonte: Info Imobiliária, página «O que é o IMI».\nInformação geral. Confirma com um advogado ou solicitador.\n\nInfo Imobiliária, by OMNI\n\n#IMI #IMT #impostos #imobiliário #infoimobiliária",
+   "stories": [
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261206-video-1.mp4"
+     ],
+     "scheduledAt_utc": "2026-12-06T09:40:00.000Z",
+     "nota": "reutiliza o mp4 (info/m/)"
+    }
+   ],
+   "estado": "pronto",
+   "stories_estado": "por agendar",
+   "titulo_youtube": "IMI ou IMT: qual é qual?"
+  },
+  {
+   "data": "2026-12-06",
+   "hora_lisboa": "12:00",
+   "scheduledAt_utc": "2026-12-06T12:00:00.000Z",
+   "tipo": "carrossel",
+   "assunto": "Obras antes de vender: o que compensa",
+   "fonte": "Info Imobiliária, «Que obras valorizam a casa antes de vender».",
+   "ficheiros": [
+    "infoimobiliaria-20261206-carrossel-1.jpg",
+    "infoimobiliaria-20261206-carrossel-2.jpg",
+    "infoimobiliaria-20261206-carrossel-3.jpg",
+    "infoimobiliaria-20261206-carrossel-4.jpg",
+    "infoimobiliaria-20261206-carrossel-5.jpg"
+   ],
+   "commit": "6367e044b290d028fab8286ad2dac2f9ff043e4b",
+   "legenda": "Obras antes de vender: o que compensa?\nCosméticas: pintura, chão, torneiras e iluminação. Custam pouco e costumam compensar.\nDe fundo: quarto novo, janelas, cozinha de raiz. Para uma venda próxima, raramente compensam.\nAntes de avançar, pede 2 ou 3 orçamentos e confirma se precisa de licença da câmara.\nGuarda este carrossel.\n\ninfoimobiliaria.com\n(Link também na bio.)\n\nFonte: Info Imobiliária, «Que obras valorizam a casa antes de vender».\n\nInfo Imobiliária, by OMNI\n\n#vendercasa #obras #imobiliário #dicas #infoimobiliária",
+   "stories": [
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261206-carrossel-1-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-12-06T12:30:00.000Z"
+    },
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261206-carrossel-2-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-12-06T12:42:00.000Z"
+    },
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261206-carrossel-3-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-12-06T12:54:00.000Z"
+    },
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261206-carrossel-4-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-12-06T13:06:00.000Z"
+    },
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261206-carrossel-5-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-12-06T13:18:00.000Z"
+    }
+   ],
+   "estado": "pronto",
+   "stories_estado": "por agendar"
+  },
+  {
+   "data": "2026-12-06",
+   "hora_lisboa": "14:45",
+   "scheduledAt_utc": "2026-12-06T14:45:00.000Z",
+   "tipo": "video",
+   "assunto": "Casas de investidores em CIA: venda condicionada",
+   "fonte": "ECO (13/11/2026) e Info Imobiliária, «Casas compradas com benefícios fiscais para arrendar: a venda passa a exigir autorização do Governo». Portaria 500/2026/1, em vigor desde 14/11/2026.",
+   "ficheiros": [
+    "infoimobiliaria-20261206-video-2.mp4"
+   ],
+   "commit": "6367e044b290d028fab8286ad2dac2f9ff043e4b",
+   "legenda": "Casas de investidores com benefícios fiscais para arrendar: a venda tem condições.\nFalamos dos Contratos de Investimento para Arrendamento (Decreto-Lei 97/2026).\nSó podem ser vendidos por inteiro, a um comprador elegível que assuma o contrato.\nÉ preciso avisar o IHRU com 20 dias e haver despacho do ministro da Habitação.\nSem a assunção do contrato na escritura, a venda é nula.\n\ninfoimobiliaria.com\n(Link também na bio.)\n\nFonte: ECO (13/11/2026) e Info Imobiliária, «Casas compradas com benefícios fiscais para arrendar: a venda passa a exigir autorização do Governo». Portaria 500/2026/1, em vigor desde 14/11/2026.\nInformação geral. Confirma com um advogado ou solicitador.\n\nInfo Imobiliária, by OMNI\n\n#arrendamento #habitação #investimento #imobiliário #infoimobiliária",
+   "stories": [
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261206-video-2.mp4"
+     ],
+     "scheduledAt_utc": "2026-12-06T15:10:00.000Z",
+     "nota": "reutiliza o mp4 (info/m/)"
+    }
+   ],
+   "estado": "pronto",
+   "stories_estado": "por agendar",
+   "titulo_youtube": "Casas de investidores com benefícios fiscais: venda condicionada"
+  },
+  {
+   "data": "2026-12-06",
+   "hora_lisboa": "16:15",
+   "scheduledAt_utc": "2026-12-06T16:15:00.000Z",
+   "tipo": "imagem",
+   "assunto": "Mediação: 6 meses se o contrato não disser nada",
+   "fonte": "Info Imobiliária, «Comissão da imobiliária: quanto se paga, quando e o que diz a lei» (22/11/2026), com a Portaria n.º 228/2018.",
+   "ficheiros": [
+    "infoimobiliaria-20261206-imagem.jpg"
+   ],
+   "commit": "6367e044b290d028fab8286ad2dac2f9ff043e4b",
+   "legenda": "6 meses.\nÉ a duração do contrato de mediação, se o contrato não disser nada.\nPode renovar-se, se ficar escrito.\nMarca a data de denúncia no calendário.\n\ninfoimobiliaria.com\n(Link também na bio.)\n\nFonte: Info Imobiliária, «Comissão da imobiliária: quanto se paga, quando e o que diz a lei» (22/11/2026), com a Portaria n.º 228/2018.\nInformação geral. Confirma com um advogado ou solicitador.\n\nInfo Imobiliária, by OMNI\n\n#mediaçãoimobiliária #vendercasa #contrato #imobiliário #infoimobiliária",
+   "stories": [
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261206-imagem-story.jpg"
+     ],
+     "scheduledAt_utc": "2026-12-06T16:45:00.000Z"
+    }
+   ],
+   "estado": "pronto",
+   "stories_estado": "por agendar"
+  },
+  {
+   "data": "2026-12-06",
+   "hora_lisboa": "19:15",
+   "scheduledAt_utc": "2026-12-06T19:15:00.000Z",
+   "tipo": "video",
+   "assunto": "Preço da casa: os dois erros opostos",
+   "fonte": "Info Imobiliária, «Como determinar o preço de venda da tua casa, em 3 passos».",
+   "ficheiros": [
+    "infoimobiliaria-20261206-video-3.mp4"
+   ],
+   "commit": "6367e044b290d028fab8286ad2dac2f9ff043e4b",
+   "legenda": "Preço da casa: os dois erros opostos.\nComeçar alto para negociar: a casa fica parada e, quando baixas, parece que ninguém a quis.\nBaixar por pressa, sem estudo comparativo: podes deixar milhares de euros em cima da mesa.\nAcerta no preço logo no início, com casas comparáveis.\n\ninfoimobiliaria.com\n(Link também na bio.)\n\nFonte: Info Imobiliária, «Como determinar o preço de venda da tua casa, em 3 passos».\n\nInfo Imobiliária, by OMNI\n\n#vendercasa #preçodevenda #errocomum #imobiliário #infoimobiliária",
+   "stories": [
+    {
+     "ficheiros": [
+      "infoimobiliaria-20261206-video-3.mp4"
+     ],
+     "scheduledAt_utc": "2026-12-06T19:40:00.000Z",
+     "nota": "reutiliza o mp4 (info/m/)"
+    }
+   ],
+   "estado": "pronto",
+   "stories_estado": "por agendar",
+   "titulo_youtube": "Preço da casa: os dois erros opostos"
   }
  ],
  "nota_stories": "Stories 10-16 Nov agendadas no Planable (FB+IG, nao aprovadas)."
