@@ -1356,7 +1356,13 @@
    ],
    "commit": "ae33b153bee460939f211dbd1657f47b960909d2",
    "legenda": "Tomate: atenção aos molhos prontos\nOs autores do estudo britânico aconselham cuidado com pizza, molhos prontos e feijão em molho de tomate.\nEstes produtos podem ter muito sal, açúcar e gordura.\nO licopeno está mais disponível nos produtos de tomate cozinhados ou processados.\nNenhum alimento sozinho protege a próstata.\nFontes: Universidade de Bristol (2014) e Prostate Cancer UK. São estudos observacionais: não provam que o tomate previna o cancro.\nFaça o teste de sintomas em prostata.pt (link na bio).\nInformação geral. Não substitui a consulta com um médico.\n#próstata #alimentação #tomate #prostatapt",
-   "estado": "pronto"
+   "estado": "falhou",
+   "planable_ids": [
+    "7FYQnor4KPK6JgAND",
+    "F2TYC5pvensLKfjDg",
+    "8JKFht9QK8J7FNcjR"
+   ],
+   "nota": "Rascunhos criados SEM media e NÃO agendados (FB 7FYQnor4KPK6JgAND, IG F2TYC5pvensLKfjDg, TikTok 8JKFht9QK8J7FNcjR). Erro do Planable: jsDelivr devolveu 403 para o commit ae33b153 (provável limite de tamanho do repositório, m/ tem 91 MB). Reaproveitar estes rascunhos com update_post quando houver URL válido; não criar de novo."
   },
   {
    "data": "2026-12-03",
@@ -1378,7 +1384,8 @@
    ],
    "commit": "ae33b153bee460939f211dbd1657f47b960909d2",
    "legenda": "Braquiterapia no cancro da próstata: o que é\nDois tipos: sementes permanentes ou tubos temporários.\nPara cancro localizado, de risco baixo ou intermédio.\nAnestesia geral ou espinhal; a maioria vai para casa no mesmo dia.\nCom sementes, 50 cm de distância de grávidas e crianças nos primeiros dois meses.\nFontes: Prostate Cancer UK e Macmillan Cancer Support (RU). As práticas em Portugal podem diferir.\nFaça o teste de sintomas em prostata.pt (link na bio).\nInformação geral. Não substitui a consulta com um médico.\n#próstata #tratamento #braquiterapia #prostatapt",
-   "estado": "pronto"
+   "estado": "pronto",
+   "nota": "Não agendada em 23/11: jsDelivr 403 no commit ae33b153; parei após a 1.ª peça para não criar rascunhos sem media."
   },
   {
    "data": "2026-12-03",
@@ -1394,7 +1401,8 @@
    "commit": "ae33b153bee460939f211dbd1657f47b960909d2",
    "legenda": "Urgência urinária no homem: o que fazer\nUrgência é uma vontade súbita e forte de urinar, difícil de adiar.\nBeba 1,5 a 2 litros por dia, repartidos: beber menos agrava, porque a urina concentrada irrita.\nLimite cafeína, bebidas gaseificadas, adoçantes artificiais, álcool, citrinos e picantes.\nQuando surge: pare, sente-se, contraia o pavimento pélvico e respire.\nSangue na urina, jato fraco ou sensação de bexiga que não esvazia: fale com o urologista.\nFontes: hospitais do NHS (RU) e National Association for Continence (EUA). Os valores servem de orientação, não de diagnóstico.\nFaça o teste de sintomas em prostata.pt (link na bio).\nInformação geral. Não substitui a consulta com um médico.\n#próstata #prevenção #urgênciaurinária #prostatapt",
    "estado": "pronto",
-   "capa": "capa-prevencao-urgencia-urinaria.jpg"
+   "capa": "capa-prevencao-urgencia-urinaria.jpg",
+   "nota": "Não agendada em 23/11: jsDelivr 403 no commit ae33b153; parei após a 1.ª peça para não criar rascunhos sem media."
   },
   {
    "data": "2026-12-04",
@@ -1409,7 +1417,8 @@
    ],
    "commit": "ae33b153bee460939f211dbd1657f47b960909d2",
    "legenda": "Medicamentos e sintomas urinários\nAnti-histamínicos, descongestionantes, alguns antidepressivos, diuréticos e opioides podem piorar os sintomas urinários ou causar retenção.\nMuitos estão em remédios para a gripe e alergias vendidos sem receita.\nLeia o rótulo e pergunte ao farmacêutico.\nNão pare um medicamento receitado sem falar com o médico.\nFontes: Kaiser Permanente (EUA), Manual MSD, NHS (RU). Um estudo mostra associação, não prova que os medicamentos causem os sintomas.\nFaça o teste de sintomas em prostata.pt (link na bio).\nInformação geral. Não substitui a consulta com um médico.\n#próstata #tratamento #medicamentos #prostatapt",
-   "estado": "pronto"
+   "estado": "pronto",
+   "nota": "Não agendada em 23/11: jsDelivr 403 no commit ae33b153; parei após a 1.ª peça para não criar rascunhos sem media."
   },
   {
    "data": "2026-12-04",
@@ -1431,7 +1440,8 @@
    ],
    "commit": "ae33b153bee460939f211dbd1657f47b960909d2",
    "legenda": "Ecografia da próstata: para que serve e como é feita\nServe para ver se a próstata está aumentada, medir a urina que fica na bexiga e guiar a biópsia.\nUsa ondas sonoras, sem radiação, e pode repetir-se.\nA abdominal pede bexiga cheia; a transretal usa uma sonda do tamanho de um dedo.\nSe houver biópsia, não pare aspirina ou anticoagulantes sem indicação do médico.\nA ecografia, só por si, não diz se há cancro.\nFontes: RadiologyInfo.org (EUA), Quirónsalud (Espanha) e outras. A preparação varia consoante o tipo de exame e a clínica.\nFaça o teste de sintomas em prostata.pt (link na bio).\nInformação geral. Não substitui a consulta com um médico.\n#próstata #prevenção #ecografia #prostatapt",
-   "estado": "pronto"
+   "estado": "pronto",
+   "nota": "Não agendada em 23/11: jsDelivr 403 no commit ae33b153; parei após a 1.ª peça para não criar rascunhos sem media."
   },
   {
    "data": "2026-12-04",
@@ -1447,7 +1457,8 @@
    "commit": "ae33b153bee460939f211dbd1657f47b960909d2",
    "legenda": "Papas de aveia com banana em 10 minutos\nPara 1 pessoa: 4 colheres de sopa de aveia, 200 ml de leite meio-gordo ou água, 1 banana e canela.\nAqueça o leite ou a água; ao levantar fervura, junte a aveia e baixe o lume.\nCozinhe 4 a 5 minutos, mexendo, até ficar cremosa.\nCubra com banana às rodelas e canela, sem açúcar nem mel.\nFonte: NHS. Nenhum alimento trata nem previne doenças da próstata.\nFaça o teste de sintomas em prostata.pt (link na bio).\nInformação geral. Não substitui a consulta com um médico.\n#próstata #alimentação #receita #prostatapt",
    "estado": "pronto",
-   "capa": "capa-alimentacao-papas-aveia-passos.jpg"
+   "capa": "capa-alimentacao-papas-aveia-passos.jpg",
+   "nota": "Não agendada em 23/11: jsDelivr 403 no commit ae33b153; parei após a 1.ª peça para não criar rascunhos sem media."
   },
   {
    "data": "2026-12-05",
@@ -1462,7 +1473,8 @@
    ],
    "commit": "ae33b153bee460939f211dbd1657f47b960909d2",
    "legenda": "Próstata aumentada ou cancro?\nOs sintomas urinários são muito parecidos: jato fraco, urgência, acordar de noite.\nSó os exames permitem distinguir uma próstata aumentada de um cancro.\nUm jato urinário normal não exclui a doença.\nPode ter as duas situações ao mesmo tempo.\nSangue na urina ou no sémen exige observação urgente.\nFontes: NHS (RU), Temple Health (EUA) e outras. O médico decide os exames.\nFaça o teste de sintomas em prostata.pt (link na bio).\nInformação geral. Não substitui a consulta com um médico.\n#próstata #prevenção #próstataaumentada #prostatapt",
-   "estado": "pronto"
+   "estado": "pronto",
+   "nota": "Não agendada em 23/11: jsDelivr 403 no commit ae33b153; parei após a 1.ª peça para não criar rascunhos sem media."
   },
   {
    "data": "2026-12-05",
@@ -1484,7 +1496,8 @@
    ],
    "commit": "ae33b153bee460939f211dbd1657f47b960909d2",
    "legenda": "Peixe e cancro da próstata: o que dizem os estudos\nO NHS aconselha pelo menos 2 porções de peixe por semana, 1 de peixe gordo.\nContam como gordos: sardinha, cavala, salmão, arenque, espadilha e truta. O atum não conta.\nUma meta-análise de 2010 não encontrou prova forte de que comer peixe reduza o número de casos.\nNum estudo de 2025 com 30 552 homens, a diferença nos casos desapareceu depois do ajuste.\nNenhum estudo permite dizer que a sardinha protege a próstata, nem que faz mal.\nFontes: NHS (RU), American Journal of Clinical Nutrition (2010), Frontiers in Nutrition (2025).\nFaça o teste de sintomas em prostata.pt (link na bio).\nInformação geral. Não substitui a consulta com um médico.\n#próstata #alimentação #peixe #prostatapt",
-   "estado": "pronto"
+   "estado": "pronto",
+   "nota": "Não agendada em 23/11: jsDelivr 403 no commit ae33b153; parei após a 1.ª peça para não criar rascunhos sem media."
   },
   {
    "data": "2026-12-05",
@@ -1500,7 +1513,8 @@
    "commit": "ae33b153bee460939f211dbd1657f47b960909d2",
    "legenda": "TURP: o que pode correr menos bem\nA TURP é a cirurgia mais comum na próstata aumentada: retira parte da próstata por um tubo fino.\nSangue na urina durante alguns dias é comum e pode voltar 10 a 14 dias depois.\nComplicações possíveis: problemas urinários persistentes, hemorragia forte e disfunção erétil.\nMais raras: incontinência ou sonda permanentes; a operação pode ter de ser repetida.\nO sémen deixa de sair na ejaculação, embora a sensação não mude.\nFonte: NHS (RU). Nem toda a gente tem complicações. Em Portugal, pergunte ao urologista o que está disponível.\nFaça o teste de sintomas em prostata.pt (link na bio).\nInformação geral. Não substitui a consulta com um médico.\n#próstata #tratamento #TURP #prostatapt",
    "estado": "pronto",
-   "capa": "capa-tratamento-turp-complicacoes.jpg"
+   "capa": "capa-tratamento-turp-complicacoes.jpg",
+   "nota": "Não agendada em 23/11: jsDelivr 403 no commit ae33b153; parei após a 1.ª peça para não criar rascunhos sem media."
   },
   {
    "data": "2026-12-06",
@@ -1515,7 +1529,8 @@
    ],
    "commit": "ae33b153bee460939f211dbd1657f47b960909d2",
    "legenda": "Peixe em conserva: atenção ao sal\nO NHS avisa que o peixe em conserva e o fumado podem ter muito sal.\nO atum em lata não conta como peixe gordo.\nAs sardinhas e o salmão em conserva têm espinhas comestíveis, com cálcio e fósforo.\nFontes: NHS (RU). As práticas e os rótulos em Portugal podem diferir.\nFaça o teste de sintomas em prostata.pt (link na bio).\nInformação geral. Não substitui a consulta com um médico.\n#próstata #alimentação #peixe #prostatapt",
-   "estado": "pronto"
+   "estado": "pronto",
+   "nota": "Não agendada em 23/11: jsDelivr 403 no commit ae33b153; parei após a 1.ª peça para não criar rascunhos sem media."
   },
   {
    "data": "2026-12-06",
@@ -1537,7 +1552,8 @@
    ],
    "commit": "ae33b153bee460939f211dbd1657f47b960909d2",
    "legenda": "Ejaculação retrógrada: causas e o que fazer\nNa ejaculação retrógrada, o esperma vai para a bexiga em vez de sair pelo pénis; o orgasmo mantém-se.\nSinais: pouco ou nenhum esperma e urina turva na primeira micção depois do sexo.\nNão faz mal à saúde, mas pode dificultar ter filhos.\nCausas: cirurgia à próstata ou à bexiga, diabetes, doenças do sistema nervoso e alguns medicamentos.\nNunca pare um medicamento sozinho: fale com o médico.\nFontes: NHS (RU), Mayo Clinic (EUA), Cancer Research UK e outras. Só o médico distingue os vários tipos de alteração da ejaculação.\nFaça o teste de sintomas em prostata.pt (link na bio).\nInformação geral. Não substitui a consulta com um médico.\n#próstata #tratamento #ejaculação #prostatapt",
-   "estado": "pronto"
+   "estado": "pronto",
+   "nota": "Não agendada em 23/11: jsDelivr 403 no commit ae33b153; parei após a 1.ª peça para não criar rascunhos sem media."
   },
   {
    "data": "2026-12-06",
@@ -1553,7 +1569,8 @@
    "commit": "ae33b153bee460939f211dbd1657f47b960909d2",
    "legenda": "Ressonância magnética da próstata: o que esperar\nA ressonância não usa radiação e demora até 10 minutos.\nO resultado costuma sair em 1 a 2 semanas.\nO contraste pode causar enjoo, dor de cabeça, calor ou sabor metálico.\nSozinha, a ressonância não confirma o cancro: a confirmação vem da biópsia.\nFebre ou impossibilidade de urinar depois dos exames: ligue para o SNS 24 (808 24 24 24).\nFontes: NHS, Cancer Research UK e um folheto de um hospital do RU. A prática em Portugal pode ser diferente.\nFaça o teste de sintomas em prostata.pt (link na bio).\nInformação geral. Não substitui a consulta com um médico.\n#próstata #prevenção #ressonância #prostatapt",
    "estado": "pronto",
-   "capa": "capa-prevencao-ressonancia-biopsia.jpg"
+   "capa": "capa-prevencao-ressonancia-biopsia.jpg",
+   "nota": "Não agendada em 23/11: jsDelivr 403 no commit ae33b153; parei após a 1.ª peça para não criar rascunhos sem media."
   },
   {
    "data": "2026-12-07",
@@ -1568,7 +1585,8 @@
    ],
    "commit": "ae33b153bee460939f211dbd1657f47b960909d2",
    "legenda": "PSA a subir depois do tratamento\nDepois da cirurgia, o PSA costuma ficar indetetável (abaixo de 0,1 ng/ml) em 4 a 8 semanas.\nUma subida costuma ser o primeiro sinal de recidiva, antes de haver sintomas.\nUma análise isolada raramente chega para decidir.\nFontes: Cancer Research UK, Prostate Cancer UK e Macmillan (RU). Em Portugal, o calendário e os limites do seu médico podem diferir.\nFaça o teste de sintomas em prostata.pt (link na bio).\nInformação geral. Não substitui a consulta com um médico.\n#próstata #tratamento #PSA #prostatapt",
-   "estado": "pronto"
+   "estado": "pronto",
+   "nota": "Não agendada em 23/11: jsDelivr 403 no commit ae33b153; parei após a 1.ª peça para não criar rascunhos sem media."
   },
   {
    "data": "2026-12-07",
@@ -1590,7 +1608,8 @@
    ],
    "commit": "ae33b153bee460939f211dbd1657f47b960909d2",
    "legenda": "História familiar e genes BRCA: quando fazem diferença\nPai ou irmão com cancro da próstata: risco cerca de 2,5 vezes superior, segundo a Prostate Cancer UK.\nSão médias de grandes grupos e não dizem o que vai acontecer a cada homem.\nSó cerca de 1 em cada 300 a 400 pessoas tem uma variante nos genes BRCA.\nA maior parte dos cancros da próstata não tem ligação a genes herdados.\nCom mais de 40 anos e história familiar forte, marque consulta.\nFontes: NHS, Prostate Cancer UK e Cancer Research UK (RU). As regras de teste e rastreio são do Reino Unido; o acesso ao teste genético em Portugal não foi verificado.\nFaça o teste de sintomas em prostata.pt (link na bio).\nInformação geral. Não substitui a consulta com um médico.\n#próstata #prevenção #genética #prostatapt",
-   "estado": "pronto"
+   "estado": "pronto",
+   "nota": "Não agendada em 23/11: jsDelivr 403 no commit ae33b153; parei após a 1.ª peça para não criar rascunhos sem media."
   },
   {
    "data": "2026-12-07",
@@ -1606,7 +1625,8 @@
    "commit": "ae33b153bee460939f211dbd1657f47b960909d2",
    "legenda": "Pescada no forno com tomate e legumes\nPara 2 pessoas: 2 postas de pescada (cerca de 150 g cada), tomate, curgete, pimento, cebola e alho.\nMisture os legumes com azeite e louro e leve ao forno a 200 °C durante 15 minutos.\nJunte o tomate, ponha a pescada por cima e regue com limão.\nVolte ao forno 15 a 20 minutos, até o peixe ficar opaco e em lascas.\nFonte: NHS. Nenhum alimento trata nem previne doenças da próstata; os tempos variam com o forno.\nFaça o teste de sintomas em prostata.pt (link na bio).\nInformação geral. Não substitui a consulta com um médico.\n#próstata #alimentação #receita #prostatapt",
    "estado": "pronto",
-   "capa": "capa-alimentacao-pescada-tabuleiro.jpg"
+   "capa": "capa-alimentacao-pescada-tabuleiro.jpg",
+   "nota": "Não agendada em 23/11: jsDelivr 403 no commit ae33b153; parei após a 1.ª peça para não criar rascunhos sem media."
   },
   {
    "data": "2026-12-08",
@@ -1621,7 +1641,8 @@
    ],
    "commit": "ae33b153bee460939f211dbd1657f47b960909d2",
    "legenda": "Dificuldade em começar a urinar\nA causa mais comum nos homens mais velhos é a próstata aumentada.\nHá outras causas: infeção, medicamentos, doenças dos nervos ou ansiedade.\nMesmo que seja ligeira, vale a pena falar com o médico.\nNão consegue urinar de todo? Peça ajuda de imediato.\nFontes: NHS (RU), MedlinePlus (EUA) e outras. Só uma avaliação médica diz qual é a causa.\nFaça o teste de sintomas em prostata.pt (link na bio).\nInformação geral. Não substitui a consulta com um médico.\n#próstata #prevenção #sintomasurinários #prostatapt",
-   "estado": "pronto"
+   "estado": "pronto",
+   "nota": "Não agendada em 23/11: jsDelivr 403 no commit ae33b153; parei após a 1.ª peça para não criar rascunhos sem media."
   },
   {
    "data": "2026-12-08",
@@ -1643,7 +1664,8 @@
    ],
    "commit": "ae33b153bee460939f211dbd1657f47b960909d2",
    "legenda": "Sardinhas assadas com salada de tomate\nPara 2 pessoas: 6 sardinhas frescas, azeite, limão e sal grosso. Salada: 3 tomates, meio pepino, meia cebola roxa e salsa.\nForno a 220 °C; asse as sardinhas 12 a 15 minutos, virando a meio.\nTempere a salada com ervas, azeite, vinagre e pimenta e deixe repousar 5 minutos.\nAcompanhe com batata cozida com casca ou pão integral.\nFonte: NHS (RU). Nenhum alimento trata nem previne doenças da próstata; os tempos variam com o forno.\nFaça o teste de sintomas em prostata.pt (link na bio).\nInformação geral. Não substitui a consulta com um médico.\n#próstata #alimentação #receita #prostatapt",
-   "estado": "pronto"
+   "estado": "pronto",
+   "nota": "Não agendada em 23/11: jsDelivr 403 no commit ae33b153; parei após a 1.ª peça para não criar rascunhos sem media."
   },
   {
    "data": "2026-12-08",
@@ -1659,7 +1681,8 @@
    "commit": "ae33b153bee460939f211dbd1657f47b960909d2",
    "legenda": "Exercícios do pavimento pélvico: o que se sabe\nOs exercícios de Kegel também são para homens: sugerem-se em sintomas urinários e antes ou depois de cirurgia à próstata.\nContraia 3 a 5 segundos e relaxe por completo, a respirar normalmente.\nOs efeitos podem demorar cerca de 12 semanas.\nDepois da prostatectomia, a revisão Cochrane considera a prova contraditória e incerta.\nFeitos em excesso ou mal, podem dar dor pélvica: fale antes com o médico ou fisioterapeuta.\nFontes: CUF, Cleveland Clinic, Cochrane e NHS. As fontes diferem no esquema de exercícios; o médico define o seu.\nFaça o teste de sintomas em prostata.pt (link na bio).\nInformação geral. Não substitui a consulta com um médico.\n#próstata #tratamento #pavimentopélvico #prostatapt",
    "estado": "pronto",
-   "capa": "capa-tratamento-pavimento-pelvico-evidencia.jpg"
+   "capa": "capa-tratamento-pavimento-pelvico-evidencia.jpg",
+   "nota": "Não agendada em 23/11: jsDelivr 403 no commit ae33b153; parei após a 1.ª peça para não criar rascunhos sem media."
   },
   {
    "data": "2026-12-09",
@@ -1674,7 +1697,8 @@
    ],
    "commit": "ae33b153bee460939f211dbd1657f47b960909d2",
    "legenda": "Mediterrânica e próstata: o que se sabe\nUma revisão de 21 estudos de coorte e 12 caso-controlo encontrou cerca de 4% menos risco com maior adesão à dieta mediterrânica.\nÉ uma diferença pequena e observacional: não prova causa e efeito.\nNenhum alimento isolado está provado.\nFontes: Frontiers in Nutrition (2017), Prostate Cancer UK e Cancer Research UK.\nFaça o teste de sintomas em prostata.pt (link na bio).\nInformação geral. Não substitui a consulta com um médico.\n#próstata #alimentação #dietamediterrânica #prostatapt",
-   "estado": "pronto"
+   "estado": "pronto",
+   "nota": "Não agendada em 23/11: jsDelivr 403 no commit ae33b153; parei após a 1.ª peça para não criar rascunhos sem media."
   },
   {
    "data": "2026-12-09",
@@ -1696,7 +1720,8 @@
    ],
    "commit": "ae33b153bee460939f211dbd1657f47b960909d2",
    "legenda": "Estádios do cancro da próstata: o que significam\nO estádio diz onde está o cancro e até onde chegou; o grau (Gleason) diz como as células parecem ao microscópio.\nLocalizado: só dentro da próstata. Localmente avançado: saiu da cápsula, sem metástases à distância.\nMetastático: chegou a gânglios fora da pelve, aos ossos ou a outros órgãos.\nO prognóstico varia muito: se não percebeu o estádio, peça uma nova explicação ao médico.\nFontes: Cancer Research UK, Prostate Cancer UK e Macmillan (RU). O sistema de risco usado em Portugal deve ser confirmado com a equipa.\nFaça o teste de sintomas em prostata.pt (link na bio).\nInformação geral. Não substitui a consulta com um médico.\n#próstata #tratamento #estádio #prostatapt",
-   "estado": "pronto"
+   "estado": "pronto",
+   "nota": "Não agendada em 23/11: jsDelivr 403 no commit ae33b153; parei após a 1.ª peça para não criar rascunhos sem media."
   },
   {
    "data": "2026-12-09",
@@ -1712,7 +1737,8 @@
    "commit": "ae33b153bee460939f211dbd1657f47b960909d2",
    "legenda": "Cistoscopia: o que esperar\nHá dois tipos: flexível, com gel anestésico local, ou rígida, geralmente com anestesia geral.\nA flexível demora 5 a 10 minutos, tem alta no próprio dia e pode conduzir.\nDepois, ardor e algum sangue ao urinar são comuns.\nAvise antes se toma anticoagulantes ou tem válvula cardíaca, stent ou pacemaker.\nFebre, sangramento intenso ou impossibilidade de urinar: contacte o médico.\nFonte: folhetos de hospitais do NHS (RU). Os pormenores variam de hospital para hospital.\nFaça o teste de sintomas em prostata.pt (link na bio).\nInformação geral. Não substitui a consulta com um médico.\n#próstata #prevenção #cistoscopia #prostatapt",
    "estado": "pronto",
-   "capa": "capa-prevencao-cistoscopia.jpg"
+   "capa": "capa-prevencao-cistoscopia.jpg",
+   "nota": "Não agendada em 23/11: jsDelivr 403 no commit ae33b153; parei após a 1.ª peça para não criar rascunhos sem media."
   }
  ]
 }
