@@ -2859,9 +2859,16 @@
      "nota": "reutiliza o mp4 (info/m/)"
     }
    ],
-   "estado": "pronto",
+   "estado": "falhou",
    "stories_estado": "por agendar",
-   "titulo_youtube": "Comissão da imobiliária: quanto custa vender com 5%?"
+   "titulo_youtube": "Comissão da imobiliária: quanto custa vender com 5%?",
+   "nota": "jsDelivr 403 (create e update_post) a 23/11; rascunho sem media no Planable (grupo A9xoaXnrnpKgbbJyr, ids ED3cx9JCriWfKWW4m, zSb4SkhxSwqFucnmn, k6pQAyhfx5LbFxqia, ckT7Je5jMpSK9gx7o); nao agendado",
+   "planable_ids": [
+    "ED3cx9JCriWfKWW4m",
+    "zSb4SkhxSwqFucnmn",
+    "k6pQAyhfx5LbFxqia",
+    "ckT7Je5jMpSK9gx7o"
+   ]
   },
   {
    "data": "2026-11-30",
